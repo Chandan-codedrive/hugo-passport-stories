@@ -1,0 +1,67 @@
+.story-section {
+  position: relative;
+  padding: 100px 0;
+  background: url("../images/hero/Gallery/Gallery/Antarctica/story-bg.jpg") center / cover no-repeat;
+}
+
+.story-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.753);
+}
+
+.story-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.story-section p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  margin-bottom: 15px;
+  color: #222;
+}
+
+/* image layout */
+.story-images {
+  position: relative;
+  padding-left: 30px;
+}
+
+.story-img {
+  width: 80%;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+
+.story-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* floating effect */
+.img-top {
+  transform: rotate(3deg);
+  margin-left: auto;
+}
+
+.img-bottom {
+  margin-top: 40px;
+  transform: rotate(-2deg);
+}
+
+/* responsive */
+@media (max-width: 991px) {
+  .story-images {
+    margin-top: 40px;
+    padding-left: 0;
+  }
+
+  .story-img {
+    width: 100%;
+    transform: none;
+  }
+}

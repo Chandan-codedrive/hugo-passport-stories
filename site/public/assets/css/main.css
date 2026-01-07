@@ -1,0 +1,12 @@
+/* GLOBAL */
+@import url("base.css");
+
+/* SECTIONS */
+@import url("header.css");
+@import url("hero.css");
+@import url("story.css");
+@import url("services.css");
+@import url("gallery.css");
+@import url("footer.css");
+
+

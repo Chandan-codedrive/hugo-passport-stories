@@ -1,0 +1,74 @@
+<section class="services-section">
+  <div class="container">
+
+    <!-- SECTION HEADER -->
+    <div class="row mb-5">
+      <div class="col text-center">
+        <h2 class="services-title">{{ .Params.services.title }}</h2>
+        <h6 class="services-subtitle mt-3">{{ .Params.services.subtitle }}</h6>
+        <p class="services-intro mx-auto">
+          {{ .Params.services.intro }}
+        </p>
+      </div>
+    </div>
+
+    <!-- FEATURES + IMAGES -->
+    <div class="row align-items-start">
+
+      <!-- LEFT FEATURES -->
+      <div class="col-lg-6">
+        <div class="row g-4">
+
+          {{ range .Params.services.features }}
+          <div class="col-md-6 feature-box">
+            <span class="material-icons-outlined">{{ .icon }}</span>
+            <h6>{{ .title }}</h6>
+            <p>{{ .text }}</p>
+          </div>
+          {{ end }}
+
+        </div>
+
+        <a href="{{ .Params.services.cta.button_link }}"
+           class="btn btn-primary mt-4">
+          {{ .Params.services.cta.button_text }}
+        </a>
+      </div>
+
+      <!-- RIGHT IMAGES -->
+      <div class="col-lg-6 services-images">
+        <div class="img-large">
+          <img src="{{ .Params.services.images.main }}" alt="Travel couple">
+        </div>
+
+        <div class="img-small-group">
+          {{ range .Params.services.images.small }}
+          <img src="{{ . }}" alt="Travel image">
+          {{ end }}
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CTA -->
+    <div class="row services-cta align-items-center mt-5">
+      <div class="col-lg-6">
+        <img src="{{ .Params.services.cta.image }}"
+             class="cta-img"
+             alt="Travel CTA">
+      </div>
+
+      <div class="col-lg-6">
+        <blockquote>
+          {{ .Params.services.cta.text }}
+        </blockquote>
+
+        <a href="{{ .Params.services.cta.button_link }}"
+           class="btn btn-primary mt-3">
+          {{ .Params.services.cta.button_text }}
+        </a>
+      </div>
+    </div>
+
+  </div>
+</section>

@@ -5,8 +5,9 @@ backend:
 media_folder: "static/assets/images/uploads"
 public_folder: "/assets/images/uploads"
 
-site_url: "/"
-display_url: "/"
+site_url: "https://passport-stories.netlify.app"
+display_url: "https://passport-stories.netlify.app"
+
 
 collections:
   - name: "home"

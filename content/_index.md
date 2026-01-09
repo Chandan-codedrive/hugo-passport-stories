@@ -22,7 +22,7 @@ hero:
 story:
   title: Our Story
   images:
-    top: /assets/images/hero/Gallery/Gallery/Asia/georgia/story1.jpg
+    top: /assets/images/uploads/chatgpt-image-jan-6-2026-11_33_26-am.png
     bottom: /assets/images/hero/Gallery/Gallery/Europe/Greece/story2.jpg
   paragraphs:
     - >

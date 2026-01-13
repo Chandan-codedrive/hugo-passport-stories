@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/gallery.css">
+</head>
+<body>
+
+  <h1>{{ .Title }}</h1>
+
+  <div>
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.images }}
+  <div class="tour-gallery">
+    {{ range . }}
+      <img src="{{ . }}" alt="Tour Image">
+    {{ end }}
+  </div>
+  {{ end }}
+
+</body>
+</html>

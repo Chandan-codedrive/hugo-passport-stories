@@ -1,0 +1,20 @@
+items:
+  - name: Home
+    url: /
+    weight: 1
+
+  - name: Premade Itinerary
+    url: /premade-itinerary/
+    weight: 2
+
+  - name: Custom Itinerary
+    url: /custom-itinerary/
+    weight: 3
+
+  - name: Our Tour Image Gallery
+    url: /our-tour-image-gallery/
+    weight: 4
+
+  - name: Contact Us
+    url: /contact/
+    weight: 5

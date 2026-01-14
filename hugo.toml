@@ -1,9 +1,3 @@
 baseURL = "https://passport-stories.netlify.app/"
-languageCode = 'en-us'
+languageCode = "en-us"
 title = "Passport Stories"
-
-[[menu.main]]
-name = "Our Tour Image Gallery"
-url = "/our-tour-image-gallery/"
-weight = 4
-

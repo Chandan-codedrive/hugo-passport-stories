@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<link rel="stylesheet" href="/assets/css/gallery.css">
+
+<div class="container py-5">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <div class="tour-gallery">
+    {{ range .Params.images }}
+      <img src="{{ . }}" alt="Tour image">
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

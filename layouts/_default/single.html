@@ -1,27 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ .Title }}</title>
+{{ define "main" }}
 
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/gallery.css">
-</head>
-<body>
+<div class="container py-5">
 
-  <h1>{{ .Title }}</h1>
+  <h1 class="mb-4">{{ .Title }}</h1>
 
-  <div>
+  <div class="page-content">
     {{ .Content }}
   </div>
 
-  {{ with .Params.images }}
-  <div class="tour-gallery">
-    {{ range . }}
-      <img src="{{ . }}" alt="Tour Image">
-    {{ end }}
-  </div>
-  {{ end }}
+</div>
 
-</body>
-</html>
+{{ end }}

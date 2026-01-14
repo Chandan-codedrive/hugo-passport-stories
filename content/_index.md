@@ -12,7 +12,7 @@ header:
       url: /custom-itinerary
       active: true
     - title: Our Tour Image Gallery
-      url: /gallery
+      url: /our-tour-image-gallery
       active: true
     - title: Contact Us
       url: /contact

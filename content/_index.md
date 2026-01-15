@@ -18,7 +18,7 @@ header:
       url: /contact
       active: true
 hero:
-  title: Turn Your Travel Dreams Into Reality Radhey
+  title: Turn Your Travel Dreams Into Reality
 story:
   title: Our Story
   images:

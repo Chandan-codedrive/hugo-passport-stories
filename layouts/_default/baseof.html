@@ -21,6 +21,11 @@
   <link rel="stylesheet" href="/assets/css/main.css">
 
   <!-- {{ block "head" . }}{{ end }} -->
+   {{ if eq .RelPermalink "/contact/" }}
+  <link rel="stylesheet" href="/assets/css/contact.css">
+  {{ end }}
+
+
 </head>
 
 <body>

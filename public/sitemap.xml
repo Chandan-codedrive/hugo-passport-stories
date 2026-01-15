@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

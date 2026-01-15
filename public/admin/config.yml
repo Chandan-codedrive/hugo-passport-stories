@@ -10,20 +10,7 @@ display_url: "https://passport-stories.netlify.app"
 
 
 collections:
-  - name: "menu"
-    label: "Menu"
-    files:
-      - name: "main"
-        label: "Main Menu"
-        file: "data/menu/main.yml"
-        fields:
-          - label: "Menu Items"
-            name: "menu"
-            widget: "list"
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "URL", name: "url", widget: "string" }
-              - { label: "Weight", name: "weight", widget: "number", value_type: "int", min: 1 }
+ 
   - name: "home"
     label: "Home Page"
     files:
@@ -31,22 +18,6 @@ collections:
         label: "Homepage Content"
         file: "content/_index.md"
         fields:
-
-          # HEADER
-          - label: "Header"
-            name: "header"
-            widget: "object"
-            fields:
-              - label: "Logo"
-                name: "logo"
-                widget: "image"
-              - label: "Menu"
-                name: "menu"
-                widget: "list"
-                fields:
-                  - { label: "Title", name: "title", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
-                  - { label: "Active", name: "active", widget: "boolean", default: false }
 
           # HERO
           - label: "Hero"

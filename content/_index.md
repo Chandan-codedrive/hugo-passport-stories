@@ -1,22 +1,7 @@
 ---
 header:
-  logo: /assets/images/uploads/story1.jpg
-  menu:
-    - title: Home
-      url: /
-      active: true
-    - title: Premade Itinerary
-      url: /premade-itinerary
-      active: true
-    - title: Custom Itinerary
-      url: /custom-itinerary
-      active: true
-    - title: Our Tour Image Gallery
-      url: /our-tour-image-gallery
-      active: true
-    - title: Contact Us
-      url: /contact
-      active: true
+  logo: ""
+  menu: []
 hero:
   title: Turn Your Travel Dreams Into Reality
 story:

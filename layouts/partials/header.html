@@ -10,7 +10,13 @@
     <div class="collapse navbar-collapse justify-content-end">
       <ul class="navbar-nav">
 
+        {{/* Get menu safely */}}
         {{ $menu := site.Data.menu.main | default (slice) }}
+
+        {{/* Filter items that have weight */}}
+        {{ $menu = where $menu "weight" "ne" nil }}
+
+        {{/* Sort safely */}}
         {{ range sort $menu "weight" "asc" }}
           <li class="nav-item">
             <a

@@ -3,10 +3,10 @@
 
     <!-- LOGO -->
     <a class="navbar-brand" href="/">
-      <img src="{{ .Site.Params.logo | default "/assets/images/hero/logo.png" }}" height="40" alt="Logo">
+      <img src="/assets/images/hero/logo.jpg" height="40" alt="Passport Stories">
     </a>
 
-    <!-- TOGGLE -->
+    <!-- MOBILE TOGGLE -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -15,12 +15,12 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
 
-        {{ range .Site.Menus.main }}
+        {{ range sort .Site.Data.menu.main "weight" "asc" }}
         <li class="nav-item">
           <a
-            class="nav-link {{ if $.IsMenuCurrent "main" . }}active{{ end }}"
-            href="{{ .URL }}">
-            {{ .Name }}
+            class="nav-link {{ if eq $.RelPermalink .url }}active{{ end }}"
+            href="{{ .url }}">
+            {{ .title }}
           </a>
         </li>
         {{ end }}

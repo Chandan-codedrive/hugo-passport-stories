@@ -11,21 +11,19 @@ display_url: "https://passport-stories.netlify.app"
 
 collections:
   - name: "menu"
-    label: "Main Menu"
+    label: "Menu"
     files:
       - name: "main"
-        label: "Main Navigation"
+        label: "Main Menu"
         file: "data/menu/main.yml"
         fields:
           - label: "Menu Items"
-            name: "items"
+            name: "menu"
             widget: "list"
             fields:
-              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
               - { label: "URL", name: "url", widget: "string" }
-              - { label: "Order", name: "weight", widget: "number", value_type: "int" }
-
-
+              - { label: "Weight", name: "weight", widget: "number" }
   - name: "home"
     label: "Home Page"
     files:

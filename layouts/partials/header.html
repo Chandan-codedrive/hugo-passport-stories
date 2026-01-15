@@ -1,30 +1,63 @@
-<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top shadow-sm">
+<nav class="navbar navbar-expand-lg bg-white shadow-sm sticky-top">
   <div class="container">
 
     <!-- LOGO -->
     <a class="navbar-brand" href="/">
-      <img src="{{ .Site.Params.logo }}" alt="Logo" height="40">
+      <img src="/assets/images/logo.jpg" alt="Passport Stories" height="40">
     </a>
 
+    <!-- MOBILE TOGGLE -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarNav"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
     <!-- MENU -->
-    <div class="collapse navbar-collapse justify-content-end">
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
 
-        {{/* Get menu safely */}}
-        {{ $menu := site.Data.menu.main | default (slice) }}
+        {{ range site.Menus.main }}
+          {{ if .HasChildren }}
 
-        {{/* Filter items that have weight */}}
-        {{ $menu = where $menu "weight" "ne" nil }}
+            <!-- DROPDOWN -->
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+              >
+                {{ .Name }}
+              </a>
 
-        {{/* Sort safely */}}
-        {{ range sort $menu "weight" "asc" }}
-          <li class="nav-item">
-            <a
-              class="nav-link {{ if eq $.RelPermalink .url }}active{{ end }}"
-              href="{{ .url }}">
-              {{ .title }}
-            </a>
-          </li>
+              <ul class="dropdown-menu">
+                {{ range .Children }}
+                <li>
+                  <a class="dropdown-item" href="{{ .URL }}">
+                    {{ .Name }}
+                  </a>
+                </li>
+                {{ end }}
+              </ul>
+            </li>
+
+          {{ else }}
+
+            <!-- NORMAL LINK -->
+            <li class="nav-item">
+              <a
+                class="nav-link {{ if .IsMenuCurrent "main" . }}active{{ end }}"
+                href="{{ .URL }}"
+              >
+                {{ .Name }}
+              </a>
+            </li>
+
+          {{ end }}
         {{ end }}
 
       </ul>

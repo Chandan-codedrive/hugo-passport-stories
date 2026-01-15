@@ -1,6 +1,6 @@
 ---
 header:
-  logo: /assets/images/hero/logo.jpg
+  logo: /assets/images/uploads/story1.jpg
   menu:
     - title: Home
       url: /

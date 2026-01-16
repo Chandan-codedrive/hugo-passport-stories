@@ -2,5 +2,5 @@
 title: Andorra
 region: Europe
 images:
-  - /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
+  - /assets/images/gallery/488576496_9712892042101481_6876510159322792877_n.jpg
 ---

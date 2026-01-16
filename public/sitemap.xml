@@ -4,6 +4,14 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/gallery/albania-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/albania/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/andorra-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/andorra/</loc>
+  </url><url>
     <loc>http://localhost:1313/gallery/armenia/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/gallery/</loc>

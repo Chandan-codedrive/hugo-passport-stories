@@ -11,18 +11,48 @@
   color: #fff;
 }
 
+/* ===============================
+   PEXELS-STYLE MASONRY LAYOUT
+================================ */
+
 .gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
+  column-count: 4;
+  column-gap: 8px; /* small gap like Pexels */
+  padding: 0;
 }
 
+/* Responsive columns */
+@media (max-width: 1200px) {
+  .gallery-grid { column-count: 3; }
+}
+@media (max-width: 768px) {
+  .gallery-grid { column-count: 2; }
+}
+@media (max-width: 480px) {
+  .gallery-grid { column-count: 1; }
+}
+
+.gallery-item {
+  break-inside: avoid;
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+/* IMPORTANT: let image control height */
 .gallery-item img {
   width: 100%;
-  height: auto;
-  object-fit: cover;
-  cursor: pointer;
+  height: auto;        /* KEY */
+  display: block;
+  border-radius: 6px; /* optional */
 }
+
+/* Optional: caption like Pexels */
+.gallery-item p {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #ccc;
+}
+
 
 
 /* ===============================

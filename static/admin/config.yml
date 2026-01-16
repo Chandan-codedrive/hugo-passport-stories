@@ -2,12 +2,11 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "static/assets/images/uploads"
-public_folder: "/assets/images/uploads"
-
 site_url: "https://passport-stories.netlify.app"
 display_url: "https://passport-stories.netlify.app"
 
+media_folder: "static/assets/images/gallery"
+public_folder: "/assets/images/gallery"
 
 collections:
  
@@ -112,15 +111,27 @@ collections:
                   - { label: "Name", name: "name", widget: "string" }
                   - { label: "Link", name: "link", widget: "string" }
   - name: "gallery"
-    label: "Tour Image Gallery"
-    files:
-      - file: "content/our-tour-image-gallery.md"
-        label: "Gallery Page"
-        name: "gallery_page"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - label: "Images"
-            name: "images"
-            widget: "list"
-            field:
-              { label: "Image", name: "image", widget: "image" }
+    label: "Gallery"
+    folder: "content/gallery"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Country Name"
+        name: "title"
+        widget: "string"
+
+      - label: "Region"
+        name: "region"
+        widget: "select"
+        options:
+          - asia
+          - africa
+          - australia
+
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"

@@ -122,11 +122,8 @@ collections:
 
       - label: "Region"
         name: "region"
-        widget: "select"
-        options:
-          - asia
-          - africa
-          - australia
+        widget: "string"
+        hint: "Example: Asia, Europe, Middle East"
 
       - label: "Images"
         name: "images"

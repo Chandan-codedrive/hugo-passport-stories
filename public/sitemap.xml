@@ -4,13 +4,17 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/gallery/armenia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/bahrain/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gallery/gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
   </url><url>

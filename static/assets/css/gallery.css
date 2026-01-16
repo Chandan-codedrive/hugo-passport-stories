@@ -44,6 +44,7 @@
   height: auto;        /* KEY */
   display: block;
   border-radius: 6px; /* optional */
+  cursor: pointer;
 }
 
 /* Optional: caption like Pexels */
@@ -52,6 +53,16 @@
   font-size: 13px;
   color: #ccc;
 }
+
+
+.gallery-item img {
+  transition: transform 0.3s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.02);
+}
+
 
 
 

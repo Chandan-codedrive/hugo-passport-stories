@@ -157,4 +157,4 @@ collections:
               - { label: "URL", name: "url", widget: "string" }
 
           - { label: "Copyright", name: "copyright", widget: "string" }
-          - { label: "Credit", name: "credit", widget: "string" }
+          

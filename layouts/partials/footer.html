@@ -12,9 +12,9 @@
 
         <div class="footer-social mt-3">
           {{ range $footer.Params.social }}
-            <a href="{{ .link }}" aria-label="{{ .label }}" target="_blank">
-              <span class="material-icons-outlined">{{ .icon }}</span>
-            </a>
+          <a href="{{ .link }}" aria-label="{{ .label }}" target="_blank">
+            <span class="material-icons-outlined">{{ .icon }}</span>
+          </a>
           {{ end }}
         </div>
       </div>
@@ -25,9 +25,9 @@
       <div class="col text-center">
         <ul class="footer-nav">
           {{ range $footer.Params.nav }}
-            <li>
-              <a href="{{ .url }}">{{ .title }}</a>
-            </li>
+          <li>
+            <a href="{{ .url }}">{{ .title }}</a>
+          </li>
           {{ end }}
         </ul>
       </div>
@@ -37,7 +37,13 @@
     <div class="row">
       <div class="col text-center small text-muted">
         <p>{{ $footer.Params.copyright }}</p>
-        <p>{{ $footer.Params.credit }}</p>
+        <p class="footer-credit">
+          Design &amp; Development by
+          <a href="https://xnetch.com" target="_blank" rel="noopener">
+            Xnetch
+          </a>
+        </p>
+
       </div>
     </div>
 

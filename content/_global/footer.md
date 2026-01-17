@@ -26,5 +26,4 @@ nav:
     url: /about
 
 copyright: "© 2026 Passport Stories. Crafted with love & travel stories."
-credit: "Design & Development by Xnetch"
 ---

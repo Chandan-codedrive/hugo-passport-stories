@@ -1,0 +1,179 @@
+backend:
+  name: git-gateway
+  branch: main
+
+site_url: "https://passport-stories.netlify.app"
+display_url: "https://passport-stories.netlify.app"
+
+media_folder: "static/assets/images/gallery"
+public_folder: "/assets/images/gallery"
+
+collections:
+ 
+  - name: "home"
+    label: "Home Page"
+    files:
+      - name: "homepage"
+        label: "Homepage Content"
+        file: "content/_index.md"
+        fields:
+
+          # HERO
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Hero Title", name: "title", widget: "string" }
+
+          # STORY
+          - label: "Story"
+            name: "story"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - label: "Paragraphs"
+                name: "paragraphs"
+                widget: "list"
+                field:
+                  { label: "Text", name: "text", widget: "text" }
+              - label: "Images"
+                name: "images"
+                widget: "object"
+                fields:
+                  - { label: "Top Image", name: "top", widget: "image" }
+                  - { label: "Bottom Image", name: "bottom", widget: "image" }
+
+          # SERVICES
+          - label: "Services"
+            name: "services"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Subtitle", name: "subtitle", widget: "string" }
+              - { label: "Intro", name: "intro", widget: "text" }
+
+              - label: "Features"
+                name: "features"
+                widget: "list"
+                fields:
+                  - { label: "Icon", name: "icon", widget: "string" }
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Text", name: "text", widget: "text" }
+
+              - label: "Images"
+                name: "images"
+                widget: "object"
+                fields:
+                  - { label: "Main Image", name: "main", widget: "image" }
+                  - label: "Small Images"
+                    name: "small"
+                    widget: "list"
+                    field: { label: "Image", name: "image", widget: "image" }
+
+              - label: "CTA"
+                name: "cta"
+                widget: "object"
+                fields:
+                  - { label: "Image", name: "image", widget: "image" }
+                  - { label: "Text", name: "text", widget: "text" }
+                  - { label: "Button Text", name: "button_text", widget: "string" }
+                  - { label: "Button Link", name: "button_link", widget: "string" }
+
+          # FOOTER
+          - label: "Footer"
+            name: "footer"
+            widget: "object"
+            fields:
+              - { label: "Brand", name: "brand", widget: "string" }
+
+              - label: "Social Links"
+                name: "social"
+                widget: "list"
+                fields:
+                  - { label: "Icon", name: "icon", widget: "string" }
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+
+              - label: "Navigation"
+                name: "nav"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+
+              - { label: "Copyright", name: "copyright", widget: "string" }
+
+              - label: "Credit"
+                name: "credit"
+                widget: "object"
+                fields:
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+  - name: "gallery"
+    label: "Gallery"
+    folder: "content/gallery"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Country Name"
+        name: "title"
+        widget: "string"
+
+      - label: "Region"
+        name: "region"
+        widget: "string"
+        hint: "Example: Asia, Europe, Middle East"
+
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
+  - label: "Global"
+    name: "global"
+    files:
+      - label: "Footer"
+        name: "footer"
+        file: "content/_global/footer.md"
+        fields:
+          - { label: "Brand Name", name: "brand", widget: "string" }
+
+          - label: "Social Links"
+            name: "social"
+            widget: "list"
+            fields:
+              - { label: "Icon", name: "icon", widget: "string" }
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+
+          - label: "Footer Navigation"
+            name: "nav"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+
+          - { label: "Copyright", name: "copyright", widget: "string" }
+     
+      - label: "Header"
+        name: "header"
+        file: "content/_global/header.md"
+        fields:
+          - label: "Logo"
+            name: "logo"
+            widget: "object"
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt Text", name: "alt", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+
+          - label: "Menu"
+            name: "menu"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+    

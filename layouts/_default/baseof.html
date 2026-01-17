@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,16 +16,19 @@
   <!-- Icons -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
 
-  <!-- Custom CSS -->
+  <!-- Global CSS -->
   <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="stylesheet" href="/assets/css/gallery.css">
 
-  <!-- {{ block "head" . }}{{ end }} -->
-   {{ if eq .RelPermalink "/contact/" }}
-  <link rel="stylesheet" href="/assets/css/contact.css">
+  <!-- Page-specific CSS -->
+  {{ if eq .RelPermalink "/our-tour-image-gallery/" }}
+    <link rel="stylesheet" href="/assets/css/gallery.css">
   {{ end }}
 
+  {{ if eq .RelPermalink "/contact/" }}
+    <link rel="stylesheet" href="/assets/css/contact.css">
+  {{ end }}
 
+  {{ block "head" . }}{{ end }}
 </head>
 
 <body>
@@ -42,7 +44,10 @@
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="/assets/js/main.js"></script>
-  <script src="/assets/js/gallery.js"></script>
+
+  {{ if eq .RelPermalink "/our-tour-image-gallery/" }}
+    <script src="/assets/js/gallery.js"></script>
+  {{ end }}
 
 </body>
 </html>

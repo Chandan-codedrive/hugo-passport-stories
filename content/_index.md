@@ -80,7 +80,7 @@ services:
     button_text: Create Your Itinerary
     button_link: "#create-itinerary"
 footer:
-  brand: Passport Stories
+  brand: Passport Stories.
   social:
     - icon: photo_camera
       label: Instagram

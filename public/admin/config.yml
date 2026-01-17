@@ -157,4 +157,23 @@ collections:
               - { label: "URL", name: "url", widget: "string" }
 
           - { label: "Copyright", name: "copyright", widget: "string" }
-          
+     
+      - label: "Header"
+        name: "header"
+        file: "content/_global/header.md"
+        fields:
+          - label: "Logo"
+            name: "logo"
+            widget: "object"
+            fields:
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt Text", name: "alt", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+
+          - label: "Menu"
+            name: "menu"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+    

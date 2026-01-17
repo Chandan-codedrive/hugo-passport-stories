@@ -28,8 +28,12 @@
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
   </url><url>
+    <loc>http://localhost:1313/_global/header/</loc>
+  </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/thank-you/</loc>
   </url>
 </urlset>

@@ -1,42 +1,5 @@
 {{ define "main" }}
 
-{{ if eq .Section "contact" }}
-
-<section class="contact-page">
-
-  <div class="contact-left">
-    <h1>{{ .Title }}</h1>
-
-    <ul class="contact-info">
-      <li><strong>📍 Address:</strong> Salt Lake, Kolkata, India</li>
-      <li><strong>📞 Phone:</strong> +91 90000 00000</li>
-      <li><strong>✉️ Email:</strong> info@yourdomain.com</li>
-    </ul>
-  </div>
-
-  <div class="contact-right">
-    <form name="contact"
-          method="POST"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          class="contact-form">
-
-      <input type="hidden" name="form-name" value="contact">
-      <input type="hidden" name="bot-field">
-
-      <input type="text" name="name" placeholder="Your Name" required>
-      <input type="email" name="email" placeholder="Your Email" required>
-      <input type="tel" name="phone" placeholder="Phone Number">
-      <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
-
-      <button type="submit">Send Message</button>
-    </form>
-  </div>
-
-</section>
-
-{{ else }}
-
 <!-- All other normal pages -->
 <div class="container py-5">
   <h1 class="mb-4">{{ .Title }}</h1>
@@ -47,4 +10,4 @@
 
 {{ end }}
 
-{{ end }}
+

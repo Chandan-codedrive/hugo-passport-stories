@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travel Visa Checklist Pro</title>
+      <link>http://localhost:1313/products/product-1/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/product-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel Visa Checklist Pro</title>
       <link>http://localhost:1313/products/travel-visa-checklist-pro/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/travel-visa-checklist-pro/</guid>
@@ -98,13 +105,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/our-tour-image-gallery/</guid>
       <description>&lt;p&gt;Welcome to our tour image gallery.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Passport Travel Planner</title>
-      <link>http://localhost:1313/products/product-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/product-1/</guid>
-      <description>&lt;h2 id=&#34;full-description&#34;&gt;Full Description&lt;/h2&gt;&#xA;&lt;p&gt;This is the detailed description of the Passport Travel Planner. It includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Visa checklists and requirements&lt;/li&gt;&#xA;&lt;li&gt;Packing lists for different climates&lt;/li&gt;&#xA;&lt;li&gt;Itinerary templates&lt;/li&gt;&#xA;&lt;li&gt;Budget tracking sheets&lt;/li&gt;&#xA;&lt;li&gt;Emergency contact organizers&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ready To Go Products</title>

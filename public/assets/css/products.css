@@ -1,4 +1,8 @@
 /* Products Section */
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
 .ready-to-go-section {
   background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
   position: relative;

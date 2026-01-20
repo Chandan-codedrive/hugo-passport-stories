@@ -4,7 +4,7 @@ description: AI-powered packing lists tailored to destination, season, and activ
 price: $24.99
 buy_link: https://checkout.example.com/packing-gen
 images:
-  - /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
+  - /assets/images/gallery/488459564_9717423644981654_7157486464747842322_n.jpg
   - /assets/images/gallery/469618918_18341754349183757_2839900508855172395_n.jpg
 category: Travel Preparation
 featured: false

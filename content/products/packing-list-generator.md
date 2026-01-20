@@ -1,26 +1,26 @@
 ---
-title: "Smart Packing List Generator"
-description: "AI-powered packing lists tailored to destination, season, and activities"
+title: Smart Packing List Generator
+description: AI-powered packing lists tailored to destination, season, and activities
 date: 2024-01-05
-tags: 
+tags:
   - packing
   - ai
   - organizer
   - travel-prep
-price: "$24.99"
-buy_link: "https://checkout.example.com/packing-gen"
-image: "/uploads/packing-list.jpg"
+price: $24.99
+buy_link: https://checkout.example.com/packing-gen
+image: /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
 featured: false
-category: "Travel Preparation"
-file_format: "Web App + Mobile App"
-file_size: "App-based"
-pages: "N/A"
-language: "Multi-language"
+category: Travel Preparation
+file_format: Web App + Mobile App
+file_size: App-based
+pages: N/A
+language: Multi-language
 includes:
-  - "Web application access"
-  - "Mobile app (iOS & Android)"
-  - "Offline mode"
-  - "Weather integration"
+  - Web application access
+  - Mobile app (iOS & Android)
+  - Offline mode
+  - Weather integration
 rating: 4.7
 reviews: 203
 ---

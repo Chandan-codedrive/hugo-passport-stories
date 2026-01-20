@@ -12,7 +12,7 @@
         {{ end }}
 
         <!-- Filter Controls -->
-        <div class="row mb-4">
+        <!-- <div class="row mb-4">
             <div class="col-12">
                 <div class="d-flex flex-wrap gap-2 justify-content-center">
                     <button class="btn btn-outline-primary filter-btn active" data-filter="all">All Products</button>
@@ -24,7 +24,7 @@
                     <button class="btn btn-outline-primary filter-btn" data-filter="under-20">Under $20</button>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Products Grid -->
         <div class="row product-grid">
@@ -115,29 +115,10 @@
             {{ end }}
         </div>
 
-        <!-- Admin Add Product Button -->
-        <div class="row mt-4">
-            <div class="col-12 text-center">
-                <a href="/admin/#/collections/products" class="btn btn-outline-secondary">
-                    <i class="fas fa-plus me-2"></i>Add New Product (Admin)
-                </a>
-            </div>
-        </div>
+
     </div>
 </section>
 
 <!-- Quick View Modal -->
-<div class="modal fade" id="quickViewModal" tabindex="-1">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Product Preview</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-            </div>
-            <div class="modal-body" id="quickViewContent">
-                <!-- Content loaded via JavaScript -->
-            </div>
-        </div>
-    </div>
-</div>
+
 {{ end }}

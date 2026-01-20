@@ -10,8 +10,8 @@ menu:
   - title: Home
     url: "/"
 
-  - title: Itineraries
-    url: "/itineraries"
+  - title: Ready To Go
+    url: "/products"
 
   - title: Our Tour Image Gallery
     url: "/our-tour-image-gallery"

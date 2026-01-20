@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
-site_url: "https://passport-stories.netlify.app"
-display_url: "https://passport-stories.netlify.app"
+site_url: "https://passportstories.in"
+display_url: "https://passportstories.in"
 
 media_folder: "static/assets/images/gallery"
 public_folder: "/assets/images/gallery"
@@ -205,7 +205,7 @@ collections:
               default: "Ready To Go Digital Products"
             }
 
-            
+
   - name: "products"
     label: "Products"
     folder: "content/products"

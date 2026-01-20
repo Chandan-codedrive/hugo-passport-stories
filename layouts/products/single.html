@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="container py-5">
+  <div class="row">
+    <div class="col-lg-6">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}" class="img-fluid rounded shadow" alt="{{ .Title }}">
+      {{ else }}
+      <div class="bg-light rounded shadow d-flex align-items-center justify-content-center" style="height: 400px;">
+        <i class="fas fa-box-open fa-5x text-muted"></i>
+      </div>
+      {{ end }}
+    </div>
+    <div class="col-lg-6">
+      <nav aria-label="breadcrumb" class="mb-4">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/products/">Products</a></li>
+          <li class="breadcrumb-item active">{{ .Title }}</li>
+        </ol>
+      </nav>
+      
+      <h1 class="mb-3">{{ .Title }}</h1>
+      <p class="lead text-muted mb-4">{{ .Description }}</p>
+      
+      <div class="mb-4">
+        {{ range .Params.tags }}
+        <span class="badge bg-primary me-1">{{ . }}</span>
+        {{ end }}
+      </div>
+      
+      <div class="content mb-5">
+        {{ .Content }}
+      </div>
+      
+      <div class="card border-success">
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-center">
+            <div>
+              <h3 class="text-success mb-0">{{ .Params.price }}</h3>
+              <small class="text-muted">Instant digital download</small>
+            </div>
+            <a href="{{ .Params.buy_link }}" class="btn btn-success btn-lg px-5" target="_blank" rel="noopener">
+              <i class="fas fa-shopping-cart me-2"></i>Buy Now
+            </a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mt-4 pt-4 border-top">
+        <a href="/products/" class="btn btn-outline-secondary">
+          <i class="fas fa-arrow-left me-2"></i>Back to All Products
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

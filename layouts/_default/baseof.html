@@ -16,6 +16,9 @@
   <!-- Icons -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
 
+  <!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
   <!-- Global CSS -->
   <link rel="stylesheet" href="/assets/css/main.css">
 
@@ -27,6 +30,11 @@
   {{ if eq .RelPermalink "/contact/" }}
     <link rel="stylesheet" href="/assets/css/contact.css">
   {{ end }}
+
+  <!-- Products-specific assets -->
+<link rel="stylesheet" href="/assets/css/products.css">
+<script src="/assets/js/products.js"></script>
+
 
   {{ block "head" . }}{{ end }}
 </head>

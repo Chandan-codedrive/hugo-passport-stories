@@ -177,3 +177,83 @@ collections:
               - { label: "Title", name: "title", widget: "string" }
               - { label: "URL", name: "url", widget: "string" }
     
+  - name: "products"
+    label: "Products"
+    folder: "content/products"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { 
+          label: "Tags", 
+          name: "tags", 
+          widget: "list",
+          default: ["travel", "digital"]
+        }
+      - { label: "Price", name: "price", widget: "string" }
+      - { label: "Buy Link", name: "buy_link", widget: "string" }
+      - { 
+          label: "Featured Image", 
+          name: "image", 
+          widget: "image",
+          choose_url: true,
+          media_library: {
+            config: {
+              multiple: false
+            }
+          }
+        }
+      - { 
+          label: "Featured Product", 
+          name: "featured", 
+          widget: "boolean",
+          default: false
+        }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "File Format", name: "file_format", widget: "string" }
+      - { label: "File Size", name: "file_size", widget: "string" }
+      - { label: "Pages", name: "pages", widget: "string" }
+      - { label: "Language", name: "language", widget: "string" }
+      - { 
+          label: "Includes", 
+          name: "includes", 
+          widget: "list",
+          default: ["Digital file"]
+        }
+      - { label: "Rating", name: "rating", widget: "number", value_type: "float", min: 0, max: 5, step: 0.1 }
+      - { label: "Review Count", name: "reviews", widget: "number", value_type: "int" }
+      - { 
+          label: "Body", 
+          name: "body", 
+          widget: "markdown",
+          buttons: ["bold", "italic", "link", "heading-two", "heading-three", "bulleted-list", "numbered-list"]
+        }
+      
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Homepage"
+        name: "home"
+        file: "content/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { 
+              label: "Body", 
+              name: "body", 
+              widget: "markdown",
+              buttons: ["bold", "italic", "link", "heading-two", "heading-three"]
+            }
+          - { 
+              label: "Show Products Section", 
+              name: "show_products", 
+              widget: "boolean",
+              default: true
+            }
+          - { 
+              label: "Section Title", 
+              name: "products_title", 
+              widget: "string",
+              default: "Ready To Go Digital Products"
+            }

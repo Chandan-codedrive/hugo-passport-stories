@@ -1,36 +1,41 @@
 {{ define "main" }}
 <div class="container py-5">
   <div class="row">
-    <div class="col-lg-6">
+<div class="col-lg-6">
 
   {{ with .Params.images }}
-  <div id="productGallery" class="carousel slide rounded shadow" data-bs-ride="carousel">
 
-    <div class="carousel-inner">
-      {{ range $i, $img := . }}
-      <div class="carousel-item {{ if eq $i 0 }}active{{ end }}">
-        <img src="{{ $img }}" class="d-block w-100 rounded" alt="{{ $.Title }}">
-      </div>
-      {{ end }}
-    </div>
-
-    {{ if gt (len .) 1 }}
-    <button class="carousel-control-prev" type="button" data-bs-target="#productGallery" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon"></span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#productGallery" data-bs-slide="next">
-      <span class="carousel-control-next-icon"></span>
-    </button>
-    {{ end }}
-
+  <!-- Main Image -->
+  <div class="product-main-img mb-3">
+    <img
+      id="mainProductImage"
+      src="{{ index . 0 }}"
+      class="img-fluid rounded shadow zoom-img"
+      alt="{{ $.Title }}">
   </div>
+
+  <!-- Thumbnail Images -->
+  <div class="product-thumbs">
+    {{ range . }}
+      <img
+        src="{{ . }}"
+        class="thumb-img"
+        onclick="changeProductImage('{{ . }}')"
+        alt="{{ $.Title }}">
+    {{ end }}
+  </div>
+
   {{ else }}
+
   <div class="bg-light rounded shadow d-flex align-items-center justify-content-center" style="height:400px;">
     <i class="fas fa-box-open fa-5x text-muted"></i>
   </div>
+
   {{ end }}
 
 </div>
+
+
 
     <div class="col-lg-6">
       <nav aria-label="breadcrumb" class="mb-4">
@@ -39,20 +44,20 @@
           <li class="breadcrumb-item active">{{ .Title }}</li>
         </ol>
       </nav>
-      
+
       <h1 class="mb-3">{{ .Title }}</h1>
       <p class="lead text-muted mb-4">{{ .Description }}</p>
-      
+
       <div class="mb-4">
         {{ range .Params.tags }}
         <span class="badge bg-primary me-1">{{ . }}</span>
         {{ end }}
       </div>
-      
+
       <div class="content mb-5">
         {{ .Content }}
       </div>
-      
+
       <div class="card border-success">
         <div class="card-body">
           <div class="d-flex justify-content-between align-items-center">
@@ -66,7 +71,7 @@
           </div>
         </div>
       </div>
-      
+
       <div class="mt-4 pt-4 border-top">
         <a href="/products/" class="btn btn-outline-secondary">
           <i class="fas fa-arrow-left me-2"></i>Back to All Products

@@ -152,3 +152,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Create JSON endpoint for products
 // Add this to your Hugo config or create a new layout
+
+function changeProductImage(src) {
+  document.getElementById("mainProductImage").src = src;
+}

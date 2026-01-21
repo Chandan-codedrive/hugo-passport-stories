@@ -2,14 +2,36 @@
 <div class="container py-5">
   <div class="row">
     <div class="col-lg-6">
-      {{ if .Params.image }}
-      <img src="{{ .Params.image }}" class="img-fluid rounded shadow" alt="{{ .Title }}">
-      {{ else }}
-      <div class="bg-light rounded shadow d-flex align-items-center justify-content-center" style="height: 400px;">
-        <i class="fas fa-box-open fa-5x text-muted"></i>
+
+  {{ with .Params.images }}
+  <div id="productGallery" class="carousel slide rounded shadow" data-bs-ride="carousel">
+
+    <div class="carousel-inner">
+      {{ range $i, $img := . }}
+      <div class="carousel-item {{ if eq $i 0 }}active{{ end }}">
+        <img src="{{ $img }}" class="d-block w-100 rounded" alt="{{ $.Title }}">
       </div>
       {{ end }}
     </div>
+
+    {{ if gt (len .) 1 }}
+    <button class="carousel-control-prev" type="button" data-bs-target="#productGallery" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#productGallery" data-bs-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </button>
+    {{ end }}
+
+  </div>
+  {{ else }}
+  <div class="bg-light rounded shadow d-flex align-items-center justify-content-center" style="height:400px;">
+    <i class="fas fa-box-open fa-5x text-muted"></i>
+  </div>
+  {{ end }}
+
+</div>
+
     <div class="col-lg-6">
       <nav aria-label="breadcrumb" class="mb-4">
         <ol class="breadcrumb">

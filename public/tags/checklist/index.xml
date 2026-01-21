@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travel Visa Checklist Pro</title>
+      <link>http://localhost:1313/products/product-1/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/product-1/</guid>
+      <description>&lt;p&gt;hi&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travel Visa Checklist Pro</title>
       <link>http://localhost:1313/products/travel-visa-checklist-pro/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/travel-visa-checklist-pro/</guid>

@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/products/product-1/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/products/travel-visa-checklist-pro/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -61,8 +64,6 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/digital/</loc>
-  </url><url>
     <loc>http://localhost:1313/_global/footer/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
@@ -71,14 +72,8 @@
   </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/product-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/planner/</loc>
-  </url><url>
     <loc>http://localhost:1313/ready-to-go/</loc>
   </url><url>
     <loc>http://localhost:1313/thank-you/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/travel/</loc>
   </url>
 </urlset>

@@ -78,6 +78,8 @@
   </url><url>
     <loc>http://localhost:1313/thank-you/</loc>
   </url><url>
+    <loc>http://localhost:1313/custom-itinerary/traveling-upto-10-days/</loc>
+  </url><url>
     <loc>http://localhost:1313/custom-itinerary/5-days-kerala/</loc>
   </url>
 </urlset>

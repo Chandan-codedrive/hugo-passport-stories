@@ -18,3 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
+function toggleWhatsApp() {
+  const popup = document.querySelector(".wa-popup");
+  if (!popup) return;
+
+  popup.style.display =
+    popup.style.display === "block" ? "none" : "block";
+}

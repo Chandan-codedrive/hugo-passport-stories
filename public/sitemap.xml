@@ -46,8 +46,6 @@
   </url><url>
     <loc>http://localhost:1313/_global/</loc>
   </url><url>
-    <loc>http://localhost:1313/custom-itinerary/5-days-kerala/</loc>
-  </url><url>
     <loc>http://localhost:1313/gallery/albania-1/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/albania/</loc>
@@ -79,5 +77,7 @@
     <loc>http://localhost:1313/ready-to-go/</loc>
   </url><url>
     <loc>http://localhost:1313/thank-you/</loc>
+  </url><url>
+    <loc>http://localhost:1313/custom-itinerary/5-days-kerala/</loc>
   </url>
 </urlset>

@@ -243,3 +243,43 @@ collections:
       - { label: "Reviews", name: "reviews", widget: "number" }
 
       - { label: "Content", name: "body", widget: "markdown" }
+
+  - name: "custom_itinerary"
+    label: "Custom Itinerary"
+    folder: "content/custom-itinerary"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+
+    fields:
+      - { label: "Package Title", name: "title", widget: "string" }
+
+      - { label: "Duration (Days)", name: "days", widget: "number" }
+
+      - { 
+          label: "Short Description", 
+          name: "short_description", 
+          widget: "text" 
+        }
+
+      - { label: "Price", name: "price", widget: "string" }
+
+      - { 
+          label: "Featured Image", 
+          name: "featured_image", 
+          widget: "image" 
+        }
+
+      - label: "Gallery Images"
+        name: "images"
+        widget: "list"
+        field:
+          { label: "Image", name: "image", widget: "image" }
+
+      - { label: "Buy / Enquiry Link", name: "buy_link", widget: "string" }
+
+      - { 
+          label: "Itinerary Details (Day-wise)", 
+          name: "body", 
+          widget: "markdown" 
+        }

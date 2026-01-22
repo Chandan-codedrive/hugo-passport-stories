@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<section class="container py-5">
+  <h2 class="text-center mb-4">Custom Itinerary Packages</h2>
+
+  <div class="row g-4">
+    {{ range .Pages }}
+    <div class="col-md-4">
+      <div class="card itinerary-card h-100">
+
+        <img src="{{ .Params.featured_image }}"
+             class="card-img-top"
+             alt="{{ .Title }}">
+
+        <div class="card-body">
+          <h5>{{ .Title }}</h5>
+          <small class="text-muted">{{ .Params.days }} Days</small>
+          <p class="mt-2">{{ .Params.short_description }}</p>
+        </div>
+
+        <div class="card-footer d-flex gap-2">
+          <a href="{{ .RelPermalink }}"
+             class="btn btn-outline-primary w-50">
+             View Details
+          </a>
+
+          <a href="{{ .Params.buy_link }}"
+             class="btn btn-primary w-50">
+             Buy
+          </a>
+        </div>
+
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

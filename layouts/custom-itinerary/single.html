@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<section class="container py-5">
+  <div class="row">
+
+    <!-- LEFT : GALLERY -->
+    <div class="col-md-6">
+      <img id="mainImage"
+           src="{{ (index .Params.images 0).image }}"
+           class="img-fluid rounded mb-3">
+
+      <div class="product-thumbs d-flex gap-2">
+        {{ range .Params.images }}
+        <img src="{{ .image }}"
+             class="thumb-img"
+             onclick="changeMainImage('{{ .image }}')">
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- RIGHT : CONTENT -->
+    <div class="col-md-6">
+      <h1>{{ .Title }}</h1>
+      <p class="text-muted">{{ .Params.days }} Days Custom Itinerary</p>
+      <h4>₹{{ .Params.price }}</h4>
+
+      <div class="content mt-3">
+        {{ .Content }}
+      </div>
+
+      <a href="{{ .Params.buy_link }}"
+         class="btn btn-lg btn-primary mt-4">
+         Buy This Package
+      </a>
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

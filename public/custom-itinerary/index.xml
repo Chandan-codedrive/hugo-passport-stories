@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom-Itineraries on Passport Stories</title>
+    <link>http://localhost:1313/custom-itinerary/</link>
+    <description>Recent content in Custom-Itineraries on Passport Stories</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/custom-itinerary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Days Kerala Custom Itinerary</title>
+      <link>http://localhost:1313/custom-itinerary/5-days-kerala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/custom-itinerary/5-days-kerala/</guid>
+      <description>&lt;h2 id=&#34;day-1--kochi&#34;&gt;Day 1 – Kochi&lt;/h2&gt;&#xA;&lt;p&gt;Arrival and local sightseeing&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-2--munnar&#34;&gt;Day 2 – Munnar&lt;/h2&gt;&#xA;&lt;p&gt;Tea gardens and waterfalls&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-3--munnar&#34;&gt;Day 3 – Munnar&lt;/h2&gt;&#xA;&lt;p&gt;Eravikulam National Park&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-4--alleppey&#34;&gt;Day 4 – Alleppey&lt;/h2&gt;&#xA;&lt;p&gt;Houseboat experience&lt;/p&gt;&#xA;&lt;h2 id=&#34;day-5--departure&#34;&gt;Day 5 – Departure&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

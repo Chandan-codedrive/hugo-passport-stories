@@ -16,3 +16,5 @@ document.addEventListener("DOMContentLoaded", () => {
   loadSection("footer-section", "sections/footer.html");
 
 });
+
+

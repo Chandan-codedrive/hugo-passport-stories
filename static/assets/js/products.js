@@ -152,7 +152,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Create JSON endpoint for products
 // Add this to your Hugo config or create a new layout
-
+// for reay to go products
 function changeProductImage(src) {
   document.getElementById("mainProductImage").src = src;
+}
+
+// for custom itinary
+// Change main image on thumbnail click
+function changeMainImage(src) {
+  const mainImg = document.getElementById("mainImage");
+  if (mainImg) {
+    mainImg.src = src;
+  }
 }

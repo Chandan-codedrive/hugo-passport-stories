@@ -8,6 +8,10 @@ display_url: "https://passportstories.in"
 media_folder: "static/assets/images/gallery"
 public_folder: "/assets/images/gallery"
 
+logo:
+  src: https://passportstories.in/assets/images/hero/logo.jpg
+  show_in_header: true
+
 collections:
  
   - name: "home"

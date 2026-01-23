@@ -1,15 +1,23 @@
+{{ $productsPage := .Site.GetPage "section" "products" }}
+
 {{ $products := where .Site.RegularPages "Section" "products" }}
 {{ if $products }}
 <section class="ready-to-go-section py-5" id="digital-products">
     <div class="container">
-        {{ if .Params.products_title }}
-        <div class="row mb-5">
-            <div class="col-12 text-center">
-                <h2 class="display-5 fw-bold mb-3">{{ .Params.products_title }}</h2>
-                <p class="lead text-muted">Digital travel products available for instant download</p>
-            </div>
-        </div>
-        {{ end }}
+       {{ if $productsPage }}
+  <div class="row mb-5">
+    <div class="col-12 text-center">
+      <h2 class="display-5 fw-bold mb-3">
+        {{ $productsPage.Title }}
+      </h2>
+
+      <p class="lead text-muted">
+        {{ $productsPage.Params.description }}
+      </p>
+    </div>
+  </div>
+{{ end }}
+
 
         <!-- Filter Controls -->
         <!-- <div class="row mb-4">
@@ -118,6 +126,14 @@
 
     </div>
 </section>
+{{ if .IsHome }}
+  <div class="text-center mt-4">
+    <a href="/products/" class="btn btn-outline-primary btn-lg">
+      View More
+    </a>
+  </div>
+{{ end }}
+
 
 <!-- Quick View Modal -->
 

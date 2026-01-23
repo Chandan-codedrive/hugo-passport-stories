@@ -78,7 +78,7 @@ services:
       world like we do — but don’t have the time to plan your dream trip — we’re
       here to make it easy for you!
     button_text: Create Your Itinerary
-    button_link: "#create-itinerary"
+    button_link: /custom-itinerary
 footer:
   brand: Passport Stories.
   social:

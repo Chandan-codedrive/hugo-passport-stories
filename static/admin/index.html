@@ -19,6 +19,25 @@
   }
 </script>
 
+
+<!-- admin panel logo -->
+ <style>
+      /* Hide default Decap logo */
+      .css-1f7nhiq,
+      .css-1jz7z4v {
+        display: none !important;
+      }
+
+      /* Add your logo */
+      body::before {
+        content: "";
+        display: block;
+        height: 90px;
+        background: url("assets/images/xnetch.jpg") center no-repeat;
+        background-size: contain;
+        margin: 40px auto 20px;
+      }
+    </style>
   </head>
   <body>
     <!-- Include the script that builds the page and powers Decap CMS -->

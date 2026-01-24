@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="container-fluid py-5">
+  <h1 class="text-center mb-4">{{ .Title }}</h1>
+
+  {{ if .Params.images }}
+    <div class="masonry">
+      {{ range .Params.images }}
+        <div class="masonry-item">
+          <img src="{{ . }}" loading="lazy" class="img-fluid">
+        </div>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="text-center text-muted">No images found.</p>
+  {{ end }}
+</section>
+{{ end }}

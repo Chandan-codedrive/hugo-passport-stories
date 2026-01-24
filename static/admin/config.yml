@@ -107,28 +107,7 @@ collections:
 
               - { label: "Copyright", name: "copyright", widget: "string" }
 
-  - name: "gallery"
-    label: "Gallery"
-    folder: "content/gallery"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - label: "Country Name"
-        name: "title"
-        widget: "string"
-
-      - label: "Region"
-        name: "region"
-        widget: "string"
-        hint: "Example: Asia, Europe, Middle East"
-
-      - label: "Images"
-        name: "images"
-        widget: "list"
-        field:
-          label: "Image"
-          name: "image"
-          widget: "image"
+ 
   - label: "Global"
     name: "global"
     files:
@@ -174,34 +153,6 @@ collections:
               - { label: "Title", name: "title", widget: "string" }
               - { label: "URL", name: "url", widget: "string" }
   
-      
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "Homepage"
-        name: "home"
-        file: "content/_index.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { 
-              label: "Body", 
-              name: "body", 
-              widget: "markdown",
-              buttons: ["bold", "italic", "link", "heading-two", "heading-three"]
-            }
-          - { 
-              label: "Show Products Section", 
-              name: "show_products", 
-              widget: "boolean",
-              default: true
-            }
-          - { 
-              label: "Section Title", 
-              name: "products_title", 
-              widget: "string",
-              default: "Ready To Go Digital Products"
-            }
-
 
   - name: "products"
     label: "Products"
@@ -280,3 +231,43 @@ collections:
           name: "body", 
           widget: "markdown" 
         }
+
+
+# Gallery Collection
+  - name: "gallery"
+    label: "Gallery"
+    files:
+      - name: "gallery_home"
+        label: "Gallery Home"
+        file: "content/gallery/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "body", widget: "markdown" }
+
+  - name: "continents"
+    label: "Continents"
+    folder: "content/gallery"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image" }
+      - { label: "Description", name: "body", widget: "markdown" }
+  
+  - name: "countries"
+    label: "Countries"
+    folder: "content/gallery"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Country Name", name: "title", widget: "string" }
+      - { label: "Continent", name: "continent", widget: "select",
+          options: ["asia", "europe", "middle-east", "africa"] }
+
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - { label: "Image", name: "image", widget: "image" }
+
+      - { label: "Description", name: "body", widget: "markdown" }

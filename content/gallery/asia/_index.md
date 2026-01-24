@@ -1,4 +1,6 @@
 ---
 title: "Asia"
-cover: "/assets/images/uploads/armenia1.jpg"
+thumbnail: "/images/uploads/continents/asia.jpg"
+description: "Explore the diverse countries of Asia"
+layout: gallery
 ---

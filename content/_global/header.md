@@ -17,7 +17,7 @@ menu:
     url: "/custom-itinerary"
 
   - title: Our Tour Image Gallery
-    url: "/our-tour-image-gallery"
+    url: "/gallery"
 
   - title: Contact Us
     url: "/contact"

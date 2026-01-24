@@ -1,0 +1,129 @@
+{{ define "main" }}
+
+<!-- WHY PLAN WITH US -->
+<section class="container py-5">
+  <div class="row text-center mb-4">
+    <div class="col">
+      <h2>Why plan with us?</h2>
+      <p class="text-muted mt-2">
+        Travel planning made simple, personal, and stress-free
+      </p>
+    </div>
+  </div>
+
+  <div class="row text-center g-4">
+    <div class="col-md-4">
+      <i class="bi bi-stars icon-circle"></i>
+      <h5 class="mt-3">15+ Years Experience</h5>
+      <p class="text-muted">
+        Deep travel knowledge to design memorable journeys.
+      </p>
+    </div>
+
+    <div class="col-md-4">
+      <i class="bi bi-person-heart icon-circle"></i>
+      <h5 class="mt-3">Personalised Planning</h5>
+      <p class="text-muted">
+        Every itinerary is crafted based on your style.
+      </p>
+    </div>
+
+    <div class="col-md-4">
+      <i class="bi bi-clock-history icon-circle"></i>
+      <h5 class="mt-3">Save Time & Stress</h5>
+      <p class="text-muted">
+        Skip endless research — we do it for you.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<!-- HOW IT WORKS -->
+<section class="container py-5">
+  <div class="row text-center mb-5">
+    <div class="col">
+      <h2>How it works</h2>
+      <p class="text-muted">
+        Simple steps to plan your personalised trip
+      </p>
+    </div>
+  </div>
+
+  <div class="row text-center g-4">
+
+    <div class="col-md-4">
+      <i class="bi bi-map icon-circle"></i>
+      <h5 class="mt-3">Choose Package</h5>
+      <p class="text-muted">
+        Select a package based on travel days.
+      </p>
+    </div>
+
+    <div class="col-md-4">
+      <i class="bi bi-ui-checks icon-circle"></i>
+      <h5 class="mt-3">Tell Us Your Style</h5>
+      <p class="text-muted">
+        Fill a short questionnaire after booking.
+      </p>
+    </div>
+
+    <div class="col-md-4">
+      <i class="bi bi-pencil-square icon-circle"></i>
+      <h5 class="mt-3">We Plan Your Trip</h5>
+      <p class="text-muted">
+        Custom itinerary designed and refined with you.
+      </p>
+    </div>
+
+    <div class="col-md-6 mx-auto mt-4">
+      <i class="bi bi-bag-check icon-circle"></i>
+      <h5 class="mt-3">Pack Your Bags</h5>
+      <p class="text-muted">
+        Final itinerary ready — book and travel.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+
+<!-- Custom Itinerary Packages -->
+<section class="container py-5 mt-4">
+  <h2 class="text-center mb-4">Our Packages</h2>
+
+  <div class="row g-4 mt-3">
+    {{ range .Pages }}
+    <div class="col-md-4">
+      <div class="card itinerary-card h-100">
+
+        <img src="{{ .Params.featured_image }}"
+             class="card-img-top"
+             alt="{{ .Title }}">
+
+        <div class="card-body">
+          <h5>{{ .Title }}</h5>
+          <small class="text-muted">{{ .Params.days }} Days</small>
+          <p class="mt-2">{{ .Params.short_description }}</p>
+        </div>
+
+        <div class="card-footer d-flex gap-2">
+          <a href="{{ .RelPermalink }}"
+             class="btn btn-outline-primary w-50">
+             View Details
+          </a>
+
+          <a href="{{ .Params.buy_link }}"
+             class="btn btn-primary w-50">
+             Buy
+          </a>
+        </div>
+
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

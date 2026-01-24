@@ -1,0 +1,140 @@
+{{ $productsPage := .Site.GetPage "section" "products" }}
+
+{{ $products := where .Site.RegularPages "Section" "products" }}
+{{ if $products }}
+<section class="ready-to-go-section py-5" id="digital-products">
+    <div class="container">
+       {{ if $productsPage }}
+  <div class="row mb-5">
+    <div class="col-12 text-center">
+      <h2 class="display-5 fw-bold mb-3">
+        {{ $productsPage.Title }}
+      </h2>
+
+      <p class="lead text-muted">
+        {{ $productsPage.Params.description }}
+      </p>
+    </div>
+  </div>
+{{ end }}
+
+
+        <!-- Filter Controls -->
+        <!-- <div class="row mb-4">
+            <div class="col-12">
+                <div class="d-flex flex-wrap gap-2 justify-content-center">
+                    <button class="btn btn-outline-primary filter-btn active" data-filter="all">All Products</button>
+                    <button class="btn btn-outline-primary filter-btn" data-filter="featured">Featured</button>
+                    <button class="btn btn-outline-primary filter-btn" data-filter="travel-planning">Travel
+                        Planning</button>
+                    <button class="btn btn-outline-primary filter-btn" data-filter="memory-keeping">Memory
+                        Keeping</button>
+                    <button class="btn btn-outline-primary filter-btn" data-filter="under-20">Under $20</button>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- Products Grid -->
+        <div class="row product-grid">
+            {{ range $products }}
+            <div class="col-lg-4 col-md-6 mb-4 product-item" data-category="{{ .Params.category | urlize }}"
+                data-featured="{{ .Params.featured }}" data-price="{{ replace .Params.price " $" "" }}">
+                <div class="product-card card h-100 shadow-sm border-0" data-slug="{{ .Slug }}">
+                    <!-- Product Badge -->
+                    {{ if .Params.featured }}
+                    <div class="position-absolute top-0 start-0 m-3">
+                        <span class="badge bg-warning text-dark px-3 py-2">⭐ Featured</span>
+                    </div>
+                    {{ end }}
+
+                    <!-- Product Image -->
+                    <div class="product-image-container position-relative overflow-hidden" style="height: 250px;">
+                        {{ if .Params.image }}
+                        <img src="{{ .Params.image }}" class="card-img-top h-100 w-100" alt="{{ .Title }}"
+                            style="object-fit: cover;">
+                        {{ else }}
+                        <div class="card-img-top bg-gradient h-100 d-flex align-items-center justify-content-center">
+                            <i class="fas fa-box-open fa-4x text-light opacity-50"></i>
+                        </div>
+                        {{ end }}
+                        <div class="image-overlay"></div>
+
+                        <!-- Quick Actions -->
+                        <div class="quick-actions position-absolute top-50 start-50 translate-middle">
+                            <a href="{{ .Permalink }}" target="_blank" class="btn btn-light btn-sm">
+                                <i class="fas fa-eye me-1"></i> Quick View
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Product Body -->
+                    <div class="card-body d-flex flex-column">
+                        <div class="mb-2">
+                            {{ range first 2 .Params.tags }}
+                            <span class="badge bg-light text-dark me-1">{{ . }}</span>
+                            {{ end }}
+                        </div>
+
+                        <h5 class="card-title fw-bold mb-2">{{ .Title }}</h5>
+                        <p class="card-text text-muted flex-grow-1">{{ .Description }}</p>
+
+                        <!-- Rating -->
+                        {{ with .Params.rating }}
+                        <div class="mb-3">
+                            <div class="d-flex align-items-center">
+                                <div class="star-rating me-2">
+                                    {{ $rating := . }}
+                                    {{ range seq 1 5 }}
+                                    {{ if le . $rating }}
+                                    <i class="fas fa-star text-warning"></i>
+                                    {{ else if lt (sub . $rating) 1 }}
+                                    <i class="fas fa-star-half-alt text-warning"></i>
+                                    {{ else }}
+                                    <i class="far fa-star text-warning"></i>
+                                    {{ end }}
+                                    {{ end }}
+                                </div>
+                                <small class="text-muted">
+                                    {{ $rating }} ({{ $.Params.reviews }} reviews)
+                                </small>
+                            </div>
+                        </div>
+                        {{ end }}
+
+
+                        <!-- Price & Action -->
+                        <div class="d-flex justify-content-between align-items-center mt-auto">
+                            <div>
+                                <span class="text-success fw-bold fs-4">{{ .Params.price }}</span>
+                                <small class="text-muted d-block">{{ .Params.file_format }}</small>
+                            </div>
+                            <div class="d-flex gap-2">
+                                <a href="{{ .Permalink }}" class="btn btn-outline-primary">
+                                    <i class="fas fa-info-circle me-1"></i> Details
+                                </a>
+                                <a href="{{ .Params.buy_link }}" class="btn btn-success" target="_blank">
+                                    <i class="fas fa-shopping-cart me-1"></i> Buy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+
+
+    </div>
+</section>
+{{ if .IsHome }}
+  <div class="text-center mt-4">
+    <a href="/products/" class="btn btn-outline-primary btn-lg">
+      View More
+    </a>
+  </div>
+{{ end }}
+
+
+<!-- Quick View Modal -->
+
+{{ end }}

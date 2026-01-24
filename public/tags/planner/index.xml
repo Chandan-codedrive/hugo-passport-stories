@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planner on Passport Stories</title>
+    <link>http://localhost:1313/tags/planner/</link>
+    <description>Recent content in Planner on Passport Stories</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/planner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passport Travel Planner</title>
+      <link>http://localhost:1313/products/product-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/product-1/</guid>
+      <description>&lt;h2 id=&#34;full-description&#34;&gt;Full Description&lt;/h2&gt;&#xA;&lt;p&gt;This is the detailed description of the Passport Travel Planner. It includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Visa checklists and requirements&lt;/li&gt;&#xA;&lt;li&gt;Packing lists for different climates&lt;/li&gt;&#xA;&lt;li&gt;Itinerary templates&lt;/li&gt;&#xA;&lt;li&gt;Budget tracking sheets&lt;/li&gt;&#xA;&lt;li&gt;Emergency contact organizers&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

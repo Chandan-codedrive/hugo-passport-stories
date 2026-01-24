@@ -1,0 +1,14 @@
+{{- $product := . -}}
+{
+  "title": {{ $product.Title | jsonify }},
+  "description": {{ $product.Description | jsonify }},
+  "slug": {{ $product.Slug | jsonify }},
+  "image": {{ $product.Params.image | default "" | jsonify }},
+  "price": {{ $product.Params.price | default "" | jsonify }},
+  "tags": {{ $product.Params.tags | jsonify }},
+  "file_format": {{ $product.Params.file_format | default "" | jsonify }},
+  "file_size": {{ $product.Params.file_size | default "" | jsonify }},
+  "includes": {{ $product.Params.includes | default (slice) | jsonify }},
+  "buy_link": {{ $product.Params.buy_link | default "" | jsonify }},
+  "content": {{ truncate 200 ($product.Content | plainify) | jsonify }}
+}

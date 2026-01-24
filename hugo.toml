@@ -1,44 +1,4 @@
-baseURL = "https://passport-stories.netlify.app/"
+baseURL = "https://passportstories.in/"
 languageCode = "en-us"
 title = "Passport Stories"
 
-[menu]
-
-  # MAIN MENU
-  [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
-
-  [[menu.main]]
-  name = "Itineraries"
-  identifier = "itineraries"
-  weight = 2
-
-    [[menu.main]]
-    parent = "itineraries"
-    name = "Premade Itinerary"
-    url = "/premade-itinerary/"
-    weight = 1
-
-    [[menu.main]]
-    parent = "itineraries"
-    name = "Custom Itinerary"
-    url = "/custom-itinerary/"
-    weight = 2
-
-  [[menu.main]]
-  name = "Our Tour Image Gallery"
-  url = "/our-tour-image-gallery/"
-  weight = 3
-
-  [[menu.main]]
-  name = "Contact Us"
-  url = "/contact/"
-  weight = 4
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true

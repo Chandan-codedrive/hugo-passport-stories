@@ -5,17 +5,101 @@
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: var(--dark);
   background: #fff;
 }
 
-h1, h2, h3, h4 {
+h1 {
   font-family: "Style Script", cursive;
 }
+
 
 a {
   text-decoration: none;
   color: inherit;
 }
 
+
+
+/* watsapp */
+/* WhatsApp Widget */
+#whatsapp-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  font-family: Arial, sans-serif;
+}
+
+/* Floating Icon */
+.wa-float {
+  width: 55px;
+  height: 55px;
+  background: #25D366;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 6px 16px rgba(0,0,0,.3);
+}
+
+.wa-float img {
+  width: 30px;
+}
+
+/* Popup Box */
+.wa-popup {
+  width: 280px;
+  background: #1e2a24;
+  color: #fff;
+  border-radius: 10px;
+  padding: 12px;
+  position: absolute;
+  bottom: 70px;
+  right: 0;
+  display: none;
+}
+
+/* Header */
+.wa-header {
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wa-close {
+  cursor: pointer;
+}
+
+/* Body */
+.wa-body {
+  margin: 12px 0;
+  background: #2f4f3f;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* Button */
+.wa-btn {
+  display: block;
+  text-align: center;
+  background: #25D366;
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* custom itinary circle */
+.icon-circle {
+  font-size: 2.2rem;
+  color: #0d6efd;
+  background: rgba(13,110,253,0.1);
+  padding: 25px;
+  border-radius: 20%;
+  display: inline-block;
+}

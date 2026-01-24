@@ -46,6 +46,8 @@
   </url><url>
     <loc>http://localhost:1313/_global/</loc>
   </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
+  </url><url>
     <loc>http://localhost:1313/gallery/asia/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -61,8 +63,6 @@
     <loc>http://localhost:1313/gallery/asia/japan/</loc>
   </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/ready-to-go/</loc>
   </url><url>

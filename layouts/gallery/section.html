@@ -2,9 +2,9 @@
 <h1>{{ .Title }}</h1>
 
 <div class="grid">
-  {{ range .Sections }}
+  {{ range .Pages }}
     <a href="{{ .RelPermalink }}" class="card">
-      {{ with .Params.cover }}
+      {{ with index .Params.images 0 }}
         <img src="{{ . }}" alt="">
       {{ end }}
       <h3>{{ .Title }}</h3>

@@ -1,49 +1,9 @@
 {{ define "main" }}
-<section class="continent-page py-5">
-    <div class="container">
-        <!-- Back Button -->
-        <a href="/gallery/" class="btn btn-outline-secondary mb-4">
-            ← Back to Continents
-        </a>
-        
-        <h1 class="mb-3">{{ .Title }}</h1>
-        {{ if .Description }}
-        <p class="lead text-muted mb-5">{{ .Description }}</p>
-        {{ end }}
-        
-        {{ if .Content }}
-        <div class="continent-content mb-5">
-            {{ .Content }}
-        </div>
-        {{ end }}
-        
-        <div class="row g-4">
-            {{ range .Pages.ByTitle }}
-            {{ $thumbnail := .Params.thumbnail | default "/images/uploads/default-country.jpg" }}
-            <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                <a href="{{ .RelPermalink }}" class="text-decoration-none">
-                    <div class="country-card card border-0 shadow-sm h-100 hover-lift">
-                        <div class="card-img-container">
-                            <img src="{{ $thumbnail }}" 
-                                 class="card-img-top" 
-                                 alt="{{ .Title }}"
-                                 loading="lazy">
-                        </div>
-                        <div class="card-body text-center">
-                            <h6 class="card-title mb-0">{{ .Title }}</h6>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            {{ else }}
-            <div class="col-12 text-center py-5">
-                <div class="alert alert-info">
-                    <h4>No countries added yet</h4>
-                    <p class="mb-0">Add countries through Decap CMS to see them here.</p>
-                </div>
-            </div>
-            {{ end }}
-        </div>
-    </div>
-</section>
+<h1>{{ .Title }}</h1>
+
+<div class="grid">
+  {{ range .Params.images }}
+    <img src="{{ . }}" alt="">
+  {{ end }}
+</div>
 {{ end }}

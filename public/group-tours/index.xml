@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group-Tours on Passport Stories</title>
+    <link>http://localhost:1313/group-tours/</link>
+    <description>Recent content in Group-Tours on Passport Stories</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/group-tours/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tanzania Safari Group Tour</title>
+      <link>http://localhost:1313/group-tours/tanzania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-tours/tanzania/</guid>
+      <description>&lt;p&gt;This is a guided group safari covering Tanzania’s top wildlife parks with experienced local guides.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<section class="product-single">
+
+  <div class="container">
+
+    <div class="single-grid">
+
+      <div>
+        <img src="{{ .Params.image }}">
+      </div>
+
+      <div>
+        <h1>{{ .Title }}</h1>
+
+        <div class="price">From {{ .Params.price }}</div>
+
+        <p>{{ .Params.description }}</p>
+
+        <div class="content">
+          {{ .Content }}
+        </div>
+
+        <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn big">
+          Book Now
+        </a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+{{ end }}

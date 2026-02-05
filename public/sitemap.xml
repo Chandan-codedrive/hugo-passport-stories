@@ -46,12 +46,6 @@
   </url><url>
     <loc>http://localhost:1313/_global/</loc>
   </url><url>
-    <loc>http://localhost:1313/gallery/affrica/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gallery/asia/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gallery/aso/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
@@ -60,11 +54,9 @@
   </url><url>
     <loc>http://localhost:1313/_global/footer/</loc>
   </url><url>
-    <loc>http://localhost:1313/_global/header/</loc>
-  </url><url>
-    <loc>http://localhost:1313/gallery/asia/japan/</loc>
-  </url><url>
     <loc>http://localhost:1313/gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/_global/header/</loc>
   </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
   </url><url>

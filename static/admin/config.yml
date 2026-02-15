@@ -244,7 +244,6 @@ collections:
       - label: "Images"
         name: "images"
         widget: "list"
-<<<<<<< HEAD
         fields:
           - { label: "Image", name: "image", widget: "image" }
 
@@ -265,9 +264,3 @@ collections:
       - { label: "Price", name: "price", widget: "string" }
       - { label: "Book Now Link", name: "buy_link", widget: "string" }
       - { label: "Tour Details", name: "body", widget: "markdown" }
-=======
-        required: false
-        field:
-          { label: "Image", name: "image", widget: "image" }
-      - { label: "Description", name: "body", widget: "markdown", required: false }
->>>>>>> 7d2d5cf079189e7a25db5ebb52d5f73e6928beea

@@ -4,6 +4,8 @@ header:
   menu: []
 hero:
   title: Turn Your Travel Dreams Into Reality
+
+
 story:
   title: Our Story
   images:
@@ -107,3 +109,10 @@ footer:
     name: Xnetch
     link: https://xnetch.com
 ---
+---
+title: "Group Tours"
+---
+
+## Explore Our Group Tours
+
+[View All Tours →](/group-tours/)

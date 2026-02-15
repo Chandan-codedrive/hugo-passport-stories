@@ -249,18 +249,17 @@ collections:
 
       - { label: "Description", name: "body", widget: "markdown" }
 
-
-
-collections:
-  - name: "group-tours"
+- name: "group-tours"
     label: "Group Tours"
     folder: "content/group-tours"
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Tour Title", name: "title", widget: "string" }
-      - { label: "Cover Image", name: "image", widget: "image" }
-      - { label: "Short Description", name: "description", widget: "text" }
-      - { label: "Price", name: "price", widget: "string" }
-      - { label: "Book Now Link", name: "buy_link", widget: "string" }
-      - { label: "Tour Details", name: "body", widget: "markdown" }
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Price (Euros)", name: "price", widget: "number", value_type: "int", min: 0}
+      - {label: "Book Now Link", name: "buy_link", widget: "string", hint: "Enter your Gumroad checkout link"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Tour Details", name: "body", widget: "markdown"}
+      - {label: "Duration", name: "duration", widget: "string", required: false}
+      - {label: "Location", name: "location", widget: "string", required: false}

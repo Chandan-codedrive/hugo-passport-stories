@@ -1,37 +1,57 @@
+<!-- layouts/group-tours/list.html -->
+
 {{ define "main" }}
-
-<section class="products-page">
-  <div class="container">
-
-    <h1>Group Tours</h1>
-
-    <div class="product-grid">
-
-      {{ range .Pages }}
-
-      <div class="product-card">
-
-        <a href="{{ .Permalink }}">
-          <img src="{{ .Params.image }}">
-        </a>
-
-        <h3>{{ .Title }}</h3>
-        <p>{{ .Params.description }}</p>
-
-        <div class="price">From {{ .Params.price }}</div>
-
-        <div class="card-buttons">
-          <a href="{{ .Permalink }}" class="details-btn">View Details</a>
-          <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn">Book Now</a>
-        </div>
-
-      </div>
-
+<div class="container mx-auto px-4 py-12">
+  <h1 class="text-4xl font-bold text-center mb-4">Our Current Tour Offerings</h1>
+  <p class="text-xl text-center text-gray-600 mb-12">Join our guided group or private tours for a seamless travel experience tailored to your style.</p>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {{ range .Pages }}
+    <div class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+      {{ if .Params.image }}
+      <a href="{{ .Permalink }}" class="block">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-64 object-cover">
+      </a>
       {{ end }}
-
+      
+      <div class="p-6">
+        <div class="mb-4">
+          <span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded">On Your Dates!!</span>
+        </div>
+        
+        <a href="{{ .Permalink }}" class="block hover:text-blue-600 transition-colors">
+          <h2 class="text-2xl font-semibold mb-3">{{ .Title }}</h2>
+        </a>
+        
+        <p class="text-gray-600 mb-4">{{ .Description }}</p>
+        
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <span class="text-gray-500 text-sm">From</span>
+            <span class="text-2xl font-bold text-blue-600">Euros {{ .Params.price }}</span>
+          </div>
+          {{ if .Params.duration }}
+          <span class="text-sm text-gray-500">{{ .Params.duration }}</span>
+          {{ end }}
+        </div>
+        
+        <a href="{{ .Params.buy_link }}" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           class="block w-full bg-green-600 text-white text-center py-3 rounded-lg hover:bg-green-700 transition-colors font-semibold">
+          Book Now
+        </a>
+      </div>
     </div>
-
+    {{ end }}
   </div>
-</section>
-
+  
+  {{ if gt (len .Pages) 6 }}
+  <div class="text-center mt-12">
+    <button class="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold">
+      View More Tours
+    </button>
+  </div>
+  {{ end }}
+</div>
 {{ end }}

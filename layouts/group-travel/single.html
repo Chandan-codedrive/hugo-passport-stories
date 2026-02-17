@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="travel-single">
+
+  <img src="{{ .Params.image }}" class="hero">
+
+  <h1>{{ .Title }}</h1>
+
+  <p class="price">Price: {{ .Params.price }}</p>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn">
+    Buy Now
+  </a>
+
+</section>
+{{ end }}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group-Travels on Passport Stories</title>
+    <link>http://localhost:1313/group-travel/</link>
+    <description>Recent content in Group-Travels on Passport Stories</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/group-travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Egypt Nile Cruise Private Tour</title>
+      <link>http://localhost:1313/group-travel/egypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-travel/egypt/</guid>
+      <description>&lt;p&gt;Full Egypt itinerary here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finland Christmas Tour</title>
+      <link>http://localhost:1313/group-travel/finland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-travel/finland/</guid>
+      <description>&lt;p&gt;Full itinerary details here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iceland Northern Lights Tour</title>
+      <link>http://localhost:1313/group-travel/iceland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-travel/iceland/</guid>
+      <description>&lt;p&gt;Witness magical Northern Lights and explore glaciers and volcanoes.&lt;/p&gt;&#xA;&lt;p&gt;Highlights:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aurora hunting&lt;/li&gt;&#xA;&lt;li&gt;Ice cave tour&lt;/li&gt;&#xA;&lt;li&gt;Golden Circle&lt;/li&gt;&#xA;&lt;li&gt;Blue Lagoon spa&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Japan Cherry Blossom Tour</title>
+      <link>http://localhost:1313/group-travel/japan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-travel/japan/</guid>
+      <description>&lt;p&gt;Experience the beauty of Sakura season in Tokyo, Kyoto, and Osaka.&lt;br&gt;&#xA;Visit ancient temples, modern cities, and traditional villages.&lt;/p&gt;&#xA;&lt;p&gt;Highlights:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tokyo city tour&lt;/li&gt;&#xA;&lt;li&gt;Mt. Fuji day trip&lt;/li&gt;&#xA;&lt;li&gt;Kyoto temples&lt;/li&gt;&#xA;&lt;li&gt;Bullet train experience&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Morocco Private Tour</title>
+      <link>http://localhost:1313/group-travel/morocco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-travel/morocco/</guid>
+      <description>&lt;p&gt;Full Morocco itinerary here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thailand Beach &amp; Culture Tour</title>
+      <link>http://localhost:1313/group-travel/thailand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group-travel/thailand/</guid>
+      <description>&lt;p&gt;Explore Bangkok, Phuket, and Krabi with beautiful beaches and nightlife.&lt;/p&gt;&#xA;&lt;p&gt;Highlights:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Island hopping&lt;/li&gt;&#xA;&lt;li&gt;Phi Phi Islands&lt;/li&gt;&#xA;&lt;li&gt;Floating markets&lt;/li&gt;&#xA;&lt;li&gt;Temple visits&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

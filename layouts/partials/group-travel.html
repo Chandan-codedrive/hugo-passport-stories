@@ -1,0 +1,28 @@
+<section class="group-travel">
+
+  <h2>Our Current Tour Offerings</h2>
+
+  <div class="travel-grid">
+    {{ range first 4 ( where site.RegularPages "Section" "group-travel") }}
+
+    <div class="travel-card">
+
+      <img src="{{ .Params.image }}" alt="{{ .Title }}">
+
+      <div class="travel-info">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Params.description }}</p>
+
+        <p class="price">From {{ .Params.price }}</p>
+
+        <a href="{{ .RelPermalink }}" class="btn">
+          Book Now
+        </a>
+
+      </div>
+    </div>
+
+    {{ end }}
+  </div>
+
+</section>

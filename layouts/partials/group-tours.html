@@ -1,0 +1,47 @@
+<section class="products-home">
+  <div class="container">
+
+    <div class="section-head">
+      <h2>Group Tours</h2>
+      <p>Join our guided group tours for unforgettable experiences.</p>
+
+      <a href="/group-tours/" class="btn btn-outline-primary">
+        View All
+      </a>
+    </div>
+
+    <div class="product-grid">
+
+      {{ range first 6 (where .Site.RegularPages "Section" "group-tours") }}
+
+      <div class="product-card">
+
+        {{ if .Params.badge }}
+        <span class="tour-badge">{{ .Params.badge }}</span>
+        {{ end }}
+
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.image }}">
+        </a>
+
+        <h3>{{ .Title }}</h3>
+
+        <p>{{ .Params.description }}</p>
+
+        <div class="price">From {{ .Params.price }}</div>
+
+        <div class="card-buttons">
+          <a href="{{ .Permalink }}" class="details-btn">View Details</a>
+          <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn">
+            Book Now
+          </a>
+        </div>
+
+      </div>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+</section>

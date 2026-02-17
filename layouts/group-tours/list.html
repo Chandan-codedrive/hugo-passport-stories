@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<section class="products-page">
+  <div class="container">
+
+    <h1>Group Tours</h1>
+
+    <div class="product-grid">
+
+      {{ range .Pages }}
+
+      <div class="product-card">
+
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.image }}">
+        </a>
+
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Params.description }}</p>
+
+        <div class="price">From {{ .Params.price }}</div>
+
+        <div class="card-buttons">
+          <a href="{{ .Permalink }}" class="details-btn">View Details</a>
+          <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn">Book Now</a>
+        </div>
+
+      </div>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

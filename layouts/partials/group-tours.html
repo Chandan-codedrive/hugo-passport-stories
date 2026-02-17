@@ -1,47 +1,48 @@
-<section class="products-home">
-  <div class="container">
+<div class="product-card product-item">
 
-    <div class="section-head">
-      <h2>Group Tours</h2>
-      <p>Join our guided group tours for unforgettable experiences.</p>
+  <!-- IMAGE -->
+  <div class="position-relative product-image-container">
 
-      <a href="/group-tours/" class="btn btn-outline-primary">
-        View All
-      </a>
+    {{ if .Params.badge }}
+    <span class="badge bg-danger position-absolute top-0 start-0 m-2">
+      {{ .Params.badge }}
+    </span>
+    {{ end }}
+
+    <a href="{{ .Permalink }}">
+      <img src="{{ .Params.image }}" class="img-fluid" alt="{{ .Title }}">
+    </a>
+
+    <div class="image-overlay"></div>
+
+  </div>
+
+  <!-- CONTENT -->
+  <div class="p-3">
+
+    <h5>{{ .Title }}</h5>
+
+    <p class="small text-muted">
+      {{ .Params.description }}
+    </p>
+
+    <div class="fw-bold mb-2">
+      From {{ .Params.price }}
     </div>
 
-    <div class="product-grid">
+    <div class="d-flex gap-2">
 
-      {{ range first 6 (where .Site.RegularPages "Section" "group-tours") }}
+      <a href="{{ .Permalink }}" class="btn btn-outline-primary btn-sm w-50">
+        View Details
+      </a>
 
-      <div class="product-card">
-
-        {{ if .Params.badge }}
-        <span class="tour-badge">{{ .Params.badge }}</span>
-        {{ end }}
-
-        <a href="{{ .Permalink }}">
-          <img src="{{ .Params.image }}">
-        </a>
-
-        <h3>{{ .Title }}</h3>
-
-        <p>{{ .Params.description }}</p>
-
-        <div class="price">From {{ .Params.price }}</div>
-
-        <div class="card-buttons">
-          <a href="{{ .Permalink }}" class="details-btn">View Details</a>
-          <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn">
-            Book Now
-          </a>
-        </div>
-
-      </div>
-
-      {{ end }}
+      <a href="{{ .Params.buy_link }}" target="_blank"
+         class="btn btn-dark btn-sm w-50">
+        Book Now
+      </a>
 
     </div>
 
   </div>
-</section>
+
+</div>

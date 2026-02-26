@@ -262,3 +262,11 @@ collections:
       - { label: "Price", name: "price", widget: "string" }
       - { label: "External Buy Link", name: "buy_link", widget: "string" }
       - { label: "Tour Details", name: "body", widget: "markdown" }
+
+      - label: "Tour Tabs"
+        name: "tour_tabs"
+        widget: "list"
+        summary: "{{fields.title}}"
+        fields:
+          - { label: "Tab Title", name: "title", widget: "string" }
+          - { label: "Tab Content", name: "content", widget: "markdown" }

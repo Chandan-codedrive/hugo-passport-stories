@@ -56,8 +56,6 @@
   </url><url>
     <loc>http://localhost:1313/custom-itinerary/</loc>
   </url><url>
-    <loc>http://localhost:1313/group-travel/egypt/</loc>
-  </url><url>
     <loc>http://localhost:1313/group-travel/finland/</loc>
   </url><url>
     <loc>http://localhost:1313/_global/footer/</loc>
@@ -81,6 +79,8 @@
     <loc>http://localhost:1313/ready-to-go/</loc>
   </url><url>
     <loc>http://localhost:1313/group-tours/tanzania/</loc>
+  </url><url>
+    <loc>http://localhost:1313/group-travel/egypt/</loc>
   </url><url>
     <loc>http://localhost:1313/group-travel/thailand/</loc>
   </url><url>

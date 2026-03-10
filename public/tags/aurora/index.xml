@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Group-Tours on Passport Stories</title>
-    <link>http://localhost:1313/group-tours/</link>
-    <description>Recent content in Group-Tours on Passport Stories</description>
+    <title>Aurora on Passport Stories</title>
+    <link>http://localhost:1313/tags/aurora/</link>
+    <description>Recent content in Aurora on Passport Stories</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/group-tours/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/aurora/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Northern Lights Private Tour 2026</title>
       <link>http://localhost:1313/group-tours/northern-lights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/group-tours/northern-lights/</guid>
       <description>&lt;p&gt;This 7 nights/8 days guided winter adventure in Finland is crafted for dreamers and lovers of snow covered landscapes.&lt;/p&gt;&#xA;&lt;p&gt;Enjoy husky safaris, glass igloos and magical Northern Lights.&lt;/p&gt;&#xA;&lt;h2 id=&#34;day&#34;&gt;day&lt;/h2&gt;&#xA;&lt;p&gt;Day 1: Arrival in Helsinki&lt;br&gt;&#xA;Day 2: Lapland Tour&lt;br&gt;&#xA;Day 3: Northern Lights Safari&lt;/p&gt;&#xA;&lt;h2 id=&#34;accommodation&#34;&gt;accommodation&lt;/h2&gt;&#xA;&lt;p&gt;Glass Igloo Resort&lt;br&gt;&#xA;Arctic TreeHouse Hotel&lt;/p&gt;&#xA;&lt;h2 id=&#34;inclusion&#34;&gt;inclusion&lt;/h2&gt;&#xA;&lt;p&gt;Airport transfer&lt;br&gt;&#xA;Daily breakfast&lt;br&gt;&#xA;Snowmobile safari&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;fees&lt;/h2&gt;&#xA;&lt;p&gt;Flights not included&lt;br&gt;&#xA;Personal expenses&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tanzania Safari Group Tour</title>
-      <link>http://localhost:1313/group-tours/tanzania/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/group-tours/tanzania/</guid>
-      <description>&lt;p&gt;This is a guided group safari covering Tanzania’s top wildlife parks with experienced local guides.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

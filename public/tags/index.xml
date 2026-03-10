@@ -64,5 +64,26 @@
       <guid>http://localhost:1313/tags/travel-prep/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Aurora</title>
+      <link>http://localhost:1313/tags/aurora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aurora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finland</title>
+      <link>http://localhost:1313/tags/finland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/finland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winter</title>
+      <link>http://localhost:1313/tags/winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/winter/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

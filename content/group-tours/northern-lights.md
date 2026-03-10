@@ -1,50 +1,28 @@
-<!-- content/group-tours/northern-lights.md -->
-
 ---
-title: "Northern Lights Private tour"
-description: "Discover Northern Lights in Finland with other amazing experiences and unique Arctic moments."
-price: 4600
-buy_link: "https://your-gumroad-checkout-link.com/northern-lights"
-image: "/images/northern-lights.jpg"
-duration: "7 days"
-location: "Finland, Lapland"
+title: "Northern Lights Private Tour 2026"
+image: "/images/northern.jpg"
+price: "€3999"
+tags: ["Finland", "Winter", "Aurora"]
 ---
 
-## Your Arctic Adventure Awaits
+This 7 nights/8 days guided winter adventure in Finland is crafted for dreamers and lovers of snow covered landscapes.
 
-Experience the magic of the Northern Lights in Finnish Lapland. This private tour offers:
+Enjoy husky safaris, glass igloos and magical Northern Lights.
 
-- **Accommodation**: 6 nights in premium glass igloos and wilderness hotels
-- **Activities**: 
-  - Northern Lights hunting by snowmobile
-  - Reindeer safari
-  - Husky sledding experience
-  - Visit to Santa Claus Village
-- **Meals**: Daily breakfast and 3 traditional Lappish dinners
-- **Transportation**: Private transfers throughout the tour
+## day
+Day 1: Arrival in Helsinki  
+Day 2: Lapland Tour  
+Day 3: Northern Lights Safari
 
-### Tour Highlights
+## accommodation
+Glass Igloo Resort  
+Arctic TreeHouse Hotel
 
-- Witness the Aurora Borealis from the comfort of your glass igloo
-- Drive your own snowmobile through arctic wilderness
-- Meet friendly reindeer and learn about Sami culture
-- Experience the thrill of husky sledding
-- Cross the Arctic Circle and receive a certificate
+## inclusion
+Airport transfer  
+Daily breakfast  
+Snowmobile safari
 
-### Included
-
-- Professional English-speaking guide
-- All activities and equipment
-- Thermal overalls and winter boots
-- Hotel taxes and service fees
-
-### Not Included
-
-- International flights
-- Travel insurance
-- Personal expenses
-- Meals not specified in itinerary
-
-### Best Time to Visit
-
-September to March for the best Northern Lights viewing opportunities.
+## fees
+Flights not included  
+Personal expenses

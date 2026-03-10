@@ -116,24 +116,79 @@
 
   <main id="main-content">
     
-<section class="travel-single">
 
-  <img src="/assets/images/gallery/488459564_9717423644981654_7157486464747842322_n.jpg" class="hero">
+<div class="container">
 
+  
+  <img src="/assets/images/gallery/488459564_9717423644981654_7157486464747842322_n.jpg" width="600" height="300">
+
+  
   <h1>Finland Christmas Tour</h1>
 
-  <p class="price">Price: €4100</p>
-
-  <div class="content">
+  
+  <div>
     <p>Full itinerary details here&hellip;</p>
 
   </div>
-
-  <a href="https://yourbookinglink.com" target="_blank" class="buy-btn">
-    Buy Now
+  <div class="sticky-buy">
+  <a href="https://yourbookinglink.com" target="_blank">
+    Book Now
   </a>
+</div>
 
-</section>
+  
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="tab1">Day-by-Day</button>
+    <button class="tab-btn" data-tab="tab2">Accommodations</button>
+    <button class="tab-btn" data-tab="tab3">Inclusions</button>
+    <button class="tab-btn" data-tab="tab4">Fees</button>
+  </div>
+
+  
+
+  <div id="tab1" class="tab-content active">
+    <p>Day by day itinerary content here</p>
+  </div>
+
+  <div id="tab2" class="tab-content">
+    <p>Accommodation details here</p>
+  </div>
+
+  <div id="tab3" class="tab-content">
+    <p>Inclusion details here</p>
+  </div>
+
+  <div id="tab4" class="tab-content">
+    <p>Fees and terms here</p>
+  </div>
+
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const buttons = document.querySelectorAll(".tab-btn");
+  const tabs = document.querySelectorAll(".tab-content");
+
+  buttons.forEach(btn => {
+
+    btn.addEventListener("click", function () {
+
+      buttons.forEach(b => b.classList.remove("active"));
+      tabs.forEach(t => t.classList.remove("active"));
+
+      btn.classList.add("active");
+
+      document.getElementById(btn.dataset.tab).classList.add("active");
+
+    });
+
+  });
+
+});
+</script>
+
 
   </main>
 
@@ -239,6 +294,8 @@
     <img src="/assets/images/whatsapp.png" alt="WhatsApp">
   </div>
 
+  
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </div>
 
 </footer>

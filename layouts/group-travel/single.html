@@ -1,19 +1,74 @@
 {{ define "main" }}
-<section class="travel-single">
 
-  <img src="{{ .Params.image }}" class="hero">
+<div class="container">
 
+  <!-- Image -->
+  <img src="{{ .Params.image }}" width="600" height="300">
+
+  <!-- Title -->
   <h1>{{ .Title }}</h1>
 
-  <p class="price">Price: {{ .Params.price }}</p>
-
-  <div class="content">
+  <!-- Description -->
+  <div>
     {{ .Content }}
   </div>
-
-  <a href="{{ .Params.buy_link }}" target="_blank" class="buy-btn">
-    Buy Now
+  <div class="sticky-buy">
+  <a href="{{ .Params.buy_link }}" target="_blank">
+    Book Now
   </a>
+</div>
 
-</section>
+  <!-- Tabs -->
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="tab1">Day-by-Day</button>
+    <button class="tab-btn" data-tab="tab2">Accommodations</button>
+    <button class="tab-btn" data-tab="tab3">Inclusions</button>
+    <button class="tab-btn" data-tab="tab4">Fees</button>
+  </div>
+
+  <!-- Tab Content -->
+
+  <div id="tab1" class="tab-content active">
+    <p>Day by day itinerary content here</p>
+  </div>
+
+  <div id="tab2" class="tab-content">
+    <p>Accommodation details here</p>
+  </div>
+
+  <div id="tab3" class="tab-content">
+    <p>Inclusion details here</p>
+  </div>
+
+  <div id="tab4" class="tab-content">
+    <p>Fees and terms here</p>
+  </div>
+
+</div>
+
+<!-- JS -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const buttons = document.querySelectorAll(".tab-btn");
+  const tabs = document.querySelectorAll(".tab-content");
+
+  buttons.forEach(btn => {
+
+    btn.addEventListener("click", function () {
+
+      buttons.forEach(b => b.classList.remove("active"));
+      tabs.forEach(t => t.classList.remove("active"));
+
+      btn.classList.add("active");
+
+      document.getElementById(btn.dataset.tab).classList.add("active");
+
+    });
+
+  });
+
+});
+</script>
+
 {{ end }}

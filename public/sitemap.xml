@@ -44,9 +44,9 @@
     <loc>http://localhost:1313/tags/travel-prep/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/group-tours/northern-lights/</loc>
-  </url><url>
     <loc>http://localhost:1313/_global/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/aurora/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/baharin/</loc>
   </url><url>
@@ -55,6 +55,8 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/custom-itinerary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/finland/</loc>
   </url><url>
     <loc>http://localhost:1313/group-travel/finland/</loc>
   </url><url>
@@ -74,6 +76,8 @@
   </url><url>
     <loc>http://localhost:1313/group-travel/morocco/</loc>
   </url><url>
+    <loc>http://localhost:1313/group-tours/northern-lights/</loc>
+  </url><url>
     <loc>http://localhost:1313/our-tour-image-gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/ready-to-go/</loc>
@@ -91,5 +95,7 @@
     <loc>http://localhost:1313/custom-itinerary/traveling-upto-10-days/</loc>
   </url><url>
     <loc>http://localhost:1313/custom-itinerary/5-days-kerala/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/winter/</loc>
   </url>
 </urlset>

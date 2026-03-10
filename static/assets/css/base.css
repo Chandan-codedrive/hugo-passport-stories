@@ -103,3 +103,93 @@ a {
   border-radius: 20%;
   display: inline-block;
 }
+
+
+/* group tours  */
+.container{
+max-width:900px;
+margin:auto;
+padding:40px;
+}
+
+.tour-image img{
+width:600px;
+height:300px;
+object-fit:cover;
+border-radius:10px;
+}
+
+.tabs{
+margin-top:30px;
+}
+
+.tab-btn{
+padding:10px 20px;
+border:none;
+background:#eee;
+cursor:pointer;
+}
+
+.tab-btn.active{
+background:#000;
+color:#fff;
+}
+
+.tab-panel{
+display:none;
+padding:20px 0;
+}
+
+.tab-panel.active{
+display:block;
+}
+
+/* a */
+.tabs{
+margin-top:20px;
+}
+
+.tab-btn{
+padding:10px 20px;
+border:none;
+background:#eee;
+cursor:pointer;
+margin-right:5px;
+}
+
+.tab-btn.active{
+background:#000;
+color:#fff;
+}
+
+.tab-content{
+display:none;
+padding:20px 0;
+}
+
+.tab-content.active{
+display:block;
+}
+
+/* stycky buy button */
+.sticky-buy{
+position: fixed;
+bottom: 30px;
+right: 30px;
+z-index: 999;
+}
+
+.sticky-buy a{
+background: #ff5a00;
+color: white;
+padding: 14px 28px;
+border-radius: 8px;
+font-weight: bold;
+text-decoration: none;
+box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+
+.sticky-buy a:hover{
+background: #e04e00;
+}

@@ -116,15 +116,17 @@
 
   <main id="main-content">
     
-<section class="travel-single">
 
-  <img src="/assets/images/gallery/487768360_9717431521647533_2863357273090784357_n.jpg" class="hero">
+<div class="container">
 
+  
+  <img src="/assets/images/gallery/487768360_9717431521647533_2863357273090784357_n.jpg" width="600" height="300">
+
+  
   <h1>Thailand Beach &amp; Culture Tour</h1>
 
-  <p class="price">Price: €2100</p>
-
-  <div class="content">
+  
+  <div>
     <p>Explore Bangkok, Phuket, and Krabi with beautiful beaches and nightlife.</p>
 <p>Highlights:</p>
 <ul>
@@ -136,11 +138,59 @@
 
   </div>
 
-  <a href="https://example.com/thailand-booking" target="_blank" class="buy-btn">
-    Buy Now
-  </a>
+  
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="tab1">Day-by-Day</button>
+    <button class="tab-btn" data-tab="tab2">Accommodations</button>
+    <button class="tab-btn" data-tab="tab3">Inclusions</button>
+    <button class="tab-btn" data-tab="tab4">Fees</button>
+  </div>
 
-</section>
+  
+
+  <div id="tab1" class="tab-content active">
+    <p>Day by day itinerary content here</p>
+  </div>
+
+  <div id="tab2" class="tab-content">
+    <p>Accommodation details here</p>
+  </div>
+
+  <div id="tab3" class="tab-content">
+    <p>Inclusion details here</p>
+  </div>
+
+  <div id="tab4" class="tab-content">
+    <p>Fees and terms here</p>
+  </div>
+
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const buttons = document.querySelectorAll(".tab-btn");
+  const tabs = document.querySelectorAll(".tab-content");
+
+  buttons.forEach(btn => {
+
+    btn.addEventListener("click", function () {
+
+      buttons.forEach(b => b.classList.remove("active"));
+      tabs.forEach(t => t.classList.remove("active"));
+
+      btn.classList.add("active");
+
+      document.getElementById(btn.dataset.tab).classList.add("active");
+
+    });
+
+  });
+
+});
+</script>
+
 
   </main>
 
@@ -246,6 +296,8 @@
     <img src="/assets/images/whatsapp.png" alt="WhatsApp">
   </div>
 
+  
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </div>
 
 </footer>

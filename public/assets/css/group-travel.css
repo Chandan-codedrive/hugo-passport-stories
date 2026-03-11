@@ -133,3 +133,22 @@
   background:#ff9800;
   color:#000;
 }
+
+/* floating book button */
+.floating-book{
+position:fixed;
+bottom:30px;
+left:50%;
+transform:translateX(-50%);
+z-index:999;
+}
+
+.floating-book a{
+background:#ff5a00;
+color:#fff;
+padding:14px 30px;
+border-radius:30px;
+font-weight:bold;
+text-decoration:none;
+box-shadow:0 8px 20px rgba(0,0,0,0.3);
+}

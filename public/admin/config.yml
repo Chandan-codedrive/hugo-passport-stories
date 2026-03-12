@@ -266,6 +266,10 @@ collections:
         name: "image"
         widget: "image"
 
+      - label: "Price"
+        name: "price"
+        widget: "string"
+
       - label: "Buy Link"
         name: "buy_link"
         widget: "string"
@@ -289,4 +293,4 @@ collections:
 
       - label: "Fees & Terms"
         name: "fees"
-        widget: "markdown"
+        widget: "markdown" 

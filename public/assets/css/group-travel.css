@@ -134,21 +134,65 @@
   color:#000;
 }
 
-/* floating book button */
+/* FLOATING BOOKING BAR */
+
 .floating-book{
 position:fixed;
-bottom:30px;
 left:50%;
 transform:translateX(-50%);
-z-index:999;
+bottom:80px;                /* safe space above WhatsApp */
+z-index:9999;
+display:flex;
+justify-content:center;
+width:auto;
 }
 
-.floating-book a{
+.price-box{
+background:#fff;
+border-radius:40px;
+padding:10px 18px;
+display:flex;
+align-items:center;
+gap:15px;
+box-shadow:0 10px 30px rgba(0,0,0,0.25);
+}
+
+.tour-price{
+font-weight:700;
+font-size:16px;
+color:#000;
+}
+
+.price-box a{
 background:#ff5a00;
 color:#fff;
-padding:14px 30px;
+padding:10px 22px;
 border-radius:30px;
 font-weight:bold;
 text-decoration:none;
-box-shadow:0 8px 20px rgba(0,0,0,0.3);
+white-space:nowrap;
+}
+
+/* MOBILE FIX */
+
+@media (max-width:768px){
+
+.floating-book{
+bottom:90px;
+}
+
+.price-box{
+padding:8px 14px;
+gap:10px;
+}
+
+.tour-price{
+font-size:14px;
+}
+
+.price-box a{
+padding:8px 18px;
+font-size:14px;
+}
+
 }

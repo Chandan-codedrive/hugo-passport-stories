@@ -23,30 +23,38 @@
   </div>
 
   <!-- Tab Content -->
+<div id="tab1" class="tab-content active">
+  {{ .Params.day_by_day | markdownify }}
+</div>
 
-  <div id="tab1" class="tab-content active">
-    <p>Day by day itinerary content here</p>
-  </div>
+<div id="tab2" class="tab-content">
+  {{ .Params.accommodations | markdownify }}
+</div>
 
-  <div id="tab2" class="tab-content">
-    <p>Accommodation details here</p>
-  </div>
+<div id="tab3" class="tab-content">
+  {{ .Params.inclusions | markdownify }}
+</div>
 
-  <div id="tab3" class="tab-content">
-    <p>Inclusion details here</p>
-  </div>
-
-  <div id="tab4" class="tab-content">
-    <p>Fees and terms here</p>
-  </div>
+<div id="tab4" class="tab-content">
+  {{ .Params.fees | markdownify }}
+</div>
 
 </div>
 
-<!-- FLOATING BOOK BUTTON -->
+<!-- FLOATING PRICE + BOOK BUTTON -->
 <div class="floating-book">
-  <a href="{{ .Params.buy_link }}" target="_blank">
-    Book Now
-  </a>
+
+  <div class="price-box">
+    <span class="tour-price">
+      {{ .Params.price }}
+    </span>
+
+    <a href="{{ .Params.buy_link }}" target="_blank">
+      Book Now
+    </a>
+
+  </div>
+
 </div>
 
 <!-- JS -->

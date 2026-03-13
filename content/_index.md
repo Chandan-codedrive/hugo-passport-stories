@@ -1,11 +1,10 @@
 ---
+title: Group Tours
 header:
   logo: ""
   menu: []
 hero:
   title: Turn Your Travel Dreams Into Reality
-
-
 story:
   title: Our Story
   images:
@@ -86,7 +85,7 @@ footer:
   social:
     - icon: photo_camera
       label: Instagram
-      link: https://instagram.com/passportstories
+      link: https://www.instagram.com/mahulimamukherjee/
     - icon: play_circle
       label: YouTube
       link: https://youtube.com/@passportstories
@@ -108,9 +107,6 @@ footer:
     text: Design & Development by
     name: Xnetch
     link: https://xnetch.com
----
----
-title: "Group Tours"
 ---
 
 ## Explore Our Group Tours

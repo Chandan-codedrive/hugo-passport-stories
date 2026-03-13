@@ -283,12 +283,12 @@ collections:
         name: "day_by_day"
         widget: "markdown"
 
-      - label: "Accommodations"
-        name: "accommodations"
+      - label: "Why Chose Us"
+        name: "why-chose-us"
         widget: "markdown"
 
-      - label: "Inclusions"
-        name: "inclusions"
+      - label: "FAQ"
+        name: "faq"
         widget: "markdown"
 
       - label: "Fees & Terms"

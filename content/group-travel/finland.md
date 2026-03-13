@@ -3,6 +3,9 @@ accommodations: The accodomation
 weight: 2
 title: Kenya Safari Private Tour
 image: /assets/images/gallery/large_5452_3.jpg
+description: |-
+  Kenya Highlights Safari | 8 Days
+  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
 price: "1990"
 buy_link: https://yourbookinglink.com
 day_by_day: >-
@@ -282,7 +285,6 @@ fees: |-
 
   • Itinerary order may change for operational reasons
 inclusions: Inclusion
-description: Celebrate winter in Santa’s hometown
 ---
 
 Kenya Highlights Safari | 8 Days

@@ -30,7 +30,7 @@ accommodations: |-
   real-world experience.
 weight: 1
 title: Tanzania Safari Group Tour
-image: /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
+image: /assets/images/gallery/pexels-photo-10740862.jpeg
 price: "14999"
 buy_link: https://yourlink.com
 day_by_day: >-

@@ -11,11 +11,11 @@
         </h4>
 
         <div class="footer-social mt-3">
-          {{ range $footer.Params.social }}
-          <a href="{{ .link }}" aria-label="{{ .label }}" target="_blank">
-            <i class="bi {{ .icon }}"></i>
-          </a>
-          {{ end }}
+        {{ range $footer.Params.social }}
+        <a href="{{ .link }}" aria-label="{{ .label }}" target="_blank">
+          <i class="bi bi-{{ .icon }}"></i>
+        </a>
+        {{ end }}                                 
         </div>
       </div>
     </div>

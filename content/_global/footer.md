@@ -4,17 +4,17 @@ title: Footer
 brand: Passport Stories
 
 social:
-  - icon: bi-instagram
+  - icon: instagram
     label: Instagram
-    link: "https://instagram.com/passportstories"
+    link: "https://www.instagram.com/mahulimamukherjee/"
 
-  - icon: bi-youtube
+  - icon: youtube
     label: Youtube
     link: "https://youtube.com/@passportstories"
 
-  - icon: bi-facebook
+  - icon: facebook
     label: Facebook
-    link: " https://www.facebook.com/mahulima"
+    link: "https://www.facebook.com/mahulima"
 
 nav:
   - title: Home

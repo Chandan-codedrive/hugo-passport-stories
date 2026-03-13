@@ -83,9 +83,9 @@ services:
 footer:
   brand: Passport Stories.
   social:
-    - icon: play_circle
-      label: YouTube
-      link: https://youtube.com/@passportstories
+    # - icon: play_circle
+    #   label: YouTube
+    #   link: https://youtube.com/@passportstories
   nav:
     - title: Home
       url: /

@@ -80,33 +80,7 @@ services:
       here to make it easy for you!
     button_text: Create Your Itinerary
     button_link: /custom-itinerary
-footer:
-  brand: Passport Stories.
-  social:
-    - icon: play_circle
-      label: YouTube
-      link: https://youtube.com/@passportstories
-    - icon: bi-facebook
-      label: facebook
-      link: " https://www.facebook.com/mahulima"
-  nav:
-    - title: Home
-      url: /
-    - title: Travel Guides
-      url: /travel-guides
-    - title: Personalized Itineraries
-      url: /itineraries
-    - title: Destinations
-      url: /destinations
-    - title: Contact
-      url: /contact
-    - title: About
-      url: /about
-  copyright: © 2026 Passport Stories. Crafted with love & travel stories.
-  credit:
-    text: Design & Development by
-    name: Xnetch
-    link: https://xnetch.com
+
 ---
 
 ## Explore Our Group Tours

@@ -28,6 +28,7 @@ accommodations: |-
 
   We curate trips the same way we plan our own journeys with care, honesty, and
   real-world experience.
+weight: 1
 title: Tanzania Safari Group Tour
 image: /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
 price: "14999"

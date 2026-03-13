@@ -418,11 +418,114 @@ fees: |-
   This ensures full transparency and avoids unnecessary
   transactions.
 ---
+Traveling to Africa can feel overwhelming. Multiple
 
-Witness magical Northern Lights and explore glaciers and volcanoes.
+countries, visas, safaris, long drives, safety questions, and logistics.
 
-Highlights:
-- Aurora hunting  
-- Ice cave tour  
-- Golden Circle  
-- Blue Lagoon spa
+That’s where we come in.
+
+We help you plan a smooth, safe, and well-structured Africa
+
+trip by working closely with trusted local partners in Kenya and Tanzania,
+
+so you can travel with confidence and zero stress.
+
+How It Works
+
+Simple. Transparent. No unnecessary middlemen.
+
+Our Facilitation Fee
+
+USD 150 per person
+
+
+
+ One-time  planning and facilitation fee
+
+ Paid to us directly
+
+ Covers end-to-end trip planning and coordination
+
+
+
+What’s Included in Our Facilitation Service
+
+
+
+Personalized day-by-day itinerary
+
+Safari and wildlife experience planning
+
+Accommodation suggestions based on your budget 
+
+Best flight routes and airline suggestions
+
+Visa guidance and documentation checklist
+
+ Pre-departure
+
+\    travel guidance
+
+ Connecting
+
+\    you with trusted local African operators
+
+ Coordination
+
+\    before your trip
+
+ Support
+
+\    until your departure
+
+
+
+
+
+This service is designed especially for first-time Africa
+
+travelers who want clarity, safety, and honest guidance.
+
+What Is Not Included
+
+
+
+ International flight tickets
+
+ Visa fees
+
+ Travel and medical insurance
+
+ Payments to local tour operators
+
+ Personal expenses
+
+ Tips, drinks, laundry, souvenirs
+
+ Any cost not explicitly mentioned in the itinerary
+
+
+
+
+
+On-Ground Services
+
+We do not accompany the trip in person.
+
+All on-ground services are handled by licensed and
+
+experienced local tour operators, including:
+
+
+
+ Airport  pickup and drop
+
+ Accommodation
+
+ Transport
+
+ Safaris and activities
+
+ Professional
+
+\    local guides

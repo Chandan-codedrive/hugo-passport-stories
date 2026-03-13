@@ -83,9 +83,6 @@ services:
 footer:
   brand: Passport Stories.
   social:
-    - icon: photo_camera
-      label: Instagram
-      link: https://www.instagram.com/mahulimamukherjee/
     - icon: play_circle
       label: YouTube
       link: https://youtube.com/@passportstories

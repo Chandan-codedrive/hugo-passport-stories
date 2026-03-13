@@ -284,7 +284,7 @@ collections:
         widget: "markdown"
 
       - label: "Why Chose Us"
-        name: "why_chose_us"
+        name: "why_travel_with_us"
         widget: "markdown"
 
       - label: "FAQ"

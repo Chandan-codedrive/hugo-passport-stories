@@ -283,7 +283,7 @@ collections:
         name: "day_by_day"
         widget: "markdown"
 
-      - label: "Why Chose Us"
+      - label: "Why Travel With Us"
         name: "why_travel_with_us"
         widget: "markdown"
 

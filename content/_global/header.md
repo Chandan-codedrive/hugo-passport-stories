@@ -19,6 +19,9 @@ menu:
   - title: Our Tour Image Gallery
     url: "/gallery"
 
+  - title: About Us
+    url: /about
+
   - title: Contact Us
     url: "/contact"
 ---

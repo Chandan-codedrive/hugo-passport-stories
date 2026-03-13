@@ -13,7 +13,7 @@
         <div class="footer-social mt-3">
           {{ range $footer.Params.social }}
           <a href="{{ .link }}" aria-label="{{ .label }}" target="_blank">
-            <span class="material-icons-outlined">{{ .icon }}</span>
+            <i class="bi {{ .icon }}"></i>
           </a>
           {{ end }}
         </div>
@@ -55,7 +55,7 @@
 
   <div class="wa-popup">
     <div class="wa-header">
-      Passportstories
+      Passport Stories
       <span class="wa-close" onclick="toggleWhatsApp()">×</span>
     </div>
 

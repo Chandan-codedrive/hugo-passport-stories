@@ -261,7 +261,7 @@ collections:
         name: "weight"
         widget: "number"
         default: 1
-        
+
       - label: "Tour Title"
         name: "title"
         widget: "string"
@@ -269,6 +269,10 @@ collections:
       - label: "Cover Image"
         name: "image"
         widget: "image"
+
+      - label: "Short Description"
+        name: "description"
+        widget: "text"
 
       - label: "Price"
         name: "price"

@@ -1,4 +1,33 @@
 ---
+accommodations: |-
+  We are Mahulima and Kaustuv, travelers who
+  have explored 89 countries across 6 continents. We believe great journeys are
+  built on real experience, not brochures.
+
+  Our Approach
+
+  • We travel first and curate later
+
+  • Every route and stay is inspired by what works on the ground
+
+  • No rushed schedules or unrealistic promises
+
+  This Trip Is Ideal For
+
+  • Couples and solo travelers
+
+  • Small groups
+
+  • First-time safari travelers
+
+  • Content creators and storytellers
+
+  • Travelers seeking meaningful experiences
+
+  Our Promise
+
+  We curate trips the same way we plan our own journeys with care, honesty, and
+  real-world experience.
 title: Tanzania Safari Group Tour
 image: /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
 price: "14999"
@@ -60,12 +89,12 @@ day_by_day: >-
   Morning visit to a Maasai village followed by Serval Wildlife Sanctuary.
 
   Transfer to the airport for onward flight.
-accommodations: |-
+why_travel_with_us: |-
   We are Mahulima and Kaustuv, travelers who
   have explored 89 countries across 6 continents. We believe great journeys are
   built on real experience, not brochures.
 
-  Our Approach
+  **Our Approach**
 
   • We travel first and curate later
 
@@ -89,7 +118,7 @@ accommodations: |-
 
   We curate trips the same way we plan our own journeys with care, honesty, and
   real-world experience.
-inclusions: >-
+faq: >-
   Will you be traveling with the group?
 
 
@@ -199,6 +228,39 @@ fees: |-
   • Bank transfer only
 
   • Any bank charges must be borne by the traveler
+inclusions: >-
+  Will you be traveling with the group?
+
+
+  No. The tour is operated by our trusted local partner. The planning and quality
+
+  control are handled by us.
+
+
+  Who manages the tour on the ground?
+
+
+  An experienced local tour operator in Tanzania manages guides, vehicles,
+
+  accommodation, and logistics.
+
+
+  Will there be a guide throughout the trip?
+
+
+  Yes. Professional local driver-guides accompany the group during the safari.
+
+
+  Is this a group or private tour?
+
+
+  This is a fixed-date group tour with a fixed itinerary.
+
+
+  Can the itinerary be customized?
+
+
+  Customization is limited. Private tours can be arranged separately.
 description: Ngorongoro Crater, Serengeti & Serval Wildlife Sanctuary | 7 Days
 ---
 ## Ngorongoro Crater, Serengeti & Serval Wildlife

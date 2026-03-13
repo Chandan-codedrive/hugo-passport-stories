@@ -284,6 +284,9 @@ fees: |-
 inclusions: Inclusion
 description: Celebrate winter in Santa’s hometown
 ---
+
+Kenya Highlights Safari | 8 Days
+
 **Kenya Highlights Safari | 8 Days**
 
 **Nairobi •Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli**
@@ -300,8 +303,8 @@ reliability and quality.
 
 **🌟 Why Choose This Kenya Safari**
 
-*  Covers Kenya’s top national parks in one journey
-*  Multiple game drives in Maasai Mara during peak wildlife season
+* Covers Kenya’s top national parks in one journey
+* Multiple game drives in Maasai Mara during peak wildlife season
 * Walking safari at Crescent Island for a unique experience
 * Rhino tracking at Lake Nakuru National Park
 * Amboseli safari with Mount Kilimanjaro views

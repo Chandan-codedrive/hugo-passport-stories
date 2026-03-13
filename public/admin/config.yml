@@ -257,7 +257,11 @@ collections:
     slug: "{{slug}}"
 
     fields:
-
+      - label: "Order Number"
+        name: "weight"
+        widget: "number"
+        default: 1
+        
       - label: "Tour Title"
         name: "title"
         widget: "string"
@@ -283,12 +287,12 @@ collections:
         name: "day_by_day"
         widget: "markdown"
 
-      - label: "Accommodations"
-        name: "accommodations"
+      - label: "Why Travel With Us"
+        name: "why_travel_with_us"
         widget: "markdown"
 
-      - label: "Inclusions"
-        name: "inclusions"
+      - label: "FAQ"
+        name: "faq"
         widget: "markdown"
 
       - label: "Fees & Terms"

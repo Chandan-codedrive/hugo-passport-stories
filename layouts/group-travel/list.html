@@ -3,7 +3,7 @@
   <h2>Tours We Offer at the Moment</h2>
   <p class="group-des" style="text-align: center;">From group adventures to private escapes, travel your way with comfort and care</p>
   <div class="travel-grid">
-    {{ range .Pages }}
+    {{ range .Pages.ByWeight }}
     <div class="travel-card">
 
       <img src="{{ .Params.image }}" alt="{{ .Title }}">

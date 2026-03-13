@@ -257,7 +257,11 @@ collections:
     slug: "{{slug}}"
 
     fields:
-
+      - label: "Order Number"
+        name: "weight"
+        widget: "number"
+        default: 1
+        
       - label: "Tour Title"
         name: "title"
         widget: "string"

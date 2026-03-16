@@ -110,12 +110,6 @@ fees: >-
   * Any services or fees not listed under Inclusions.
 inclusions: Inclusion
 ---
-### **🏆 Cost of The Trip**
-
-1. **Double Sharing: USD 2235 \~\~ INR 2,02,500# (+GST + Other Charges) per person.**
-2. **Triple Sharing: USD 2350 \~\~ INR 2,12,900# (+GST + Other Charges) per person.**
-3. **Solo Traveller: USD 2480 \~\~ INR 2,24,650# (+GST + Other Charges) per person.**
-
 ### **🌟 Why Choose This Kenya Safari**
 
 * Covers Kenya’s top national parks in one journey
@@ -124,3 +118,9 @@ inclusions: Inclusion
 * Amboseli safari with Mount Kilimanjaro views
 * Carefully planned drive times based on real road conditions
 * Premium lodges chosen for comfort and location
+
+### **🏆 Cost of The Trip**
+
+1. **Double Sharing: USD 2235 \~\~ INR 2,02,500# (+GST + Other Charges) per person.**
+2. **Triple Sharing: USD 2350 \~\~ INR 2,12,900# (+GST + Other Charges) per person.**
+3. **Solo Traveller: USD 2480 \~\~ INR 2,24,650# (+GST + Other Charges) per person.**

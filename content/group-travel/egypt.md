@@ -295,3 +295,5 @@ End Point: Kilimanjaro Airport
 * Premium lodges and tented camps chosen for comfort and location.
 * Cultural interaction with Maasai communities.
 * Routes and pacing planned based on real on-ground travel experience.
+* Touch and interact with lions under expert supervision.
+* Feed majestic animals like zebras and elands.

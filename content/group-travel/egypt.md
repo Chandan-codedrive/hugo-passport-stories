@@ -123,38 +123,34 @@ why_travel_with_us: |-
   We curate trips the same way we plan our own journeys with care, honesty, and
   real-world experience.
 faq: >-
-  Will you be traveling with the group?
+  **Q. When is the best time to visit for the Great Migration?**
 
 
-  No. The tour is operated by our trusted local partner. The planning and quality
-
-  control are handled by us.
+  **A**: The Great Migration typically occurs between **July and October** in the Maasai Mara, when millions of wildebeest, zebras, and other animals cross the Mara River. Visiting during this period offers the best chance to witness this spectacular event.
 
 
-  Who manages the tour on the ground?
+  **Q. What should I pack for the safari?**
 
 
-  An experienced local tour operator in Tanzania manages guides, vehicles,
-
-  accommodation, and logistics.
+  **A:** Bring **light, breathable clothing** in neutral colors, a wide-brimmed hat, sunglasses, sunscreen, comfortable walking shoes, a camera with extra batteries, binoculars, and insect repellent. Evenings can be cooler, so a light jacket is recommended.
 
 
-  Will there be a guide throughout the trip?
+  **Q. Are meals and accommodations included?**
 
 
-  Yes. Professional local driver-guides accompany the group during the safari.
+  **A:** Yes, the itinerary includes **breakfast, lunch, and dinner** during safari days, as well as comfortable accommodations in lodges and hotels with modern amenities. Optional activities like boat safaris may incur additional costs.
 
 
-  Is this a group or private tour?
+  **Q. Is this safari suitable for children or families?**
 
 
-  This is a fixed-date group tour with a fixed itinerary.
+  **A:** Absolutely! Lodges and parks are **family-friendly**, offering kid-safe accommodations and activities. Children should be supervised during game drives, and lodges may offer family-friendly amenities and excursions.
 
 
-  Can the itinerary be customized?
+  **Q. What wildlife can I expect to see on this trip?**
 
 
-  Customization is limited. Private tours can be arranged separately.
+  **A:** Depending on the park and season, you can see **elephants, lions, cheetahs, zebras, wildebeest, hippos, giraffes, rhinos**, and a variety of birds. During the Great Migration, witness **dramatic river crossings** and large herds moving across the plains.
 fees: |-
   ✅ Price Includes
 

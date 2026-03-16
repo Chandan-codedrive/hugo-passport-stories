@@ -9,7 +9,7 @@ featured_image: /assets/images/gallery/488576496_9712892042101481_68765101593227
 images:
   - /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
   - /assets/images/gallery/488459564_9717423644981654_7157486464747842322_n.jpg
-buy_link: "#"
+buy_link: https://checkout.passportstories.in/b/6s30h
 ---
 
 What you’ll get with our Passport Stories itinerary package:

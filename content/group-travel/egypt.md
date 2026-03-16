@@ -29,10 +29,12 @@ accommodations: |-
   We curate trips the same way we plan our own journeys with care, honesty, and
   real-world experience.
 weight: 2
-title: Tanzania Safari Group Tour
+title: Unforgettable Safaris Ngorongoro Crater, Serengeti National Park
 image: /assets/images/gallery/pexels-photo-10740862.jpeg
-description: Ngorongoro Crater, Serengeti & Serval Wildlife Sanctuary | 7 Days
-price: "1499"
+description: 7th August - 12th August (Kilimanjaro to Kilimanjaro) | 5 Nights/ 6
+  Days |  Arusha • Serengeti National Park • Ngorongoro Crater • Wildlife
+  Sanctuary
+price: Rs. 1,99,500 Onwards
 buy_link: https://yourlink.com
 day_by_day: >-
   Day 1 | Arrival in Arusha
@@ -264,25 +266,32 @@ inclusions: >-
 
   Customization is limited. Private tours can be arranged separately.
 ---
-## Ngorongoro Crater, Serengeti & Serval Wildlife
-Sanctuary | 7 Days
+![Travel Route Overview](/assets/images/gallery/picture-1.png "Travel Route Overview")
 
-Fixed-Date Group Tour
+### **Tour Overview**
 
-This tour runs on fixed dates with a
-pre-defined itinerary and is ideal for travelers who prefer a well-planned
-group safari experience.
+Start Point: Kilimanjaro Airport
 
-The tour is operated by our trusted local
-partner in Tanzania. While we may not be physically present on this trip, the
-itinerary, quality standards, and coordination are carefully curated and
-overseen by us to ensure a smooth and reliable experience.
+* Day 1 Arusha
+* Day 2 Central Serengeti NP
+* Day 3 Northern Serengeti NP
+* Day 4 Central Serengeti  NP
+* Day 5 Ngorongoro Crater
+* Day 6 West Kilimanjaro
+
+End Point: Kilimanjaro Airport
+
+### **🏆 Cost of The Trip**
+
+1. **Double Sharing: USD 2295 \~\~ INR 2,09,000# (+GST + Other Charges) per person.**
+2. **Triple Sharing: USD 2190 \~\~ INR 1,99,500# (+GST + Other Charges) per person.**
+3. **Solo Traveller: USD 2550 \~\~ INR 2,32,300# (+GST + Other Charges) per person.**
 
 ***🌟 Why Choose This Tanzania Safari***
 
 * Guided safari in a 4x4 Land Cruiser with an experienced local driver-guide.
 * Multiple days in Serengeti for relaxed and unhurried wildlife viewing.
 * Strategic use of Ngorongoro Crater without overnight conservation fees.
-* Mid-range lodges and tented camps chosen for comfort and location.
+* Premium lodges and tented camps chosen for comfort and location.
 * Cultural interaction with Maasai communities.
 * Routes and pacing planned based on real on-ground travel experience.

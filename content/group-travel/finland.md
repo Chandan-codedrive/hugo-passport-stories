@@ -331,7 +331,7 @@ inclusions: Inclusion
 ---
 **Kenya Highlights Safari | 8 Days**
 
-![Travel Route](/assets/images/gallery/picture-2.png "Travel Route for Kenya")
+![Travel Route](/assets/images/gallery/picture.png "Travel Route for Kenya")
 
 ### **Tour Overview**
 

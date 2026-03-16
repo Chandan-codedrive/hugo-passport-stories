@@ -336,13 +336,13 @@ inclusions: Inclusion
 ---
 **Kenya Highlights Safari | 8 Days**
 
-![Travel Route](/assets/images/gallery/picture-2.png "Travel Route for Kenya")
+![Travel Route](/assets/images/gallery/picture-2.png "Travel Route for Kenya" width="400")
 
 **Tour Overview**
 
 Start Point: Nairobi Airport
 
-*  Day 1 Nairobi
+* Day 1 Nairobi
 * Day 2 Nairobi to Maasaimara via Lake Nakuru NP
 * Day 3 Maasaimara NP
 * Day 4 Maasaimara NP

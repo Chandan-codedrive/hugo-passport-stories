@@ -128,8 +128,6 @@ day_by_day: >-
   *Meals*: Breakfast, Packed Lunch, Dinner.
 
 
-
-
   #### **Day 6 | Nairobi to Amboseli National Park**
 
 
@@ -152,8 +150,6 @@ day_by_day: >-
 
 
   *Meals*: Breakfast, Lunch, Dinner.
-
-
 
 
   #### **Day 7 | Amboseli Morning Safari to Nairobi**
@@ -182,9 +178,7 @@ day_by_day: >-
   *Meals*: Breakfast, Packed Lunch, Dinner.
 
 
-
-
-  #### **Day 8 | Departure**
+  #### **Day 8 | Departure to India**
 
 
   * After Breakfast, transfer to the airport for your international flight back to India.
@@ -261,6 +255,8 @@ fees: >-
   * Admission/entry fees, transportation, orientation/city tours, and safaris as listed in the itinerary.
 
 
+
+
   #### **❌ Price Excludes**
 
 
@@ -283,6 +279,8 @@ fees: >-
   * Any services or fees not listed under Inclusions.
 
 
+
+
   #### **📝 Booking & Payment Policy**
 
 
@@ -293,6 +291,8 @@ fees: >-
   * The remaining balance will be communicated separately and must be settled within the specified timeline.
 
   * Please note that airfare is not included in the tour cost and must be arranged separately by the traveller. However, we can assist with flight bookings upon request. Travellers are strongly advised to confirm their air tickets at the time of paying the booking amount to secure the best available fares. As airline prices are dynamic and generally increase closer to departure, delayed bookings may result in higher airfare.
+
+
 
 
   #### **♺ Cancellation Policy**
@@ -311,12 +311,14 @@ fees: >-
   * **Payment Failure:** In case of payment failure, delay, or incomplete payment as per the payment schedule, the booking may be cancelled automatically, and any prior payments will be forfeited.
 
 
+
+
   #### **🧒 Child Policy**
 
 
   * **Infants (0–2 years):** Complimentary, provided no separate bed is required. Any additional services (meals, extra crib, airline charges) will be charged separately where applicable.
 
-  * **Children (3–11 years) sharing with two adults**: Charged at 50% of the per person sharing rate, without an extra bed unless otherwise specified. Maximum 2 children per room, subject to hotel occupancy policies.
+  * **Children (3–11 years) sharing with two adults**: Charged at 50% of the per-person sharing rate, without an extra bed unless otherwise specified. Maximum 2 children per room, subject to hotel occupancy policies.
 
   * **Children (12 years and above)**: Considered adults for accommodation and pricing purposes and will be charged the full adult rate.
 
@@ -331,7 +333,7 @@ inclusions: Inclusion
 
 ![Travel Route](/assets/images/gallery/picture-2.png "Travel Route for Kenya")
 
-**Tour Overview**
+### **Tour Overview**
 
 Start Point: Nairobi Airport
 
@@ -346,13 +348,13 @@ Start Point: Nairobi Airport
 
 End Point: Nairobi Airport
 
-**🏆 Cost of The Trip**
+### **🏆 Cost of The Trip**
 
 1. **Double Sharing: USD 2235 \~\~ INR 2,02,500# (+GST + Other Charges) per person.**
 2. **Triple Sharing: USD 2350 \~\~ INR 2,12,900# (+GST + Other Charges) per person.**
 3. **Solo Traveller: USD 2480 \~\~ INR 2,24,650# (+GST + Other Charges) per person.**
 
-**🌟 Why Choose This Kenya Safari**
+### **🌟 Why Choose This Kenya Safari**
 
 * Covers Kenya’s top national parks in one journey
 * Multiple game drives in MaasaiMara during peak wildlife season

@@ -28,9 +28,10 @@ accommodations: |-
 
   We curate trips the same way we plan our own journeys with care, honesty, and
   real-world experience.
-weight: 1
+weight: 2
 title: Tanzania Safari Group Tour
 image: /assets/images/gallery/pexels-photo-10740862.jpeg
+description: Ngorongoro Crater, Serengeti & Serval Wildlife Sanctuary | 7 Days
 price: "1499"
 buy_link: https://yourlink.com
 day_by_day: >-
@@ -262,7 +263,6 @@ inclusions: >-
 
 
   Customization is limited. Private tours can be arranged separately.
-description: Ngorongoro Crater, Serengeti & Serval Wildlife Sanctuary | 7 Days
 ---
 ## Ngorongoro Crater, Serengeti & Serval Wildlife
 Sanctuary | 7 Days

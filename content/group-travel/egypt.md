@@ -93,35 +93,33 @@ day_by_day: >-
   Morning visit to a Maasai village followed by Serval Wildlife Sanctuary.
 
   Transfer to the airport for onward flight.
-why_travel_with_us: |-
-  We are Mahulima and Kaustuv, travelers who
-  have explored 89 countries across 6 continents. We believe great journeys are
-  built on real experience, not brochures.
+why_travel_with_us: >-
+  • Designed to offer an unforgettable experience during the **Great Migration**
+  season.
 
-  **Our Approach**
 
-  • We travel first and curate later
+  • Covers Tanzania’s top national parks in one journey.
 
-  • Every route and stay is inspired by what works on the ground
 
-  • No rushed schedules or unrealistic promises
+  • Multiple days of dedicated game drives in **Serengeti** to see the **Great** **Migration**.
 
-  This Trip Is Ideal For
 
-  • Couples and solo travelers
+  • **Animal** tracking at **Ngorongoro Crater**.
 
-  • Small groups
 
-  • First-time safari travelers
+  • Amboseli safari with **Mount Kilimanjaro** views.
 
-  • Content creators and storytellers
 
-  • Travelers seeking meaningful experiences
+  • Carefully planned drive times based on real road conditions.
 
-  Our Promise
 
-  We curate trips the same way we plan our own journeys with care, honesty, and
-  real-world experience.
+  • Premium lodges chosen for comfort and location.
+
+
+  • Touch and interact with lions under expert supervision.
+
+
+  • Feed majestic animals like zebras oryx and elands.
 faq: >-
   **Q. When is the best time to visit for the Great Migration?**
 

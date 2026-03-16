@@ -3,12 +3,8 @@ accommodations: The accodomation
 weight: 1
 title: Unforgettable Safaris in Maasai Mara National Park, Amboseli, Nakuru
 image: /assets/images/gallery/wildebeest-migration-1.jpg
-description: |-
-  1st August - 8th August (Nairobi to Nairobi)
-
-  7 nights/ 8 Days
-
-  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
+description: 1st August - 8th August (Nairobi to Nairobi) | 7 nights/ 8 Days
+  |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
 price: Rs. 2,02,500.00 Onwards
 buy_link: https://yourbookinglink.com
 day_by_day: >-
@@ -24,8 +20,6 @@ day_by_day: >-
 
 
   *Meals*: Lunch & Dinner.
-
-
 
 
   #### **Day 2 | Nairobi to Maasai Mara via Nakuru National Park**
@@ -54,8 +48,6 @@ day_by_day: >-
   *Meals*: Breakfast, Packed Lunch, Dinner.
 
 
-
-
   #### **Day 3 | Maasai Mara – Full Day Game Drive**
 
 
@@ -76,8 +68,6 @@ day_by_day: >-
 
 
   *Meals*: Breakfast, Packed Lunch, Dinner.
-
-
 
 
   #### **Day 4 |** Maasai Mara – The Great Migration
@@ -102,7 +92,7 @@ day_by_day: >-
   *Meals*: Breakfast, Packed Lunch, Dinner
 
 
-  #### **Day 5 | Maasaimara to Nairobi via Lake Naivasha** 
+  #### **Day 5 | Maasaimara to Nairobi via Lake Naivasha**
 
 
   * After breakfast, depart from **MaasaiMara** and begin the scenic drive toward **Nairobi**.
@@ -138,9 +128,9 @@ day_by_day: >-
   *Meals*: Breakfast, Packed Lunch, Dinner.
 
 
-  #### 
 
-  **Day 6 | Nairobi to Amboseli National Park**
+
+  #### **Day 6 | Nairobi to Amboseli National Park**
 
 
   * After breakfast, depart for **Amboseli National Park**.
@@ -190,6 +180,7 @@ day_by_day: >-
 
 
   *Meals*: Breakfast, Packed Lunch, Dinner.
+
 
 
 

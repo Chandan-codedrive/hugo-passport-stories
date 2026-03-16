@@ -1,11 +1,12 @@
 ---
 accommodations: The accodomation
-weight: 2
-title: Kenya Safari Private Tour
-image: /assets/images/gallery/large_5452_3.jpg
+weight: 1
+title: Unforgettable Safaris in Maasai Mara National Park, Amboseli, Nakuru
+image: /assets/images/gallery/wildebeest-migration-1.jpg
 description: |-
-  Kenya Highlights Safari | 8 Days
+  Kenya Highlights Safari | 7 nights/ 8 Days
   Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
+  1st August - 8th August (Nairobi to Nairobi)
 price: "1990"
 buy_link: https://yourbookinglink.com
 day_by_day: >-
@@ -286,22 +287,27 @@ fees: |-
   • Itinerary order may change for operational reasons
 inclusions: Inclusion
 ---
-
-Kenya Highlights Safari | 8 Days
-
 **Kenya Highlights Safari | 8 Days**
 
-**Nairobi •Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli**
+![Travel Route](/assets/images/gallery/picture-2.png)
 
-**Fixed-Date Group Tour**
 
-This is a fixed-date group safari with a pre-defined
-itinerary covering Kenya’s most iconic wildlife and landscapes.
 
-The tour is operated by our trusted local partner in Kenya. While we may not be
-physically present on this trip, the itinerary, routing, accommodations, and
-overall experience are carefully curated and coordinated by us to ensure
-reliability and quality.
+**Tour Overview**
+
+Start Point: Nairobi Airport
+
+*  Day 1 Nairobi
+* Day 2 Nairobi to Maasaimara via Lake Nakuru NP
+* Day 3 Maasaimara NP
+* Day 4 Maasaimara NP
+* Day 5 Maasaimara to Nairobi (*Via Lake Naivasha Optional*)
+* Day 6 Nairobi to Amboseli NP
+* Day 7 Amboseli to Nairobi 
+* Day 8 Fly back to Kolkata 
+
+End Point: Nairobi Airport
+
 
 **🌟 Why Choose This Kenya Safari**
 

@@ -151,83 +151,85 @@ faq: >-
 
 
   **A:** Depending on the park and season, you can see **elephants, lions, cheetahs, zebras, wildebeest, hippos, giraffes, rhinos**, and a variety of birds. During the Great Migration, witness **dramatic river crossings** and large herds moving across the plains.
-fees: |-
-  ✅ Price Includes
+fees: >-
+  #### **💰 Price Includes**
 
-  • Experienced and fully qualified safari
-  driver-guide
 
-  • 4x4 Land Cruiser customized for safari use
+  * All activities included in the itinerary unless specified as optional.
 
-  • Accommodation as per itinerary
+  * Accommodation in premium resorts, lodges, or hotels (or equivalent).
 
-  • All national park and conservation fees
+  * Daily meals as specified in the itinerary.
 
-  • Meals as mentioned in the itinerary
+  * Tourist visa charges for Kenya, including standard processing fees.
 
-  • Drinking water during game drives
+  * Overseas Medical Insurance (Policy Value: US$ 50,000) for travellers up to 70 years of age.
 
-  • Guided Maasai village visit
+  * Admission/entry fees, transportation, orientation/city tours, and safaris as listed in the itinerary.
 
-  • Game drives in Serengeti and Ngorongoro Crater
 
-  ❌ Price Excludes
+  #### **❌ Price Excludes**
 
-  • International flights
 
-  • Domestic flights unless specified
+  * All international flights for travellers are required before the visa application.
 
-  • Hot air balloon safari
+  * Yellow Fever Vaccination Certificate for travellers, required before visa application.
 
-  • Beverages other than drinking water
+  * Any government-imposed increase in taxes, park fees, or other statutory charges.
 
-  • Tips and gratuities
+  * Additional entrance fees beyond those mentioned in the itinerary, and other incidental expenses.
 
-  • Personal expenses
+  * Personal items such as souvenirs and Personal expenses, including calls, extra drinking water, meals outside the itinerary, room service, beverages, snacks, laundry, etc.
 
-  • Travel and medical insurance
+  * Tips to drivers and guides.
 
-  📝
-  Booking and Payment Policy
+  * Tips and porterage at airports, hotels, and personal conveyance.
 
-  • A deposit is required to confirm the
-  booking
+  * Any services or fees not listed under Inclusions.
 
-  • Full payment must be completed 60 days before departure
 
-  • Lodges and services are confirmed only after payment is received
+  #### **📝 Booking & Payment Policy**
 
-  • Payment implies acceptance of all booking terms and conditions
 
-  ♺ Cancellation
-  Policy
+  * An initial deposit of **USD 500 (GST + Other Tax) \~\~ INR 50,000** per person is required at the time of booking to secure your participation in the tour.
 
-  • 48 days or more before departure: 20
-  percent cancellation fee
+  * A second payment of **USD 400 (GST + Other Tax)  \~\~ INR 40,000** per person is due 90 days before the departure date.
 
-  • 15 to 47 days before departure: 50 percent cancellation fee
+  * The remaining balance will be communicated separately and must be settled within the specified timeline.
 
-  • Within 14 days of departure: 100 percent cancellation fee
+  * Please note that airfare is not included in the tour cost and must be arranged separately by the traveller. However, we can assist with flight bookings upon request. Travellers are strongly advised to confirm their air tickets at the time of paying the booking amount to secure the best available fares. As airline prices are dynamic and generally increase closer to departure, delayed bookings may result in higher airfare.
 
-  • No refunds once the safari has commenced
 
-  ⚠️ Important
-  Notes
+  #### **♺ Cancellation Policy**
 
-  • Travel and medical insurance is mandatory
 
-  • Safari activities take place in remote wilderness areas
+  * Cancellation made **0–30 days** before departure: **100%** of the cost will be charged.
 
-  • Wildlife sightings cannot be guaranteed
+  * Cancellation made **31–90 days** before departure: **75%** of the cost will be charged.
 
-  • Itinerary order may change due to weather or operational reasons
+  * ***50% of the initial booking amount is non-refundable under any circumstances.***
 
-  💳
-  Payment Method
+  * **Visa Delays or Refusals:** As per regulations, the Kenya e-visa must be applied only 30 days prior to travel. The visa application will be processed by us on behalf of the traveller, subject to the timely submission of complete and accurate documents and required payments. Any delay in submission of documents, incorrect information, or non-compliance from the traveller’s end may result in visa delay or rejection, for which we shall not be held responsible. In the most unlikely event of visa delay or refusal by the authorities, the booking will be treated as cancelled on the date such delay or refusal is formally communicated, and applicable cancellation charges will apply as per the policy. Any resulting cancellation, amendment, or additional expenses shall be borne entirely by the traveller. 
 
-  • Bank transfer only
+  * **No-Show:** Travellers who fail to show up on the scheduled departure date will be considered a no-show. No refunds will be provided for no-shows, and all applicable booking costs and additional charges will be forfeited.
 
-  • Any bank charges must be borne by the traveler
+  * **Payment Failure:** In case of payment failure, delay, or incomplete payment as per the payment schedule, the booking may be cancelled automatically, and any prior payments will be forfeited.
+
+
+  #### **🧒 Child Policy**
+
+
+  * **Infants (0–2 years):** Complimentary, provided no separate bed is required. Any additional services (meals, extra crib, airline charges) will be charged separately where applicable.
+
+  * **Children (3–11 years) sharing with two adults**: Charged at 50% of the per-person sharing rate, without an extra bed unless otherwise specified. Maximum 2 children per room, subject to hotel occupancy policies.
+
+  * **Children (12 years and above)**: Considered adults for accommodation and pricing purposes and will be charged the full adult rate.
+
+  * **Two children occupying a room without parents:** Charged at 75% of the full adult rate per child, subject to hotel approval and local regulations.
+
+  * **One adult with two children:** The adult will be charged the single occupancy rate, and applicable child rates will apply for each child based on age category. 
+
+  * All child rates are subject to hotel room configuration, bedding availability, and destination-specific regulations.
 inclusions: >-
   Will you be traveling with the group?
 

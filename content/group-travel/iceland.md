@@ -3,9 +3,10 @@ weight: 3
 title: Unforgettable Safaris in Kenya and Tanzania
 image: /assets/images/gallery/img_1547.jpg
 description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
-  Days |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
-price: "1999"
-buy_link: https://example.com/iceland-booking
+  Days |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli •
+  Serengeti National Park • Ngorongoro Crater • Wildlife Sanctuary
+price: Rs. 3,75,300.00 Onwards
+buy_link: https://passportstories.in/contact/
 day_by_day: .
 why_travel_with_us: |-
   **Why Plan Your Africa Trip With Us**
@@ -418,114 +419,28 @@ fees: |-
   This ensures full transparency and avoids unnecessary
   transactions.
 ---
-Traveling to Africa can feel overwhelming. Multiple
+### **🌟 Why Choose This Kenya Safari**
 
-countries, visas, safaris, long drives, safety questions, and logistics.
+* Carefully crafted itinerary covering icons like **Maasai Mara**, **Amboseli National Park**, **Serengeti** and **Ngorongoro Crater** designed for a complete Kenya & Tanzania experience.
 
-That’s where we come in.
+* Timed to maximize chances of witnessing the **Great Migration**, one of the most breathtaking wildlife events.
 
-We help you plan a smooth, safe, and well-structured Africa
+* A perfect mix of wildlife, landscapes, and culture, not just a checklist trip but a real experience.
 
-trip by working closely with trusted local partners in Kenya and Tanzania,
+* Scenic journeys through the stunning Great Rift Valley, making even travel days memorable.
 
-so you can travel with confidence and zero stress.
+* Meaningful interaction with the **Maasai community** for an authentic cultural connection.
 
-How It Works
+* Personally selected stays that balance comfort, location, and true safari vibe.
 
-Simple. Transparent. No unnecessary middlemen.
+* Designed keeping real traveler needs in mind, from pacing to photo opportunities.
 
-Our Facilitation Fee
+* Well-coordinated group feels with well-managed logistics, so you can focus on enjoying every moment.
 
-USD 150 per person
+* Enjoy close wildlife interactions, including touching a lion, feeding giraffes, zebras, and other animals.
 
+### **🏆 Cost of The Trip**
 
-
- One-time  planning and facilitation fee
-
- Paid to us directly
-
- Covers end-to-end trip planning and coordination
-
-
-
-What’s Included in Our Facilitation Service
-
-
-
-Personalized day-by-day itinerary
-
-Safari and wildlife experience planning
-
-Accommodation suggestions based on your budget 
-
-Best flight routes and airline suggestions
-
-Visa guidance and documentation checklist
-
- Pre-departure
-
-\    travel guidance
-
- Connecting
-
-\    you with trusted local African operators
-
- Coordination
-
-\    before your trip
-
- Support
-
-\    until your departure
-
-
-
-
-
-This service is designed especially for first-time Africa
-
-travelers who want clarity, safety, and honest guidance.
-
-What Is Not Included
-
-
-
- International flight tickets
-
- Visa fees
-
- Travel and medical insurance
-
- Payments to local tour operators
-
- Personal expenses
-
- Tips, drinks, laundry, souvenirs
-
- Any cost not explicitly mentioned in the itinerary
-
-
-
-
-
-On-Ground Services
-
-We do not accompany the trip in person.
-
-All on-ground services are handled by licensed and
-
-experienced local tour operators, including:
-
-
-
- Airport  pickup and drop
-
- Accommodation
-
- Transport
-
- Safaris and activities
-
- Professional
-
-\    local guides
+1. **Double Sharing: USD 4120 \~\~ INR 3,75,300# (+GST + Other Charges) per person.**
+2. **Triple Sharing: USD 4165 \~\~ INR 3,79,500# (+GST + Other Charges) per person.**
+3. **Solo Traveller: USD 4655 \~\~ INR 4,24,000# (+GST + Other Charges) per person.**

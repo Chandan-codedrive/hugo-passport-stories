@@ -35,7 +35,7 @@ description: 7th August - 12th August (Kilimanjaro to Kilimanjaro) | 5 Nights/ 6
   Days |  Arusha • Serengeti National Park • Ngorongoro Crater • Wildlife
   Sanctuary
 price: Rs. 1,99,500 Onwards
-buy_link: https://yourlink.com
+buy_link: https://passportstories.in/contact/
 day_by_day: >-
   ### **Day 1 | Arrival in Kilimanjaro Airport**
 

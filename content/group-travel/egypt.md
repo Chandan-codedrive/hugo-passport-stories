@@ -37,62 +37,54 @@ description: 7th August - 12th August (Kilimanjaro to Kilimanjaro) | 5 Nights/ 6
 price: Rs. 1,99,500 Onwards
 buy_link: https://yourlink.com
 day_by_day: >-
-  Day 1 | Arrival in Arusha
+  ### **Day 1 | Arrival in Kilimanjaro Airport**
 
 
-  Arrive at Kilimanjaro International Airport or Arusha. Transfer to your hotel
+  * Arrive and transfer to Arusha, the gateway to Tanzania’s safari circuit.
 
-  and rest.
-
-
-  Day 2 | Arusha to Ngorongoro Crater
+  * Enjoy a welcome briefing and prepare for your safari adventure.
 
 
-  Drive to Ngorongoro Conservation Area. Descend into the crater for a game drive
-
-  with excellent chances of Big Five sightings. Exit before sunset and overnight
-
-  in Karatu.
+  ### **Day 2 | Central Serengeti**
 
 
-  Day 3 | Karatu to Serengeti
+  * Explore the **Central Serengeti** on a full-day game drive, spotting lions, elephants, birds, and other wildlife.
 
 
-  Transit through Ngorongoro Conservation Area and enter Serengeti by midday.
-
-  Game drive en route to your camp in Central Serengeti.
+  ### **Day 3 | Northern Serengeti**
 
 
-  Day 4 | Serengeti Full Day
+  * Head to Northern Serengeti for game drives focused on the **Great Migration**.
+
+  * You may see **dramatic river crossings**, one of the most spectacular wildlife events in the world.
 
 
-  Morning and afternoon game drives with a midday rest. Explore the vast
-
-  Serengeti ecosystem.
+  ### **Day 4 | Central Serengeti**
 
 
-  Day 5 | Serengeti Full Day
+  * Another full day of exploring Central Serengeti with more chances to witness the **Great Migration,** along with abundant wildlife.
+
+  * Enjoy close encounters with wildlife and stunning landscapes.
+
+  * You may witness the **dramatic river crossings**.
 
 
-  Another full day of safari with extended wildlife viewing opportunities.
+  ### **Day 5 | Ngorongoro Crater**
 
 
-  Day 6 | Serengeti to Arusha
+  * Descend into the crater for a unique game drive, home to dense wildlife including rhinos, lions, and flamingos, and diverse wildlife.
 
 
-  Early exit from Serengeti with an optional short sunrise drive. Scenic drive
-
-  back to Arusha.
+  ### **Day 6 | West Kilimanjaro Wildlife Sanctuary & Departure**
 
 
-  Day 7 | Maasai Village and Serval Wildlife
+  * Enjoy close wildlife interactions, including **touching a lion**, **feeding** giraffes, zebras, and other animals.
 
-  Sanctuary
+  * Visit a traditional **Maasai village** to meet the local community.
 
+  * Transfer to the airport.
 
-  Morning visit to a Maasai village followed by Serval Wildlife Sanctuary.
-
-  Transfer to the airport for onward flight.
+  * Depart with unforgettable memories of your African safari.
 why_travel_with_us: >-
   • Designed to offer an unforgettable experience during the **Great Migration**
   season.
@@ -262,22 +254,15 @@ inclusions: >-
 
   Customization is limited. Private tours can be arranged separately.
 ---
-***🌟 Why Choose This Tanzania Safari***
+### **🌟 Why Choose This Tanzania Safari**
 
 * Carefully crafted itinerary covering icons like **Serengeti** and **Ngorongoro Crater**, designed for a complete Kenya experience.
-
 * Timed to maximize chances of witnessing the **Great Migration**, one of the most breathtaking wildlife events.
-
 * A perfect mix of wildlife, landscapes, and culture, not just a checklist trip but a real experience.
-
-* Scenic journeys through the stunning savannah, making even travel days memorable.
-
+* Scenic journeys through the stunning savannah make even travel days memorable.
 * Meaningful interaction with the **Maasai community** for an authentic cultural connection.
-
 * Personally selected stays that balance comfort, location, and true safari vibe.
-
 * Designed keeping real traveler needs in mind, from pacing to photo opportunities.
-
 * Well-coordinated group feels with well-managed logistics, so you can focus on enjoying every moment.
 
 ### **🏆 Cost of The Trip**

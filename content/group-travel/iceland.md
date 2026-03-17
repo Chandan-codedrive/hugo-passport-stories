@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: Unforgettable Safaris in Kenya and Tanzania
+title: "East Africa Migration Safari: From Maasai Mara to Serengeti National Park"
 image: /assets/images/gallery/img_1547.jpg
 description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
   Days | Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli •

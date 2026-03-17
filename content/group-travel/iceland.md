@@ -3,8 +3,8 @@ weight: 3
 title: Unforgettable Safaris in Kenya and Tanzania
 image: /assets/images/gallery/img_1547.jpg
 description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
-  Days |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli •
-  Serengeti National Park • Ngorongoro Crater • Wildlife Sanctuary
+  Days | Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli •
+  Serengeti • Ngorongoro Crater • Wildlife Sanctuary
 price: Rs. 3,75,300.00 Onwards
 buy_link: https://passportstories.in/contact/
 day_by_day: .
@@ -419,25 +419,19 @@ fees: |-
   This ensures full transparency and avoids unnecessary
   transactions.
 ---
-### **🌟 Why Choose This Kenya Safari**
+### **🌟 Why Choose This Safari**
 
-* Carefully crafted itinerary covering icons like **Maasai Mara**, **Amboseli National Park**, **Serengeti** and **Ngorongoro Crater** designed for a complete Kenya & Tanzania experience.
-
+* Carefully crafted itinerary covering icons like **Maasai Mara**, **Amboseli National Park**, **Serengeti,** and **Ngorongoro Crater,** designed for a complete Kenya & Tanzania experience.
 * Timed to maximize chances of witnessing the **Great Migration**, one of the most breathtaking wildlife events.
-
 * A perfect mix of wildlife, landscapes, and culture, not just a checklist trip but a real experience.
-
-* Scenic journeys through the stunning Great Rift Valley, making even travel days memorable.
-
+* Scenic journeys through the stunning savannah make even travel days memorable.
 * Meaningful interaction with the **Maasai community** for an authentic cultural connection.
-
+* Enjoy **close wildlife interactions**, including touching a lion, feeding giraffes, zebras, and other animals.
 * Personally selected stays that balance comfort, location, and true safari vibe.
-
 * Designed keeping real traveler needs in mind, from pacing to photo opportunities.
-
 * Well-coordinated group feels with well-managed logistics, so you can focus on enjoying every moment.
 
-* Enjoy close wildlife interactions, including touching a lion, feeding giraffes, zebras, and other animals.
+
 
 ### **🏆 Cost of The Trip**
 

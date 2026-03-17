@@ -30,7 +30,7 @@ accommodations: |-
   real-world experience.
 weight: 2
 title: "Tanzania: Unforgettable Safaris in Ngorongoro Crater, Serengeti National Park"
-image: /assets/images/gallery/pexels-photo-10740862.jpeg
+image: /assets/images/gallery/img_2316.jpg
 description: 7th August - 12th August (Kilimanjaro to Kilimanjaro) | 5 Nights/ 6
   Days |  Arusha • Serengeti National Park • Ngorongoro Crater • Wildlife
   Sanctuary

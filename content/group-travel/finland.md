@@ -47,7 +47,7 @@ day_by_day: >-
   ### **Day 5 | Maasai Mara to Nairobi via Lake Naivasha**
 
 
-  * Visit a traditional Maasai village to meet the local community and drive via Lake Naivasha.
+  * Visit a traditional **Maasai village** to meet the local community and drive via Lake Naivasha.
 
   * Continue to Nairobi.
 

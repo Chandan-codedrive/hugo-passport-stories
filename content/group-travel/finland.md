@@ -2,7 +2,7 @@
 accommodations: The accodomation
 weight: 1
 title: "Kenya: Unforgettable Safaris in Maasai Mara National Park, Amboseli, Nakuru"
-image: /assets/images/gallery/wildebeest-migration-1.jpg
+image: /assets/images/gallery/img_2316.jpg
 description: 1st August - 8th August (Nairobi to Nairobi) | 7 nights/ 8 Days
   |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
 price: Rs. 2,02,500.00 Onwards

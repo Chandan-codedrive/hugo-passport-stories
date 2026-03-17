@@ -1,6 +1,6 @@
 ---
 title: Traveling from 10 to 15 Days
-days: 1015
+days: 15
 short_description: |-
   A custom-made travel plan designed just for you, whether you’re a couple or
   a family of four (2 adults + 2 kids under 18).

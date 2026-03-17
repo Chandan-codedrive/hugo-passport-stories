@@ -7,7 +7,109 @@ description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
   Serengeti • Ngorongoro Crater • Wildlife Sanctuary
 price: Rs. 3,75,300.00 Onwards
 buy_link: https://passportstories.in/contact/
-day_by_day: .
+day_by_day: >-
+  ### **Day 1 | Arrival in Nairobi**
+
+
+  * Arrive in Nairobi, transfer to your hotel, and relax after your journey.
+
+  * Enjoy a welcome briefing and prepare for your safari adventure.
+
+
+  ### **Day 2 | Maasai Mara via Lake Nakuru**
+
+
+  * Drive via Lake Nakuru for a game drive with rhinos, flamingos, and diverse wildlife.
+
+  * Continue to **MaasaiMara**.
+
+
+  ### **Day 3 | Maasai Mara**
+
+
+  * Spend the day on thrilling game drives across the vast savannah.
+
+  * Spot big cats, elephants, and abundant wildlife in their natural habitat.
+
+  * You may see **dramatic river crossings** at the Mara River, one of the most spectacular wildlife events in the world.
+
+
+  ### **Day 4 | Maasai Mara**
+
+
+  * Another full day exploring the reserve with chances to witness the **Great Migration**.
+
+  * Enjoy close encounters with wildlife and stunning landscapes.
+
+  * You may witness the **dramatic river crossings** at the Mara River. This is part of the spectacular Great Migration.
+
+
+  ### **Day 5 | Maasai Mara to Nairobi via Lake Naivasha**
+
+
+  * Visit a traditional **Maasai village** to meet the local community and drive via Lake Naivasha.
+
+  * Continue to Nairobi.
+
+
+  ### **Day 6 | Amboseli National Park**
+
+
+  * Travel to Amboseli and enjoy an afternoon game drive with views of **Mount Kilimanjaro**.
+
+  * Spot elephants and other wildlife across the open plains.
+
+
+  ### **Day 7 | Amboseli National Park to Arusha, Tanzania**
+
+
+  * Early morning game drive to Amboseli National Park.
+
+  * Cross the border between Kenya and Tanzania.
+
+  * Transfer to Arusha, the gateway to Tanzania’s safari circuit.
+
+
+  ### **Day 8 | Central Serengeti**
+
+
+  * Explore the **Central Serengeti** on a full-day game drive, spotting lions, elephants, birds, and other wildlife.
+
+
+  ### **Day 9 | Northern Serengeti**
+
+
+  * Head to Northern Serengeti for game drives focused on the **Great Migration**.
+
+  * You may see **dramatic river crossings**, one of the most spectacular wildlife events in the world.
+
+
+  ### **Day 10 | Central Serengeti**
+
+
+  * Another full day of exploring Central Serengeti with more chances to witness the **Great Migration,** along with abundant wildlife.
+
+  * Enjoy close encounters with wildlife and stunning landscapes.
+
+  * You may witness the **dramatic river crossings**.
+
+
+  ### **Day 11 | Ngorongoro Crater**
+
+
+  * Descend into the crater for a unique game drive, home to dense wildlife including rhinos, lions, and flamingos, and diverse wildlife.
+
+
+  ### **Day 12 | West Kilimanjaro Wildlife Sanctuary & Departure**
+
+
+  * Enjoy close wildlife interactions, including **touching a lion**, **feeding** giraffes, zebras, and other animals.
+
+  * Visit a traditional **Maasai village** to meet the local community.
+
+  * Transfer to the airport.
+
+  * Depart with unforgettable memories of your African safari.
 why_travel_with_us: |-
   **Why Plan Your Africa Trip With Us**
 
@@ -430,7 +532,6 @@ fees: |-
 * Personally selected stays that balance comfort, location, and true safari vibe.
 * Designed keeping real traveler needs in mind, from pacing to photo opportunities.
 * Well-coordinated group feels with well-managed logistics, so you can focus on enjoying every moment.
-
 
 
 ### **🏆 Cost of The Trip**

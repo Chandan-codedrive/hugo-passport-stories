@@ -96,31 +96,31 @@ why_travel_with_us: >-
 
   • Premium lodges chosen for comfort and location.
 faq: >-
-  **Q. When is the best time to visit for the Great Migration?**
+  ###### **Q. When is the best time to visit for the Great Migration?**
 
 
   **A**: The Great Migration typically occurs between **July and October** in the Maasai Mara, when millions of wildebeest, zebras, and other animals cross the Mara River. Visiting during this period offers the best chance to witness this spectacular event.
 
 
-  **Q. What should I pack for the safari?**
+  ###### **Q. What should I pack for the safari?**
 
 
   **A:** Bring **light, breathable clothing** in neutral colors, a wide-brimmed hat, sunglasses, sunscreen, comfortable walking shoes, a camera with extra batteries, binoculars, and insect repellent. Evenings can be cooler, so a light jacket is recommended.
 
 
-  **Q. Are meals and accommodations included?**
+  ###### **Q. Are meals and accommodations included?**
 
 
-  **A:** Yes, the itinerary includes **meals** during safari days, as well as comfortable accommodations in lodges and hotels with modern amenities. Optional activities like boat safaris may incur additional costs.
+  **A:** Yes, the itinerary includes **meals** during safari days, as well as comfortable accommodations in lodges and hotels with modern amenities. Optional activities, such as boat safaris, may incur additional costs.
 
 
-  **Q. Is this safari suitable for children or families?**
+  ###### **Q. Is this safari suitable for children or families?**
 
 
   **A:** Absolutely! Lodges and parks are **family-friendly**, offering kid-safe accommodations and activities. Children should be supervised during game drives, and lodges may offer family-friendly amenities and excursions.
 
 
-  **Q. What wildlife can I expect to see on this trip?**
+  ###### **Q. What wildlife can I expect to see on this trip?**
 
 
   **A:** Depending on the park and season, you can see **elephants, lions, cheetahs, zebras, wildebeest, hippos, giraffes, rhinos**, and a variety of birds. During the Great Migration, witness **dramatic river crossings** and large herds moving across the plains.

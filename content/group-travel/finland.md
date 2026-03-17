@@ -1,7 +1,7 @@
 ---
 accommodations: The accodomation
 weight: 1
-title: "Kenya: Unforgettable Safaris in Maasai Mara National Park, Amboseli, Nakuru"
+title: "Chasing the Migration: Kenya’s Ultimate Safari Trail"
 image: /assets/images/gallery/img_2316.jpg
 description: 1st August - 8th August (Nairobi to Nairobi) | 7 nights/ 8 Days
   |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli

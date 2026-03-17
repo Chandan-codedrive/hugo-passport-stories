@@ -6,7 +6,7 @@ image: /assets/images/gallery/wildebeest-migration-1.jpg
 description: 1st August - 8th August (Nairobi to Nairobi) | 7 nights/ 8 Days
   |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
 price: Rs. 2,02,500.00 Onwards
-buy_link: https://yourbookinglink.com
+buy_link: /contact
 day_by_day: >-
   ### **Day 1 | Arrival in Nairobi**
 

@@ -86,32 +86,32 @@ day_by_day: >-
 
   * Depart with unforgettable memories of your African safari.
 why_travel_with_us: >-
-  • Designed to offer an unforgettable experience during the **Great Migration**
-  season.
+  * Thoughtfully designed journeys that go beyond typical itineraries, focusing
+  on real experiences.
 
 
-  • Covers Tanzania’s top national parks in one journey.
+  * We combine must-visit highlights with hidden gems for a more complete travel story.
 
 
-  • Multiple days of dedicated game drives in **Serengeti** to see the **Great** **Migration**.
+  * End-to-end planning so you don’t have to worry about logistics, timing, or coordination.
 
 
-  • **Animal** tracking at **Ngorongoro Crater**.
+  * Stays and experiences are carefully chosen based on quality, location, and overall vibe.
 
 
-  • Amboseli safari with **Mount Kilimanjaro** views.
+  * Local insights and cultural connections that make your trip more meaningful.
 
 
-  • Carefully planned drive times based on real road conditions.
+  * Smoothly managed group travel experience without the usual chaos.
 
 
-  • Premium lodges chosen for comfort and location.
+  * Ideal balance of guided activities and personal free time.
 
 
-  • Touch and interact with lions under expert supervision.
+  * Perfect for travelers who enjoy storytelling, photography, and immersive journeys.
 
 
-  • Feed majestic animals like zebras oryx and elands.
+  * A travel experience designed to feel effortless, engaging, and memorable from start to finish.
 faq: >-
   **Q. When is the best time to visit for the Great Migration?**
 

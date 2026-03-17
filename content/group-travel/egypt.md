@@ -29,7 +29,7 @@ accommodations: |-
   We curate trips the same way we plan our own journeys with care, honesty, and
   real-world experience.
 weight: 2
-title: "Tanzania: Unforgettable Safaris in Ngorongoro Crater, Serengeti National Park"
+title: "The Great Migration Safari: Tanzania at It's Wildest"
 image: /assets/images/gallery/img_1824.jpg
 description: 7th August - 12th August (Kilimanjaro to Kilimanjaro) | 5 Nights/ 6
   Days |  Arusha • Serengeti National Park • Ngorongoro Crater • Wildlife

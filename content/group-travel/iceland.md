@@ -1,9 +1,9 @@
 ---
 weight: 3
-title: Africa Travel Planning & Facilitation
-image: /assets/images/gallery/485107391_9623880551002631_2788683077250026839_n.jpg
-description: Traveling to Africa can feel overwhelming. Multiple countries,
-  visas, safaris, long drives, safety questions, and logistics.
+title: Unforgettable Safaris in Kenya and Tanzania
+image: /assets/images/gallery/img_1547.jpg
+description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
+  Days |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
 price: "1999"
 buy_link: https://example.com/iceland-booking
 day_by_day: .

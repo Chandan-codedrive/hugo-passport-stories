@@ -7,22 +7,73 @@ description: 1st August - 8th August (Nairobi to Nairobi) | 7 nights/ 8 Days
   |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
 price: Rs. 2,02,500.00 Onwards
 buy_link: https://yourbookinglink.com
-day_by_day: |-
+day_by_day: >-
   ### **Day 1 | Arrival in Nairobi**
+
+
+  * Arrive in Nairobi, transfer to your hotel, and relax after your journey.
+
+  * Enjoy a welcome briefing and prepare for your safari adventure.
+
 
   ### **Day 2 | Maasai Mara via Lake Nakuru**
 
+
+  * Drive via Lake Nakuru for a game drive with rhinos, flamingos, and diverse wildlife.
+
+  * Continue to **MaasaiMara**.
+
+
   ### **Day 3 | Maasai Mara**
 
-  ### **Day 4 |** Maasai Mara
+
+  * Spend the day on thrilling game drives across the vast savannah.
+
+  * Spot big cats, elephants, and abundant wildlife in their natural habitat.
+
+  * You may see **dramatic river crossings** at the Mara River, one of the most spectacular wildlife events in the world.
+
+
+  ### **Day 4 | Maasai Mara**
+
+
+  * Another full day exploring the reserve with chances to witness the **Great Migration**.
+
+  * Enjoy close encounters with wildlife and stunning landscapes.
+
+  * You may witness the **dramatic river crossings** at the Mara River. This is part of the spectacular Great Migration.
+
 
   ### **Day 5 | Maasai Mara to Nairobi via Lake Naivasha**
 
+
+  * Visit a traditional Maasai village to meet the local community and drive via Lake Naivasha.
+
+  * Continue to Nairobi.
+
+
   ### **Day 6 | Amboseli National Park**
 
-  ### **Day 7 | Amboseli** National Park **to Nairobi**
+
+  * Travel to Amboseli and enjoy an afternoon game drive with views of **Mount Kilimanjaro**.
+
+  * Spot elephants and other wildlife across the open plains.
+
+
+  ### **Day 7 | Amboseli National Park to Nairobi**
+
+
+  * Early morning game drive to Amboseli National Park.
+
+  * Return to Nairobi and enjoy your final evening.
+
 
   ### **Day 8 | Departure**
+
+
+  * Transfer to the airport.
+
+  * Depart with unforgettable memories of your African safari.
 why_travel_with_us: >-
   • Designed to offer an unforgettable experience during the **Great Migration**
   season.

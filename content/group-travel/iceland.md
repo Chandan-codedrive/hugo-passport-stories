@@ -110,416 +110,97 @@ day_by_day: >-
   * Transfer to the airport.
 
   * Depart with unforgettable memories of your African safari.
-why_travel_with_us: |-
-  **Why Plan Your Africa Trip With Us**
-
-  Real  on-ground Africa travel experience
-
-  Trusted local partners in Kenya and Tanzania
-
-  No hidden costs or commissions
-
-  Honest advice based on experience, not sales
-
-  Clear separation of planning and execution
-
-  Support from planning stage until departure
+why_travel_with_us: >-
+  * Thoughtfully designed journeys that go beyond typical itineraries, focusing
+  on real experiences.
 
 
+  * We combine must-visit highlights with hidden gems for a more complete travel story.
 
-  Who This Service Is For
 
-  First-time Africa travelers
+  * End-to-end planning so you don’t have to worry about logistics, timing, or coordination.
 
-  Safari and wildlife lovers
 
-  Travelers who want expert planning without confusion
+  * Stays and experiences are carefully chosen based on quality, location, and overall vibe.
 
-  People who prefer transparency and direct
 
-  payments
+  * Local insights and cultural connections that make your trip more meaningful.
+
+
+  * Smoothly managed group travel experience without the usual chaos.
+
+
+  * Ideal balance of guided activities and personal free time.
+
+
+  * Perfect for travelers who enjoy storytelling, photography, and immersive journeys.
+
+
+  * A travel experience designed to feel effortless, engaging, and memorable from start to finish.
 faq: >-
-  **Frequently Asked Questions (FAQ)**
+  ###### **Q. When is the best time to visit for the Great Migration?**
 
 
-  1. What exactly do you do as a travel facilitator?
+  **A**: The Great Migration typically occurs between **July and October** in the Maasai Mara, when millions of wildebeest, zebras, and other animals cross the Mara River. Visiting during this period offers the best chance to witness this spectacular event.
 
 
-  We handle end-to-end planning: itinerary design, visa
+  ###### **Q. What should I pack for the safari?**
 
 
-  guidance, flight suggestions, accommodation planning, safari planning, and
+  **A:** Bring **light, breathable clothing** in neutral colors, a wide-brimmed hat, sunglasses, sunscreen, comfortable walking shoes, a camera with extra batteries, binoculars, and insect repellent. Evenings can be cooler, so a light jacket is recommended.
 
 
-  connecting you with trusted local African tour operators who execute the trip
+  ###### **Q. Are meals and accommodations included?**
 
 
-  on ground.
+  **A:** Yes, the itinerary includes **meals** during safari days, as well as comfortable accommodations in lodges and hotels with modern amenities. Optional activities, such as boat safaris, may incur additional costs.
 
 
-  2. Are you a tour operator?
+  ###### **Q. Is this safari suitable for children or families?**
 
 
-  No. We are travel planners and facilitators.
+  **A:** Absolutely! Lodges and parks are **family-friendly**, offering kid-safe accommodations and activities. Children should be supervised during game drives, and lodges may offer family-friendly amenities and excursions.
 
 
+  ###### **Q. What wildlife can I expect to see on this trip?**
 
 
-  All on-ground services are provided by licensed local tour operators in the
+  **A:** Depending on the park and season, you can see **elephants, lions, cheetahs, zebras, wildebeest, hippos, giraffes, rhinos**, and a variety of birds. During the Great Migration, witness **dramatic river crossings** and large herds moving across the plains.
+fees: >-
+  #### **💰 Price Includes**
 
 
-  destination country.
+  * All activities included in the itinerary unless specified as optional.
 
+  * Accommodation in premium resorts, lodges, or hotels (or equivalent).
 
-  3. Will you be traveling with us?
+  * Daily meals as specified in the itinerary.
 
+  * Tourist visa charges for Kenya, including standard processing fees.
 
-  No. We do not accompany the trip in person.
+  * Overseas Medical Insurance (Policy Value: US$ 50,000) for travelers up to 70 years of age.
 
+  * Admission/entry fees, transportation, orientation/city tours, and safaris as listed in the itinerary.
 
 
+  #### **❌ Price Excludes**
 
-  All on-ground support is provided by the local partner team.
 
+  * All international flights for travellers are required before the visa application.
 
-  4. Who do we pay for the actual trip?
+  * Yellow Fever Vaccination Certificate for travellers, required before visa application.
 
+  * Any government-imposed increase in taxes, park fees, or other statutory charges.
 
-  You pay the full trip cost directly to the local African
+  * Additional entrance fees beyond those mentioned in the itinerary, and other incidental expenses.
 
+  * Personal items such as souvenirs and Personal expenses, including calls, extra drinking water, meals outside the itinerary, room service, beverages, snacks, laundry, etc.
 
-  tour operator, covering hotels, safaris, transport, guides, and activities.
+  * Tips to drivers and guides.
 
+  * Tips and porterage at airports, hotels, and personal conveyance.
 
-  5. What is the USD 150 facilitation fee for?
-
-
-  The fee covers:
-
-
-
-   Personalized     itinerary planning
-
-   Visa  guidance and checklist
-
-   Flight  route and airline suggestions
-
-   Accommodation  planning Safari
-
-  \    and activity planning
-
-   Connecting  you with trusted local partners
-
-   Pre-departure  coordination
-
-
-
-
-
-  This is a one-time, non-refundable planning fee.
-
-
-  6. Does the facilitation fee include flights?
-
-
-  No.
-
-
-
-
-  We suggest the best flight options, but flight bookings are done directly by
-
-
-  the traveler.
-
-
-   
-
-
-  7. Why don’t you collect the full trip payment?
-
-
-  We believe in complete transparency.
-
-
-
-
-  By paying the local African tour operator directly, you know exactly where your
-
-
-  money is going and avoid unnecessary markups or intermediaries.
-
-
-  8. How do you choose your local partners?
-
-
-  We work only with licensed, experienced local tour operators
-
-
-  who have proven safety records, strong local teams, and deep on-ground
-
-
-  knowledge.
-
-
-
-
-  These partners are selected based on reliability, guest feedback, and
-
-
-  responsible tourism practices.
-
-
-  9. Is my money safe if I pay the local operator directly?
-
-
-  Payments are made to registered local tour companies that
-
-
-  operate legally in their country.
-
-
-
-
-  We guide you on payment timelines, methods, and documentation, but the
-
-
-  financial transaction is strictly between you and the local operator.
-
-
-  10. Can I customize the itinerary after it’s shared?
-
-
-  Yes.
-
-
-
-
-  The itinerary is fully customizable before confirmation. We revise it based on
-
-
-  your feedback, budget, pace, and travel style until it fits you perfectly.
-
-
-  11. What happens if my travel dates change?
-
-
-  If dates change before the itinerary is finalized, we adjust
-
-
-  the plan accordingly.
-
-
-
-
-  Any changes after booking are subject to the local operator’s policies for
-
-
-  accommodations, safaris, and permits.
-
-
-  12. What if something goes wrong during the trip?
-
-
-  Your on-ground support comes from the local operator, who is
-
-
-  responsible for logistics, safety, and execution.
-
-
-
-
-  We stay available before departure, but real-time on-trip support is handled by
-
-
-  the local team on the ground.
-
-
-  13. Do you offer group or family planning?
-
-
-  Yes.
-
-
-
-
-  We plan trips for couples, families, friends, and small private groups.
-
-
-
-
-  Group size, rooming, and vehicle requirements are planned carefully to ensure
-
-
-  comfort.
-
-
-  14. Is this service suitable for solo travelers?
-
-
-  Absolutely.
-
-
-
-
-  Many solo travelers prefer having an expert plan and vetted local support while
-
-
-  traveling independently.
-
-
-  15. Can you help with visa applications?
-
-
-  We provide visa guidance, document checklists, timelines,
-
-
-  and tips.
-
-
-
-
-  Actual visa application submission and fees are handled by the traveler.
-
-
-  16. Do you guarantee wildlife sightings?
-
-
-  No.
-
-
-
-
-  Safaris take place in natural habitats where animals roam freely. While we plan
-
-
-  routes and seasons carefully, wildlife sightings can never be guaranteed.
-
-
-  17. Are safaris safe?
-
-
-  Yes, when done responsibly.
-
-
-
-
-  We work with experienced guides, well-maintained vehicles, and operators who
-
-
-  follow park rules and safety protocols.
-
-
-  18. Can you plan trips beyond Kenya and Tanzania?
-
-
-  Currently, our primary focus is Kenya and Tanzania,
-
-
-  where we have strong on-ground experience and trusted partners.
-
-
-
-
-  Other African destinations may be added in the future.
-
-
-  19. Is the facilitation fee refundable?
-
-
-  No.
-
-
-
-
-  The facilitation fee is a non-refundable planning and service fee, as work
-
-
-  begins immediately after confirmation.
-
-
-  20. Do you earn commission from the local operators?
-
-
-  Our primary compensation is the facilitation fee.
-
-
-
-
-  Any partner relationships are chosen for quality and safety, not commissions.
-
-
-  21. How early should I start planning my Africa trip?
-
-
-  Ideally:
-
-
-
-   6 to 9
-
-  \    months in advance for peak season
-
-   3 to 5
-
-  \    months for shoulder season
-
-
-
-
-  \    Earlier planning gives better lodge availability and pricing.
-
-
-
-
-
-
-  22. What type of accommodation do you recommend?
-
-
-  We suggest accommodations based on your budget, comfort
-
-
-  level, and experience preference, ranging from mid-range lodges to luxury
-
-
-  tented camps.
-
-
-  23. Will I have one guide throughout the safari?
-
-
-  In most cases, yes.
-
-
-
-
-  Your local operator will assign a dedicated driver-guide for the safari portion
-
-
-  of your trip.
-
-
-  24. Do I need travel insurance?
-
-
-  Yes.
-
-
-
-
-  Comprehensive travel and medical insurance is mandatory for all Africa trips.
-fees: |-
-  
-  **Payment Structure (Important)**
-
-  *   USD 150 per person is paid to us as a facilitation fee
-     All  trip costs are paid directly by you to the local African tour operator
-     Flights  are booked directly by the traveler
-
-
-  This ensures full transparency and avoids unnecessary
-  transactions.
+  * Any services or fees not listed under Inclusions.
 ---
 ### **🌟 Why Choose This Safari**
 

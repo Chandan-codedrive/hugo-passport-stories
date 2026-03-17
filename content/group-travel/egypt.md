@@ -30,7 +30,7 @@ accommodations: |-
   real-world experience.
 weight: 2
 title: "The Great Migration Safari: Tanzania at It's Wildest"
-image: /assets/images/gallery/img_1824.jpg
+image: /assets/images/gallery/untitled-1-.png
 description: 7th August - 12th August (Kilimanjaro to Kilimanjaro) | 5 Nights/ 6
   Days |  Arusha • Serengeti National Park • Ngorongoro Crater • Wildlife
   Sanctuary

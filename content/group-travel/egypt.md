@@ -220,6 +220,7 @@ inclusions: >-
 * Personally selected stays that balance comfort, location, and true safari vibe.
 * Designed keeping real traveler needs in mind, from pacing to photo opportunities.
 * Well-coordinated group feels with well-managed logistics, so you can focus on enjoying every moment.
+* Enjoy close wildlife interactions, including touching a lion, feeding giraffes, zebras, and other animals.
 
 ### **🏆 Cost of The Trip**
 

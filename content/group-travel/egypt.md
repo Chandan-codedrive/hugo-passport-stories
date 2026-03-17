@@ -262,34 +262,26 @@ inclusions: >-
 
   Customization is limited. Private tours can be arranged separately.
 ---
-![Travel Route Overview](/assets/images/gallery/picture-1.png "Travel Route Overview")
+***🌟 Why Choose This Tanzania Safari***
 
-### **Tour Overview**
+* Carefully crafted itinerary covering icons like **Serengeti** and **Ngorongoro Crater**, designed for a complete Kenya experience.
 
-Start Point: Kilimanjaro Airport
+* Timed to maximize chances of witnessing the **Great Migration**, one of the most breathtaking wildlife events.
 
-* Day 1 Arusha
-* Day 2 Central Serengeti NP
-* Day 3 Northern Serengeti NP
-* Day 4 Central Serengeti  NP
-* Day 5 Ngorongoro Crater
-* Day 6 West Kilimanjaro
+* A perfect mix of wildlife, landscapes, and culture, not just a checklist trip but a real experience.
 
-End Point: Kilimanjaro Airport
+* Scenic journeys through the stunning savannah, making even travel days memorable.
+
+* Meaningful interaction with the **Maasai community** for an authentic cultural connection.
+
+* Personally selected stays that balance comfort, location, and true safari vibe.
+
+* Designed keeping real traveler needs in mind, from pacing to photo opportunities.
+
+* Well-coordinated group feels with well-managed logistics, so you can focus on enjoying every moment.
 
 ### **🏆 Cost of The Trip**
 
 1. **Double Sharing: USD 2295 \~\~ INR 2,09,000# (+GST + Other Charges) per person.**
 2. **Triple Sharing: USD 2190 \~\~ INR 1,99,500# (+GST + Other Charges) per person.**
 3. **Solo Traveller: USD 2550 \~\~ INR 2,32,300# (+GST + Other Charges) per person.**
-
-***🌟 Why Choose This Tanzania Safari***
-
-* Guided safari in a 4x4 Land Cruiser with an experienced local driver-guide.
-* Multiple days in Serengeti for relaxed and unhurried wildlife viewing.
-* Strategic use of Ngorongoro Crater without overnight conservation fees.
-* Premium lodges and tented camps chosen for comfort and location.
-* Cultural interaction with Maasai communities.
-* Routes and pacing planned based on real on-ground travel experience.
-* Touch and interact with lions under expert supervision.
-* Feed majestic animals like zebras and elands.

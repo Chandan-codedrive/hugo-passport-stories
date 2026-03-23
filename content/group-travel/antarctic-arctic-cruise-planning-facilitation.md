@@ -1,0 +1,188 @@
+---
+weight: 4
+title: Antarctic & Arctic Cruise Planning & Facilitation
+image: /assets/images/gallery/a.png
+description: >
+  Antarctica Cruises - Including South Georgia, Falklands &
+
+  Arctic Cruises – Including Svalbard, Greenland, Iceland & Norway
+
+
+  Polar expeditions are unique and demand thoughtful planning. As experienced professionals with strong practical expertise, we help you choose the ideal cruise, itinerary, and cabin that best match your preferences, budget, and travel goals, while providing complete end-to-end planning support and coordination.
+price: From €300 Onwards
+day_by_day: To be added
+why_travel_with_us: >-
+  ## We are Mahulima and Kaustuv, travelers who explored 89 countries across 6
+  continents. We believe great trips are built on real experience, not sales
+  brochures.
+
+
+  ### Why Book Through Us? 
+
+  * Real polar travel experience and knowledge.
+
+  * Honest advice, not sales pitches.
+
+  * Transparent process with no hidden costs.
+
+  * Trusted local and international partners.
+
+  * Planning based on real routes and seasonal conditions.
+
+
+  ### Our approach:
+
+  * We travel first and curate later.
+
+  * Every route, stay, and experience is based on real travel on the ground.
+
+  * No rushed schedules or unrealistic promises.
+
+
+  ### What sets us apart:
+
+  * Honest planning based on real drive times and seasonal conditions.
+
+  * Trusted partners who prioritize safety and responsible tourism.
+
+  * Trips designed for curious travelers who want in-depth knowledge, not checklists.
+
+
+  ### Our promise:
+
+  * We plan trips the way we travel - with care, honesty, and real-world experience.
+faq: >-
+  ### **Q:** Do you travel with us?
+
+  **A:** No. This is a planning and facilitation service only. The cruise operator handles all on-ground and onboard services.
+
+
+  ### *Q:* Do you book the cruise for us?
+
+  **A:** No. You will pay the cruise operator directly. We will help you choose the right cruise, time, and cabin.
+
+
+  ### *Q:* Can you help with flight bookings?
+
+  **A:** Yes, we will provide flight suggestions and transfer planning, but you will book flights directly.
+
+
+  ### *Q:* Can you customize the cruise itinerary?
+
+  **A:** Cruise itineraries are fixed. However, we help you choose the route that matches your priorities.
+
+
+  ### *Q:* What if the cruise is full?
+
+  **A:** We will suggest alternative dates or similar cruises based on availability.
+
+
+  ### *Q:* Is your service refundable?
+
+  **A:** The facilitation fee is non-refundable because it covers only planning and coordination.
+fees: >+
+  ## Facilitation Fee
+
+  ** We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.**
+
+
+  ### 10-Day Antarctica or Arctic Cruise
+
+  * Solo Traveler: **€300** per person
+
+  * Couple / Two Travelers: **€500** per couple
+
+
+  ### 20-Day South Georgia / Extended Antarctica Cruise
+
+  * Solo Traveler: **€400** per person
+
+  * Couple / Two Travelers: **€700** per couple
+
+
+  ### Optional Add-on (*Premium Support*)
+
+  #### Premium Support Add-on: **€150** extra per person
+
+  ** Includes:** 
+
+  * Detailed pre-trip call.
+
+  * Full document review.
+
+  * Customized packing list.
+
+  * Extra planning support.
+   
+  ### What the Facilitation Fee includes
+
+  * Cruise selection and comparison.
+
+  * Cabin and itinerary recommendations.
+
+  * Flight route and transfer guidance.
+
+  * Visa documentation checklist.
+
+  * Pre-departure briefing and packing guidance.
+
+  * Direct connection with trusted cruise operators.
+
+  * Coordination and support until departure.
+   
+  ### What’s not included
+
+  * Cruise payment (*Paid directly to the operator*).
+
+  * International flights.
+
+  * Travel insurance.
+
+  * Personal expenses.
+
+  * Optional onboard activities. (*If not included in cruise price*)
+
+
+  ### Why is this Fee worth it?
+
+  * Polar cruises have limited availability and complex logistics. With our guidance, you get a smooth and confident booking experience, without any confusion or hidden costs.
+---
+## Who This Is For?
+
+* First-time polar travelers.
+* Solo travelers, couples, or small groups.
+* Wildlife and photography enthusiasts.
+* Travelers who want safe and well-planned polar cruises.
+* People who want honest guidance without confusion.
+
+## What do we do as Cruise Facilitators?
+* Cruises in polar regions involve complex logistics, limited availability, and strict rules. We simplify everything by:
+
+### 1. Understanding your goals:
+* Travel dates, budget, and interests.
+* Must-see places like South Georgia, Falklands, Svalbard, Greenland, etc.
+* Wildlife focus, photography, and adventure.
+
+### 2. Finding the right cruise
+* Best route and ship options.
+* Cabin recommendations.
+* Comparing inclusions, expedition programs, and pricing.
+
+### 3. Handling the planning
+* Itinerary planning and route options.
+* Flight suggestions and airport transfers.
+* Visa and travel documentation guidance.
+* Pre-departure checklist.
+
+### 4. Connecting you with the best operators
+* Trusted and verified polar cruise companies.
+* High safety standards.
+* Experienced expedition teams.
+* Responsible tourism practices.
+   
+## How It Works
+* You share your travel dates, budget, and interests.
+* We shortlist the best cruise options.
+* You choose the cruise that fits your style.
+* You pay the cruise operator directly.
+* We support you until departure.

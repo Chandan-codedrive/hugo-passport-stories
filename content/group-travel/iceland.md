@@ -5,7 +5,7 @@ image: /assets/images/gallery/31.jpeg
 description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
   Days | Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli •
   Serengeti • Ngorongoro Crater • Wildlife Sanctuary
-price: Rs. 3,75,300.00 Onwards
+price: 3,75,300 Onwards
 buy_link: https://passportstories.in/contact/
 day_by_day: >-
   ### **Day 1 | Arrival in Nairobi**

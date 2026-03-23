@@ -157,23 +157,23 @@ fees: >-
   ## Facilitation Fee
 
 
-  ###### We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.
+  We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.
 
 
   ### 10-Day Antarctica or Arctic Cruise
 
 
-  * Solo Traveler: **Rs. 35000/-** per person
+  * **Solo Traveler: Rs. 35000/- per person**
 
-  * Couple / Two Travelers: **Rs. 50000/-** per couple
+  * **Couple / Two Travelers: Rs. 50000/- per couple**
 
 
   ### 20-Day Extended Antarctica Cruise
 
 
-  * Solo Traveler: **Rs. 45000/-** per person
+  * **Solo Traveler: Rs. 45000/- per person**
 
-  * Couple / Two Travelers: **Rs. 65000/-** per couple
+  * **Couple / Two Travelers: Rs. 65000/- per couple**
 
 
   ### Optional Add-on (*Premium Support*)

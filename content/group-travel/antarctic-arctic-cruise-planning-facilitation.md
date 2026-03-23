@@ -224,7 +224,7 @@ fees: >
 * People who want honest guidance without confusion.
 
 ## What do we do as Cruise Facilitators?
-* Cruises in polar regions involve complex logistics, limited availability, and strict rules. We simplify everything by:
+Cruises in polar regions involve complex logistics, limited availability, and strict rules. We simplify everything by:
 
 ### 1. Understanding your goals:
 * Travel dates, budget, and interests.

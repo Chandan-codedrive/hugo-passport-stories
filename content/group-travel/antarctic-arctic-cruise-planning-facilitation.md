@@ -5,7 +5,7 @@ image: /assets/images/gallery/a.png
 description: |
   Antarctica Cruises - Including South Georgia, Falklands  | 
   Arctic Cruises – Including Svalbard, Greenland, Iceland & Norway
-price: From €300 Onwards
+price: From Rs. 35000 Onwards
 day_by_day: >-
   Polar expeditions are unique and demand thoughtful planning. As experienced
   professionals with strong practical expertise, we help you choose the ideal
@@ -125,27 +125,27 @@ faq: >-
   **A:** No. This is a planning and facilitation service only. The cruise operator handles all on-ground and onboard services.
 
 
-  ### *Q:* Do you book the cruise for us?
+  ### **Q:** Do you book the cruise for us?
 
   **A:** No. You will pay the cruise operator directly. We will help you choose the right cruise, time, and cabin.
 
 
-  ### *Q:* Can you help with flight bookings?
+  ### **Q:** Can you help with flight bookings?
 
   **A:** Yes, we will provide flight suggestions and transfer planning, but you will book flights directly.
 
 
-  ### *Q:* Can you customize the cruise itinerary?
+  ### **Q:** Can you customize the cruise itinerary?
 
   **A:** Cruise itineraries are fixed. However, we help you choose the route that matches your priorities.
 
 
-  ### *Q:* What if the cruise is full?
+  ### **Q:** What if the cruise is full?
 
   **A:** We will suggest alternative dates or similar cruises based on availability.
 
 
-  ### *Q:* Is your service refundable?
+  ### **Q:** Is your service refundable?
 
   **A:** The facilitation fee is non-refundable because it covers only planning and coordination.
 fees: >
@@ -154,23 +154,23 @@ fees: >
   ** We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.**
 
 
-  ### 10-Days Antarctica or Arctic Cruise
+  ### 10-Day Antarctica or Arctic Cruise
 
-  * Solo Traveler: **€300** per person
+  * Solo Traveler: **Rs. 35000/-** per person
 
-  * Couple / Two Travelers: **€500** per couple
+  * Couple / Two Travelers: **Rs. 50000/-** per couple
 
 
-  ### 20-Days South Georgia / Extended Antarctica Cruise
+  ### 20-Day Extended Antarctica Cruise
 
-  * Solo Traveler: **€400** per person
+  * Solo Traveler: **Rs. 45000/-** per person
 
-  * Couple / Two Travelers: **€700** per couple
+  * Couple / Two Travelers: **Rs. 65000/-** per couple
 
 
   ### Optional Add-on (*Premium Support*)
 
-  #### Premium Support Add-on: **€150** extra per person
+  #### Premium Support Add-on: **Rs. 15000/-** extra per person
 
   ** Includes:** 
 

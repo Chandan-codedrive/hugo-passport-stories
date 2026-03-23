@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "East Africa Migration Safari: From Maasai Mara to Serengeti National Park"
-image: /assets/images/gallery/untitled.png
+image: /assets/images/gallery/31.jpeg
 description: 1st August - 12 th August (Nairobi to Kilimanjaro) | 11 nights/ 12
   Days | Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli •
   Serengeti • Ngorongoro Crater • Wildlife Sanctuary

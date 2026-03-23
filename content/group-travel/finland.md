@@ -5,7 +5,7 @@ title: "Chasing the Migration: Kenya’s Ultimate Safari Trail"
 image: /assets/images/gallery/1.png
 description: 1st August - 8th August (Nairobi to Nairobi) | 7 nights/ 8 Days
   |  Nairobi • Maasai Mara • Lake Nakuru • Lake Naivasha • Amboseli
-price: Rs. 2,02,500.00 Onwards
+price: 2,02,500 Onwards
 buy_link: https://passportstories.in/contact/
 day_by_day: >-
   ### **Day 1 | Arrival in Nairobi**

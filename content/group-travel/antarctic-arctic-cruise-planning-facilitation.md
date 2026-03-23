@@ -15,6 +15,9 @@ day_by_day: >-
   coordination.
 
 
+  ![](/assets/images/gallery/dsc_2948.jpg "Antarctica Expedition")
+
+
   ## 10-Day Antarctica Cruise
 
 
@@ -37,6 +40,11 @@ day_by_day: >-
   * A perfect introduction to the Antarctic wilderness in a shorter timeframe.
 
 
+
+
+  ![](/assets/images/gallery/dsc_3268.jpg "Artic Polar Expedition")
+
+
   ## 10-Day Arctic Cruise
 
 
@@ -57,6 +65,9 @@ day_by_day: >-
   * Every day is shaped by ice conditions and wildlife movements, making each journey unique.
 
   * A perfect blend of adventure, wildlife, and surreal Arctic beauty.
+
+
+  ![](/assets/images/gallery/dsc_2331.jpg "Falkland, South Georgia & Antarctica Expedition")
 
 
   ## 20-Day Extended Antarctica Cruise

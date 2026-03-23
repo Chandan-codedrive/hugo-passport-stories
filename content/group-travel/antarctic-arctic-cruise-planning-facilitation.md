@@ -6,11 +6,79 @@ description: |
   Antarctica Cruises - Including South Georgia, Falklands  | 
   Arctic Cruises – Including Svalbard, Greenland, Iceland & Norway
 price: From €300 Onwards
-day_by_day: Polar expeditions are unique and demand thoughtful planning. As
-  experienced professionals with strong practical expertise, we help you choose
-  the ideal cruise, itinerary, and cabin that best match your preferences,
-  budget, and travel goals, while providing complete end-to-end planning support
-  and coordination.
+day_by_day: >-
+  Polar expeditions are unique and demand thoughtful planning. As experienced
+  professionals with strong practical expertise, we help you choose the ideal
+  cruise, itinerary, and cabin that best match your preferences, budget, and
+  travel goals, while providing complete end-to-end planning support and
+  coordination.
+
+
+  ## 10-Days Antarctica Cruise
+
+  * A 10-day expedition to Antarctica, the most remote and untouched place on Earth.
+
+  * Sail across the legendary Drake Passage, a true adventure in itself.
+
+  * Explore stunning ice landscapes filled with glaciers, icebergs, and snow-covered peaks.
+
+  * Step onto the Antarctic continent with guided Zodiac landings and shore excursions.
+
+  * Get close to incredible wildlife like penguins, seals, and whales.
+
+  * A paradise for photography with dramatic scenery, wildlife encounters, and magical light.
+
+  * Experience raw, untouched nature in its purest and most powerful form.
+
+  * Every day is unique, shaped by weather, ice conditions, and wildlife sightings.
+
+  * A perfect introduction to the Antarctic wilderness in a shorter timeframe.
+
+
+
+  ##  10-Days Arctic Cruise
+
+  * A 10-day expedition into the Arctic, one of the most remote and pristine regions on Earth.
+
+  * Explore the dramatic landscapes of Svalbard with glaciers, fjords, and rugged mountains.
+
+  * Cruise through icy waters under the magical Midnight Sun.
+
+  * Get a chance to spot iconic wildlife like polar bears, walruses, Arctic foxes, and whales.
+
+  * Experience close-up encounters through Zodiac landings and guided shore excursions.
+
+  * A paradise for photography with striking contrasts of ice, sea, and wildlife.
+
+  * Witness raw, untouched nature in its most powerful and silent form.
+
+  * Every day is shaped by ice conditions and wildlife movements, making each journey unique.
+
+  * A perfect blend of adventure, wildlife, and surreal Arctic beauty.
+
+
+
+  ## 20-Days South Georgia / Extended Antarctica Cruise
+
+  * A 20-day journey covering the Falkland Islands, South Georgia, and Antarctica.
+
+  * Experience the rugged landscapes and incredible birdlife of the Falklands.
+
+  * Witness massive king penguin colonies and rich wildlife in South Georgia.
+
+  * Explore breathtaking icebergs, glaciers, and untouched landing sites in Antarctica.
+
+  * Sail across the legendary Drake Passage.
+
+  * Get close to wildlife like whales, seals, and thousands of seabirds.
+
+  * A paradise for photography with dramatic landscapes, unique wildlife, and ever-changing light.
+
+  * Experience raw, untouched nature at its most powerful and pristine.
+
+  * Enjoy Zodiac landings and guided shore excursions.
+
+  * A once-in-a-lifetime expedition into the wildest and most remote corners of our planet.
 why_travel_with_us: >-
   ## We are Mahulima and Kaustuv, travelers who explored 89 countries across 6
   continents. We believe great trips are built on real experience, not sales
@@ -86,14 +154,14 @@ fees: >
   ** We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.**
 
 
-  ### 10-Day Antarctica or Arctic Cruise
+  ### 10-Days Antarctica or Arctic Cruise
 
   * Solo Traveler: **€300** per person
 
   * Couple / Two Travelers: **€500** per couple
 
 
-  ### 20-Day South Georgia / Extended Antarctica Cruise
+  ### 20-Days South Georgia / Extended Antarctica Cruise
 
   * Solo Traveler: **€400** per person
 

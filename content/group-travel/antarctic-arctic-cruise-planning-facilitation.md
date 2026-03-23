@@ -5,7 +5,7 @@ image: /assets/images/gallery/a.png
 description: |
   Antarctica Cruises - Including South Georgia, Falklands  | 
   Arctic Cruises – Including Svalbard, Greenland, Iceland & Norway
-price: From Rs. 35000 Onwards
+price: 35,000.00 Onwards
 day_by_day: >-
   Polar expeditions are unique and demand thoughtful planning. As experienced
   professionals with strong practical expertise, we help you choose the ideal
@@ -14,7 +14,8 @@ day_by_day: >-
   coordination.
 
 
-  ## 10-Days Antarctica Cruise
+  ## 10-Day Antarctica Cruise
+
 
   * A 10-day expedition to Antarctica, the most remote and untouched place on Earth.
 
@@ -35,8 +36,8 @@ day_by_day: >-
   * A perfect introduction to the Antarctic wilderness in a shorter timeframe.
 
 
+  ## 10-Day Arctic Cruise
 
-  ##  10-Days Arctic Cruise
 
   * A 10-day expedition into the Arctic, one of the most remote and pristine regions on Earth.
 
@@ -57,8 +58,8 @@ day_by_day: >-
   * A perfect blend of adventure, wildlife, and surreal Arctic beauty.
 
 
+  ## 20-Day Extended Antarctica Cruise
 
-  ## 20-Days South Georgia / Extended Antarctica Cruise
 
   * A 20-day journey covering the Falkland Islands, South Georgia, and Antarctica.
 
@@ -85,7 +86,8 @@ why_travel_with_us: >-
   brochures.
 
 
-  ### Why Book Through Us? 
+  ### Why Book Through Us?
+
 
   * Real polar travel experience and knowledge.
 
@@ -100,6 +102,7 @@ why_travel_with_us: >-
 
   ### Our approach:
 
+
   * We travel first and curate later.
 
   * Every route, stay, and experience is based on real travel on the ground.
@@ -109,6 +112,7 @@ why_travel_with_us: >-
 
   ### What sets us apart:
 
+
   * Honest planning based on real drive times and seasonal conditions.
 
   * Trusted partners who prioritize safety and responsible tourism.
@@ -117,6 +121,7 @@ why_travel_with_us: >-
 
 
   ### Our promise:
+
 
   * We plan trips the way we travel - with care, honesty, and real-world experience.
 faq: >-
@@ -148,13 +153,15 @@ faq: >-
   ### **Q:** Is your service refundable?
 
   **A:** The facilitation fee is non-refundable because it covers only planning and coordination.
-fees: >
+fees: >-
   ## Facilitation Fee
 
-  ** We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.**
+
+  ###### We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.
 
 
   ### 10-Day Antarctica or Arctic Cruise
+
 
   * Solo Traveler: **Rs. 35000/-** per person
 
@@ -163,6 +170,7 @@ fees: >
 
   ### 20-Day Extended Antarctica Cruise
 
+
   * Solo Traveler: **Rs. 45000/-** per person
 
   * Couple / Two Travelers: **Rs. 65000/-** per couple
@@ -170,9 +178,10 @@ fees: >
 
   ### Optional Add-on (*Premium Support*)
 
+
   #### Premium Support Add-on: **Rs. 15000/-** extra per person
 
-  ** Includes:** 
+   **Includes:** 
 
   * Detailed pre-trip call.
 
@@ -181,8 +190,10 @@ fees: >
   * Customized packing list.
 
   * Extra planning support.
-   
+
+
   ### What the Facilitation Fee includes
+
 
   * Cruise selection and comparison.
 
@@ -197,8 +208,10 @@ fees: >
   * Direct connection with trusted cruise operators.
 
   * Coordination and support until departure.
-   
+
+
   ### What’s not included
+
 
   * Cruise payment (*Paid directly to the operator*).
 
@@ -213,6 +226,7 @@ fees: >
 
   ### Why is this Fee worth it?
 
+
   * Polar cruises have limited availability and complex logistics. With our guidance, you get a smooth and confident booking experience, without any confusion or hidden costs.
 ---
 ## Who This Is For?
@@ -224,31 +238,38 @@ fees: >
 * People who want honest guidance without confusion.
 
 ## What do we do as Cruise Facilitators?
+
 Cruises in polar regions involve complex logistics, limited availability, and strict rules. We simplify everything by:
 
 ### 1. Understanding your goals:
+
 * Travel dates, budget, and interests.
-* Must-see places like South Georgia, Falklands, Svalbard, Greenland, etc.
+* Must-see places like South Georgia, the Falklands, Svalbard, Greenland, etc.
 * Wildlife focus, photography, and adventure.
 
 ### 2. Finding the right cruise
+
 * Best route and ship options.
 * Cabin recommendations.
 * Comparing inclusions, expedition programs, and pricing.
 
 ### 3. Handling the planning
+
 * Itinerary planning and route options.
 * Flight suggestions and airport transfers.
 * Visa and travel documentation guidance.
 * Pre-departure checklist.
 
 ### 4. Connecting you with the best operators
+
 * Trusted and verified polar cruise companies.
 * High safety standards.
 * Experienced expedition teams.
 * Responsible tourism practices.
    
+
 ## How It Works
+
 * You share your travel dates, budget, and interests.
 * We shortlist the best cruise options.
 * You choose the cruise that fits your style.

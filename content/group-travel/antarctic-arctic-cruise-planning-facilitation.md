@@ -2,15 +2,15 @@
 weight: 4
 title: Antarctic & Arctic Cruise Planning & Facilitation
 image: /assets/images/gallery/a.png
-description: >
-  Antarctica Cruises - Including South Georgia, Falklands &
-
+description: |
+  Antarctica Cruises - Including South Georgia, Falklands  | 
   Arctic Cruises – Including Svalbard, Greenland, Iceland & Norway
-
-
-  Polar expeditions are unique and demand thoughtful planning. As experienced professionals with strong practical expertise, we help you choose the ideal cruise, itinerary, and cabin that best match your preferences, budget, and travel goals, while providing complete end-to-end planning support and coordination.
 price: From €300 Onwards
-day_by_day: To be added
+day_by_day: Polar expeditions are unique and demand thoughtful planning. As
+  experienced professionals with strong practical expertise, we help you choose
+  the ideal cruise, itinerary, and cabin that best match your preferences,
+  budget, and travel goals, while providing complete end-to-end planning support
+  and coordination.
 why_travel_with_us: >-
   ## We are Mahulima and Kaustuv, travelers who explored 89 countries across 6
   continents. We believe great trips are built on real experience, not sales
@@ -80,7 +80,7 @@ faq: >-
   ### *Q:* Is your service refundable?
 
   **A:** The facilitation fee is non-refundable because it covers only planning and coordination.
-fees: >+
+fees: >
   ## Facilitation Fee
 
   ** We keep the process simple and transparent. You pay the cruise operator directly for the trip, and our fee only covers planning and coordination.**

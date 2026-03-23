@@ -15,7 +15,7 @@ day_by_day: >-
   coordination.
 
 
-  ![]( "Antarctica Expedition")
+  ![](/assets/images/gallery/dsc_2954.jpg "Antarctica Expedition")
 
 
   ## 10-Day Antarctica Cruise
@@ -40,7 +40,7 @@ day_by_day: >-
   * A perfect introduction to the Antarctic wilderness in a shorter timeframe.
 
 
-  ![]( "Artic Polar Expedition")
+  ![](/assets/images/gallery/dsc_3268.jpg "Artic Polar Expedition")
 
 
   ## 10-Day Arctic Cruise

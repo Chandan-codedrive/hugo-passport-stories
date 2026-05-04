@@ -58,6 +58,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Our Insights:&lt;/strong&gt; Tips and lessons from our firsthand experiences—things  we wish we knew before traveling!  &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Preparation Tips:&lt;/strong&gt; The best time to visit, travel insurance advice,  currency and visa guidance, SIM card options, and how to make the  most of your Swiss Pass.  &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Detailed 7-Day Itinerary:&lt;/strong&gt; A day-by-day plan with alternatives to match  your preferences and pace.  Attraction&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Booking Links:&lt;/strong&gt; Save time with curated links to the places  we loved most.  &lt;/p&gt;</description>
     </item>
     <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>baharin</title>
       <link>http://localhost:1313/gallery/baharin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -91,13 +98,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/group-tours/northern-lights/</guid>
       <description>&lt;p&gt;This 7 nights/8 days guided winter adventure in Finland is crafted for dreamers and lovers of snow covered landscapes.&lt;/p&gt;&#xA;&lt;p&gt;Enjoy husky safaris, glass igloos and magical Northern Lights.&lt;/p&gt;&#xA;&lt;h2 id=&#34;day&#34;&gt;day&lt;/h2&gt;&#xA;&lt;p&gt;Day 1: Arrival in Helsinki&lt;br&gt;&#xA;Day 2: Lapland Tour&lt;br&gt;&#xA;Day 3: Northern Lights Safari&lt;/p&gt;&#xA;&lt;h2 id=&#34;accommodation&#34;&gt;accommodation&lt;/h2&gt;&#xA;&lt;p&gt;Glass Igloo Resort&lt;br&gt;&#xA;Arctic TreeHouse Hotel&lt;/p&gt;&#xA;&lt;h2 id=&#34;inclusion&#34;&gt;inclusion&lt;/h2&gt;&#xA;&lt;p&gt;Airport transfer&lt;br&gt;&#xA;Daily breakfast&lt;br&gt;&#xA;Snowmobile safari&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;fees&lt;/h2&gt;&#xA;&lt;p&gt;Flights not included&lt;br&gt;&#xA;Personal expenses&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our Story</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;story:&#xA;title: &amp;ldquo;Our Story&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;paragraphs:&#xA;- &amp;ldquo;We are Mahulima and Kaustuv, the faces behind Passport Stories. We create travel content to inspire you and make planning your next adventure easier.&amp;rdquo;&#xA;- &amp;ldquo;Over the years, we’ve explored the globe and collected memories from every corner.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;images:&#xA;- &amp;ldquo;/images/story1.jpg&amp;rdquo;&#xA;- &amp;ldquo;/images/story2.jpg&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Tour Image Gallery</title>

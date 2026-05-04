@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<section class="container my-5">
+  <div class="row align-items-center">
+
+    <!-- LEFT TEXT -->
+    <div class="col-lg-7">
+      <h2 class="mb-3">{{ .Params.story.title }}</h2>
+
+      {{ range .Params.story.paragraphs }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+
+    <!-- RIGHT IMAGES -->
+    <div class="col-lg-5">
+      {{ range .Params.story.images }}
+        <img src="{{ . }}" class="img-fluid mb-3 rounded">
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

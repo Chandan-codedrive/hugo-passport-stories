@@ -171,7 +171,7 @@ collections:
       - { label: "Content", name: "body", widget: "markdown" }
 
   - name: "products_page"
-    label: "Products Page"
+    label: "Ready To Faq Section"
     files:
       - file: "content/products/_index.md"
         label: "Products Page"

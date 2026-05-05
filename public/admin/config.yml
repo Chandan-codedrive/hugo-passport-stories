@@ -280,3 +280,27 @@ collections:
       - label: "Fees & Terms"
         name: "fees"
         widget: "markdown" 
+
+  - name: "legal_pages"
+    label: "Legal Pages"
+    files:
+      - file: "content/privacy-policy.md"
+        label: "Privacy Policy"
+        name: "privacy_policy"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/terms-and-conditions.md"
+        label: "Terms & Conditions"
+        name: "terms_conditions"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/refund-cancellation.md"
+        label: "Refund & Cancellation"
+        name: "refund_policy"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

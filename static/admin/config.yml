@@ -133,7 +133,7 @@ collections:
   
 
   - name: "products"
-    label: "Products"
+    label: "Ready To Go Products"
     folder: "content/products"
     create: true
     slug: "{{slug}}"

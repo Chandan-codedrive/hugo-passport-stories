@@ -169,6 +169,19 @@ collections:
       - { label: "Reviews", name: "reviews", widget: "number" }
 
       - { label: "Content", name: "body", widget: "markdown" }
+      
+  - file: "content/products/_index.md"
+    label: "Products Page"
+    name: "products_page"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+
+      - label: "FAQ Items"
+        name: "faq"
+        widget: "list"
+        fields:
+          - { label: "Question", name: "question", widget: "string" }
+          - { label: "Answer", name: "answer", widget: "text" }
 
   - name: "custom_itinerary"
     label: "Custom Itinerary"

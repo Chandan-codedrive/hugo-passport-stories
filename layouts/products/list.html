@@ -4,8 +4,10 @@
   <div class="row mb-5">
     <div class="col-12 text-center">
       <h1 class="display-4 fw-bold mb-4">{{ .Title }}</h1>
-      <p class="lead text-muted mb-4"></p>Benefit from our Passport Stories travel tips, designed to help you create memories that last a lifetime. <br> If you love our travel style, our picks for stays, and want to explore the world like we do—but don’t have the time to plan your dream trip—we’re here to make it easy for you!</p>
-      
+      <p class="lead text-muted mb-4"></p>Benefit from our Passport Stories travel tips, designed to help you create
+      memories that last a lifetime. <br> If you love our travel style, our picks for stays, and want to explore the
+      world like we do—but don’t have the time to plan your dream trip—we’re here to make it easy for you!</p>
+
       <!-- Stats -->
       <div class="row justify-content-center mb-5">
         <div class="col-auto">
@@ -29,12 +31,46 @@
       </div>
     </div>
   </div>
-  
+
   <!-- Products Section -->
   {{ partial "products.html" . }}
-  
+
   <!-- FAQ Section -->
+  <!-- FAQ Section -->
+  {{ if .Params.faq }}
   <div class="row mt-5 pt-5 border-top">
+    <div class="col-12">
+      <h3 class="text-center mb-4">Frequently Asked Questions</h3>
+
+      <div class="accordion" id="faqAccordion">
+        {{ range $index, $item := .Params.faq }}
+
+        <div class="accordion-item">
+
+          <h2 class="accordion-header">
+            <button class="accordion-button {{ if ne $index 0 }}collapsed{{ end }}" type="button"
+              data-bs-toggle="collapse" data-bs-target="#faq{{ $index }}">
+              {{ $item.question }}
+            </button>
+          </h2>
+
+          <div id="faq{{ $index }}" class="accordion-collapse collapse {{ if eq $index 0 }}show{{ end }}"
+            data-bs-parent="#faqAccordion">
+
+            <div class="accordion-body">
+              {{ $item.answer }}
+            </div>
+
+          </div>
+
+        </div>
+
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  <!-- <div class="row mt-5 pt-5 border-top">
     <div class="col-12">
       <h3 class="text-center mb-4">Frequently Asked Questions</h3>
       <div class="accordion" id="faqAccordion">
@@ -76,6 +112,6 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
 {{ end }}

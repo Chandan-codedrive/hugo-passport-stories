@@ -10,6 +10,9 @@ menu:
   - title: Home
     url: "/"
 
+  - title: Group Tour
+    url: "/group-tours"
+
   - title: Ready To Go
     url: "/products"
 

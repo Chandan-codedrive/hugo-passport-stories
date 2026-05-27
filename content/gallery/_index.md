@@ -1,3 +1,4 @@
 ---
 title: "Gallery"
+layout: "gallery"
 ---

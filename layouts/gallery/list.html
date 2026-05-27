@@ -1,14 +1,84 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
 
-<div class="grid">
-  {{ range .Sections }}
-    <a href="{{ .RelPermalink }}" class="card">
-      {{ with .Params.cover }}
-        <img src="{{ . }}" alt="">
+{{ $path := trim .RelPermalink "/" }}
+{{ $segments := split $path "/" }}
+
+<div class="container py-5">
+
+  <!-- LEVEL 1: All Continents -->
+  {{ if eq (len $segments) 1 }}
+    <h1 class="text-center mb-5">{{ .Title }}</h1>
+    <div class="row g-4">
+      {{ range where site.RegularPages "Section" "gallery" }}
+        {{ if eq .File.Dir "gallery/continents/" }}
+          <div class="col-md-4">
+            <a href="/gallery/{{ .Params.slug }}/" class="text-decoration-none">
+              <div class="card h-100 shadow-sm">
+                <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
+                <div class="card-body text-center">
+                  <h5>{{ .Title }}</h5>
+                </div>
+              </div>
+            </a>
+          </div>
+        {{ end }}
       {{ end }}
-      <h3>{{ .Title }}</h3>
-    </a>
+    </div>
+
+  <!-- LEVEL 2: Countries -->
+  {{ else if eq (len $segments) 2 }}
+    {{ $continent := index $segments 1 }}
+
+    <h1 class="text-center mb-5 text-capitalize">{{ $continent }}</h1>
+
+    <div class="row g-4">
+      {{ range where site.RegularPages "Section" "gallery" }}
+        {{ if and
+            (eq .File.Dir "gallery/countries/")
+            (eq .Params.continent $continent)
+        }}
+          <div class="col-md-4">
+            <a href="/gallery/{{ $continent }}/{{ .Params.slug }}/" class="text-decoration-none">
+              <div class="card h-100 shadow-sm">
+                <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
+                <div class="card-body text-center">
+                  <h5>{{ .Title }}</h5>
+                </div>
+              </div>
+            </a>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+
+  <!-- LEVEL 3: Images -->
+  {{ else if eq (len $segments) 3 }}
+    {{ $continent := index $segments 1 }}
+    {{ $country := index $segments 2 }}
+
+    <h1 class="text-center mb-5 text-capitalize">{{ $country }}</h1>
+
+    <div class="row g-4">
+      {{ range where site.RegularPages "Section" "gallery" }}
+        {{ if and
+            (eq .File.Dir "gallery/images/")
+            (eq .Params.country $country)
+        }}
+          <div class="col-md-4">
+            <div class="card shadow-sm">
+              <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
+              {{ if .Params.caption }}
+                <div class="card-body">
+                  <p class="mb-0">{{ .Params.caption }}</p>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
   {{ end }}
+
 </div>
+
 {{ end }}

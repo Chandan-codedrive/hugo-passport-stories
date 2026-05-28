@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<section class="country-page">
+
+  <div class="container">
+
+    <h1 class="gallery-title">{{ .Title }}</h1>
+
+    <div class="country-grid">
+
+      {{ range .Pages }}
+
+      <a href="{{ .RelPermalink }}" class="country-card">
+
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+
+        <div class="overlay">
+          <h2>{{ .Title }}</h2>
+        </div>
+
+      </a>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+
+</section>
+
+{{ end }}

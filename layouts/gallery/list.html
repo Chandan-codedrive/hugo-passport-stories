@@ -4,15 +4,19 @@
 
   <div class="container">
 
-    <h1 class="gallery-title">Gallery</h1>
+    <h1 class="gallery-title">Galleries</h1>
 
     <div class="continent-grid">
 
-      {{ range .Pages }}
+      {{ range .Sections }}
 
       <a href="{{ .RelPermalink }}" class="continent-card">
 
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        <img
+          src="{{ .Params.image }}"
+          alt="{{ .Title }}"
+          class="continent-image"
+        >
 
         <div class="overlay">
           <h2>{{ .Title }}</h2>

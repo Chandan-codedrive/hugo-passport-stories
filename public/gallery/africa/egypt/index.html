@@ -132,13 +132,39 @@
   <main id="main-content">
     
 
-<section class="country-page">
+<section class="image-gallery-page">
 
   <div class="container">
 
     <h1 class="gallery-title">Egypt</h1>
 
-    <div class="country-grid">
+    <div class="image-grid">
+
+      
+
+      
+
+      <div class="gallery-item">
+
+        <img
+          src="/gallery/africa/egypt/cover.jpg"
+          class="gallery-image"
+          onclick="openLightbox( 0 )"
+        >
+
+      </div>
+
+      
+
+      <div class="gallery-item">
+
+        <img
+          src="/gallery/africa/egypt/egypt.jpg"
+          class="gallery-image"
+          onclick="openLightbox( 1 )"
+        >
+
+      </div>
 
       
 
@@ -147,6 +173,71 @@
   </div>
 
 </section>
+
+
+
+<div id="lightbox">
+
+  <span class="close-btn" onclick="closeLightbox()">&times;</span>
+
+  <span class="prev-btn" onclick="changeImage(-1)">&#10094;</span>
+
+  <img id="lightbox-img">
+
+  <span class="next-btn" onclick="changeImage(1)">&#10095;</span>
+
+</div>
+
+<script>
+
+const images = [
+
+  
+
+  
+
+    "\/gallery\/africa\/egypt\/cover.jpg",
+
+  
+
+    "\/gallery\/africa\/egypt\/egypt.jpg",
+
+  
+
+];
+
+let currentIndex = 0;
+
+function openLightbox(index){
+
+  currentIndex = index;
+
+  document.getElementById("lightbox").style.display = "flex";
+
+  document.getElementById("lightbox-img").src = images[currentIndex];
+}
+
+function closeLightbox(){
+
+  document.getElementById("lightbox").style.display = "none";
+}
+
+function changeImage(step){
+
+  currentIndex += step;
+
+  if(currentIndex < 0){
+    currentIndex = images.length - 1;
+  }
+
+  if(currentIndex >= images.length){
+    currentIndex = 0;
+  }
+
+  document.getElementById("lightbox-img").src = images[currentIndex];
+}
+
+</script>
 
 
   </main>

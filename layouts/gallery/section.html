@@ -10,15 +10,29 @@
 
       {{ range .Pages }}
 
-      <a href="{{ .RelPermalink }}" class="country-card">
+        {{ if .Params.cover }}
 
-        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+          {{ $cover := .Resources.GetMatch .Params.cover }}
 
-        <div class="overlay">
-          <h2>{{ .Title }}</h2>
-        </div>
+          {{ if $cover }}
 
-      </a>
+          <a href="{{ .RelPermalink }}" class="country-card">
+
+            <img
+              src="{{ $cover.RelPermalink }}"
+              alt="{{ .Title }}"
+              class="country-image"
+            >
+
+            <div class="overlay">
+              <h2>{{ .Title }}</h2>
+            </div>
+
+          </a>
+
+          {{ end }}
+
+        {{ end }}
 
       {{ end }}
 

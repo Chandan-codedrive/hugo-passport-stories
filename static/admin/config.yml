@@ -308,64 +308,64 @@ collections:
     # ==========================================
   # GALLERY - CONTINENTS
   # ==========================================
-  - name: "gallery_continents"
-    label: "Gallery Continents"
-    label_singular: "Continent"
-    folder: "content/gallery/continents"
-    create: true
-      slug: "{{slug}}"
-      identifier_field: "title"
-      fields:
-        - { label: "Continent Name", name: "title", widget: "string" }
-        - { label: "Slug", name: "slug", widget: "string", hint: "asia, europe, africa" }
-        - { label: "Description", name: "description", widget: "text", required: false }
-        - { label: "Cover Image", name: "image", widget: "image" }
+  # - name: "gallery_continents"
+  #   label: "Gallery Continents"
+  #   label_singular: "Continent"
+  #   folder: "content/gallery/continents"
+  #   create: true
+  #     slug: "{{slug}}"
+  #     identifier_field: "title"
+  #     fields:
+  #       - { label: "Continent Name", name: "title", widget: "string" }
+  #       - { label: "Slug", name: "slug", widget: "string", hint: "asia, europe, africa" }
+  #       - { label: "Description", name: "description", widget: "text", required: false }
+  #       - { label: "Cover Image", name: "image", widget: "image" }
 
   # ==========================================
   # GALLERY - COUNTRIES
   # ==========================================
-  - name: "gallery_countries"
-    label: "Gallery Countries"
-    label_singular: "Country"
-    folder: "content/gallery/countries"
-    create: true
-      slug: "{{slug}}"
-      identifier_field: "title"
-      fields:
-      - { label: "Country Name", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string", hint: "india, china, france" }
+  # - name: "gallery_countries"
+  #   label: "Gallery Countries"
+  #   label_singular: "Country"
+  #   folder: "content/gallery/countries"
+  #   create: true
+  #     slug: "{{slug}}"
+  #     identifier_field: "title"
+  #     fields:
+  #     - { label: "Country Name", name: "title", widget: "string" }
+  #     - { label: "Slug", name: "slug", widget: "string", hint: "india, china, france" }
 
-      - label: "Continent"
-        name: "continent"
-        widget: "relation"
-        collection: "gallery_continents"
-        search_fields: ["title"]
-        value_field: "slug"
-        display_fields: ["title"]
+  #     - label: "Continent"
+  #       name: "continent"
+  #       widget: "relation"
+  #       collection: "gallery_continents"
+  #       search_fields: ["title"]
+  #       value_field: "slug"
+  #       display_fields: ["title"]
 
-      - { label: "Cover Image", name: "image", widget: "image" }
-      - { label: "Description", name: "description", widget: "text", required: false }
+  #     - { label: "Cover Image", name: "image", widget: "image" }
+  #     - { label: "Description", name: "description", widget: "text", required: false }
 
   # ==========================================
   # GALLERY - IMAGES
   # ==========================================
-  - name: "gallery_images"
-    label: "Gallery Images"
-    label_singular: "Gallery Image"
-    folder: "content/gallery/images"
-    create: true
-    slug: "{{slug}}"
-    identifier_field: "title"
-    fields:
-    - { label: "Title", name: "title", widget: "string" }
+  # - name: "gallery_images"
+  #   label: "Gallery Images"
+  #   label_singular: "Gallery Image"
+  #   folder: "content/gallery/images"
+  #   create: true
+  #   slug: "{{slug}}"
+  #   identifier_field: "title"
+  #   fields:
+  #   - { label: "Title", name: "title", widget: "string" }
 
-    - label: "Country"
-      name: "country"
-      widget: "relation"
-      collection: "gallery_countries"
-      search_fields: ["title"]
-      value_field: "slug"
-      display_fields: ["title"]
+  #   - label: "Country"
+  #     name: "country"
+  #     widget: "relation"
+  #     collection: "gallery_countries"
+  #     search_fields: ["title"]
+  #     value_field: "slug"
+  #     display_fields: ["title"]
 
-    - { label: "Image", name: "image", widget: "image" }
-    - { label: "Caption", name: "caption", widget: "string", required: false }
+  #   - { label: "Image", name: "image", widget: "image" }
+  #   - { label: "Caption", name: "caption", widget: "string", required: false }

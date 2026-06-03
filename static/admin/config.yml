@@ -226,24 +226,7 @@ collections:
           widget: "markdown" 
         }
 
-  - name: "gallery"
-    label: "Gallery"
-    folder: "content/gallery"
-    create: true
-    nested:
-      depth: 3
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
-      - label: "Images"
-        name: "images"
-        widget: "list"
-        fields:
-          - { label: "Image", name: "image", widget: "image" }
-
-      - { label: "Description", name: "body", widget: "markdown" }
-
-
+ 
   - name: "group-travel"
     label: "Group Travel"
     folder: "content/group-travel"
@@ -325,32 +308,32 @@ collections:
     # ==========================================
   # GALLERY - CONTINENTS
   # ==========================================
-      - name: "gallery_continents"
-        label: "Gallery Continents"
-        label_singular: "Continent"
-        folder: "content/gallery/continents"
-        create: true
-        slug: "{{slug}}"
-        identifier_field: "title"
-        fields:
-          - { label: "Continent Name", name: "title", widget: "string" }
-          - { label: "Slug", name: "slug", widget: "string", hint: "asia, europe, africa" }
-          - { label: "Cover Image", name: "image", widget: "image" }
-          - { label: "Description", name: "description", widget: "text", required: false }
+  - name: "gallery_continents"
+    label: "Gallery Continents"
+    label_singular: "Continent"
+    folder: "content/gallery/continents"
+    create: true
+      slug: "{{slug}}"
+      identifier_field: "title"
+      fields:
+        - { label: "Continent Name", name: "title", widget: "string" }
+        - { label: "Slug", name: "slug", widget: "string", hint: "asia, europe, africa" }
+        - { label: "Description", name: "description", widget: "text", required: false }
+        - { label: "Cover Image", name: "image", widget: "image" }
 
   # ==========================================
   # GALLERY - COUNTRIES
   # ==========================================
-      - name: "gallery_countries"
-        label: "Gallery Countries"
-        label_singular: "Country"
-        folder: "content/gallery/countries"
-        create: true
-        slug: "{{slug}}"
-        identifier_field: "title"
-        fields:
-        - { label: "Country Name", name: "title", widget: "string" }
-        - { label: "Slug", name: "slug", widget: "string", hint: "india, china, france" }
+  - name: "gallery_countries"
+    label: "Gallery Countries"
+    label_singular: "Country"
+    folder: "content/gallery/countries"
+    create: true
+      slug: "{{slug}}"
+      identifier_field: "title"
+      fields:
+      - { label: "Country Name", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", hint: "india, china, france" }
 
       - label: "Continent"
         name: "continent"
@@ -366,7 +349,7 @@ collections:
   # ==========================================
   # GALLERY - IMAGES
   # ==========================================
-    - name: "gallery_images"
+  - name: "gallery_images"
     label: "Gallery Images"
     label_singular: "Gallery Image"
     folder: "content/gallery/images"

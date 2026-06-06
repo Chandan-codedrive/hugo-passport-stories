@@ -49,13 +49,14 @@
 .hero-title {
   position: relative;
   z-index: 2;
-  color: #0c318d59;
+  color: #0c318daa;
   font-weight: 700;
   line-height: 1.15;
   font-size: clamp(2.2rem, 5vw, 3.8rem);
 }
  
 .hero-section h1 {
+  top: -2rem;
   font-size: 5rem;
   font-family: "Norican", cursive;
   

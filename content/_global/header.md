@@ -11,7 +11,7 @@ menu:
     url: "/"
 
   - title: Group Tour
-    url: "/group-tours/"
+    url: "/group-travel/"
 
   - title: Ready To Go
     url: "/products/"

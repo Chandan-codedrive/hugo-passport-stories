@@ -49,7 +49,7 @@
 .hero-title {
   position: relative;
   z-index: 2;
-  color: #082264cf;
+  color: #0a1c49;
   font-weight: 700;
   line-height: 1.15;
   font-size: clamp(2.2rem, 5vw, 3.8rem);

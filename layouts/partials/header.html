@@ -15,10 +15,11 @@
 
     <!-- MENU -->
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      {{ $.RelPermalink }}
       <ul class="navbar-nav">
         {{ range $header.Params.menu }}
         <li class="nav-item">
-          <a class="nav-link {{ if or (eq $.RelPermalink .url) (hasPrefix $.RelPermalink .url) }}active-nav{{ end }}" href="{{ .url }}" 
+         <a class="nav-link {{ if eq $.RelPermalink .url }}active-nav{{ end }}" href="{{ .url }}" 
           {{ if eq .title "Our Tour Image Gallery" }}target="_blank"
             rel="noopener noreferrer" {{ end }}>
             {{ .title }}

@@ -11,20 +11,20 @@ menu:
     url: "/"
 
   - title: Group Tour
-    url: "/group-tours"
+    url: "/group-tours/"
 
   - title: Ready To Go
-    url: "/products"
+    url: "/products/"
 
   - title: Custom Itinerary
-    url: "/custom-itinerary"
+    url: "/custom-itinerary/"
 
   - title: Our Tour Image Gallery
     url: "https://gallery.passportstories.in/"
 
   - title: Our Story
-    url: /about
+    url: /about/
 
   - title: Contact Us
-    url: "/contact"
+    url: "/contact/"
 ---

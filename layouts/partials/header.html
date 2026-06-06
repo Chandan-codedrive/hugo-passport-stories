@@ -1,34 +1,58 @@
 {{ $header := site.GetPage "_global/header" }}
 
 <nav class="navbar navbar-expand-lg bg-white shadow-sm sticky-top">
-  <div class="container-fluid">
+    <div class="container-fluid">
 
-    <!-- LOGO -->
-    <a class="navbar-brand" href="{{ $header.Params.logo.link }}">
-      <img src="{{ $header.Params.logo.image }}" alt="{{ $header.Params.logo.alt }}" height="70">
-    </a>
+        <!-- Logo -->
+        <a class="navbar-brand" href="{{ $header.Params.logo.link }}">
+            <img
+                src="{{ $header.Params.logo.image }}"
+                alt="{{ $header.Params.logo.alt }}"
+                height="70">
+        </a>
 
-    <!-- TOGGLERgit <i class="fa fa-sort-amount-asc" aria-hidden="true"></i> -->
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+        <!-- Mobile Toggle -->
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
 
-    <!-- MENU -->
-    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-      {{ $.RelPermalink }}
-      <ul class="navbar-nav">
-        {{ range $header.Params.menu }}
-        <li class="nav-item">
-         <a class="nav-link {{ if eq $.RelPermalink .url }}active-nav{{ end }}" href="{{ .url }}" 
-          {{ if eq .title "Our Tour Image Gallery" }}target="_blank"
-            rel="noopener noreferrer" {{ end }}>
-            {{ .title }}
-          </a>
-        </li>
+            <span class="navbar-toggler-icon"></span>
 
-        {{ end }}
-      </ul>
+        </button>
+
+        <!-- Navigation -->
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+
+            <ul class="navbar-nav">
+
+                {{ range $header.Params.menu }}
+
+                <li class="nav-item">
+
+                    <a
+                        class="nav-link {{ if eq $.RelPermalink .url }}active-nav{{ end }}"
+                        href="{{ .url }}"
+                        {{ if eq .title "Our Tour Image Gallery" }}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        {{ end }}>
+
+                        {{ .title }}
+
+                    </a>
+
+                </li>
+
+                {{ end }}
+
+            </ul>
+
+        </div>
+
     </div>
-
-  </div>
 </nav>

@@ -1,4 +1,0 @@
----
-title: "Galleries"
-layout: "list"
----

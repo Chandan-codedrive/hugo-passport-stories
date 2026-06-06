@@ -20,9 +20,9 @@ menu:
     url: "/custom-itinerary"
 
   - title: Our Tour Image Gallery
-    url: "/gallery"
+    url: "https://gallery.passportstories.in/"
 
-  - title: About Us
+  - title: Our Story
     url: /about
 
   - title: Contact Us

@@ -5,20 +5,11 @@
 
     <!-- LOGO -->
     <a class="navbar-brand" href="{{ $header.Params.logo.link }}">
-      <img
-        src="{{ $header.Params.logo.image }}"
-        alt="{{ $header.Params.logo.alt }}"
-        height="70"
-      >
+      <img src="{{ $header.Params.logo.image }}" alt="{{ $header.Params.logo.alt }}" height="70">
     </a>
 
     <!-- TOGGLER -->git <i class="fa fa-sort-amount-asc" aria-hidden="true"></i>
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#navbarNav"
-    >
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
 
@@ -26,12 +17,13 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         {{ range $header.Params.menu }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ .url }}">
-              {{ .title }}
-            </a>
-          </li>
-          
+        <li class="nav-item">
+          <a class="nav-link" href="{{ .url }}" {{ if eq .title "Our Tour Image Gallery" }}target="_blank"
+            rel="noopener noreferrer" {{ end }}>
+            {{ .title }}
+          </a>
+        </li>
+
         {{ end }}
       </ul>
     </div>

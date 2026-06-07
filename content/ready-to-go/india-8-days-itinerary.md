@@ -27,7 +27,7 @@ date: 2024-01-15
 language: English
 rating: 4.8
 reviews: 127
-image: /assets/images/gallery/469618918_18341754349183757_2839900508855172395_n.jpg
+image: /images/africa.jpg
 ---
 
 **Prep Tips:** Everything you need to know before you go—insurance,  currency, visas, SIM cards, and more.

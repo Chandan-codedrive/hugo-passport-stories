@@ -2,7 +2,7 @@
 title: "Tanzania Wildlife Safari"
 image: "/images/asia.jpg"
 price: "145000"
-buy_link: "https://wa.me/919999999999"
+buy_link: "/contact/"
 weight: 2
 ---
 

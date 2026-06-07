@@ -3,7 +3,7 @@ title: Traveling upto 6 Days
 short_description: A custom-made travel plan designed just for you, whether
   you’re a couple or a family of four
 price: "5000"
-featured_image: /images/dummy/1.jpg
+featured_image: /images/dummy/1.jpg 
 images:
   - image: /images/dummy/1.jpg
   - image: /images/dummy/2.jpg

@@ -1,32 +1,47 @@
 {{ define "main" }}
+
 <section class="group-travel">
+  <p>Total Pages: {{ len .Pages }}</p>
   <h1>Radhey shyam</h1>
   <h1>Radhey Radhey</h1>
+
   <h2>Tours We Offer at the Moment</h2>
-  <p class="group-des" style="text-align: center;">From group adventures to private escapes, travel your way with comfort and care</p>
+
+  <p class="group-des" style="text-align:center;">
+    From group adventures to private escapes, travel your way with comfort and care
+  </p>
+
+  <p>Total Pages: {{ len .Pages }}</p>
+
   <div class="travel-grid">
 
-    Total Pages: {{ len .Pages }}
-
-{{ range .Pages }}
     {{ range .Pages.ByWeight }}
+
     <div class="travel-card">
 
       <img src="{{ .Params.image }}" alt="{{ .Title }}">
 
       <div class="travel-info">
         <h3>{{ .Title }}</h3>
-        <p>{{ .Params.description }}</p>
 
-        <p class="price">From {{ .Params.price }}</p>
+        <p>{{ .Summary }}</p>
+
+        <p class="price">
+          From ₹{{ .Params.price }}
+        </p>
 
         <a href="{{ .RelPermalink }}" class="btn">
           Book Now
         </a>
 
       </div>
+
     </div>
+
     {{ end }}
+
   </div>
+
 </section>
+
 {{ end }}

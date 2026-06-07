@@ -5,7 +5,7 @@ short_description: A custom-made travel plan designed just for you, whether
   you’re a couple or a family of four
 price: "5000"
 featured_image: /assets/images/gallery/asia.jpg
-buy_link: "#"
+buy_link: /contact/
 seo_title: 5 Days Kerala Custom Itinerary
 images:
   - /assets/images/gallery/dsc_2331.jpg

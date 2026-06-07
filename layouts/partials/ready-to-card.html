@@ -1,6 +1,7 @@
-{{ $productsPage := .Site.GetPage "section" "products" }}
 
-{{ $products := where .Site.RegularPages "Section" "products" }}
+{{ $productsPage := .Site.GetPage "section" "ready-to-go" }}
+
+{{ $products := where .Site.RegularPages "Section" "ready-to-go" }}
 {{ if $products }}
 <section class="ready-to-go-section py-5" id="digital-products">
     <div class="container">
@@ -128,7 +129,7 @@
 </section>
 {{ if .IsHome }}
   <div class="text-center mt-4">
-    <a href="/products/" class="btn btn-outline-primary btn-lg">
+    <a href="/ready-to-go/" class="btn btn-outline-primary btn-lg">
       View More
     </a>
   </div>

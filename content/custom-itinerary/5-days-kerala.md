@@ -1,16 +1,15 @@
 ---
 title: Traveling upto 6 Days
+days: 6
 short_description: A custom-made travel plan designed just for you, whether
   you’re a couple or a family of four
 price: "5000"
-featured_image: /images/dummy/1.jpg 
-images:
-  - image: /images/dummy/1.jpg
-  - image: /images/dummy/2.jpg
-  - image: /images/dummy/3.jpg
+featured_image: /assets/images/gallery/asia.jpg
 buy_link: "#"
 seo_title: 5 Days Kerala Custom Itinerary
-days: 6
+images:
+  - /assets/images/gallery/dsc_2331.jpg
+  - /assets/images/gallery/dsc_2948.jpg
 seo_description: Personalized 5 day Kerala itinerary with sightseeing and stays
 ---
 ## 

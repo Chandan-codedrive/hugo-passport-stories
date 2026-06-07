@@ -1,7 +1,7 @@
 ---
 title: "Kenya Safari Adventure"
 
-image: "/images/kenya-safari.jpg"
+image: "/images/kenya.jpg"
 
 price: "125000"
 

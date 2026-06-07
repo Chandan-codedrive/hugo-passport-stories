@@ -132,9 +132,9 @@ collections:
               - { label: "URL", name: "url", widget: "string" }
   
 
-  - name: "products"
+  - name: "ready_to_go"
     label: "Ready To Go Products"
-    folder: "content/products"
+    folder: "content/ready-to-go"
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
@@ -170,10 +170,10 @@ collections:
 
       - { label: "Content", name: "body", widget: "markdown" }
 
-  - name: "products_page"
+  - name: "ready_to_go_page"
     label: "Ready To Faq Section"
     files:
-      - file: "content/products/_index.md"
+      - file: "content/ready-to-go/_index.md"
         label: "FAQ"
         name: "products_page"
         fields:

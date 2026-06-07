@@ -6,9 +6,8 @@ description: " Passport Stories guide to Paris! Get ready to dive into
 price: 999 INR
 buy_link: "#"
 images:
-  - /assets/images/gallery/488576496_9712892042101481_6876510159322792877_n.jpg
-  - /assets/images/gallery/488183241_9717423824981636_4417524712508574397_n.jpg
-  - /assets/images/gallery/488459564_9717423644981654_7157486464747842322_n.jpg
+  - /assets/images/gallery/dsc_3268.jpg
+  - /assets/images/gallery/dsc_2331.jpg
 category: Travel Planning
 featured: true
 tags:

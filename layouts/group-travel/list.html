@@ -1,10 +1,6 @@
 {{ define "main" }}
 
 <section class="group-travel">
-  <p>Total Pages: {{ len .Pages }}</p>
-  <h1>Radhey shyam</h1>
-  <h1>Radhey Radhey</h1>
-
   <h2>Tours We Offer at the Moment</h2>
 
   <p class="group-des" style="text-align:center;">
@@ -13,7 +9,9 @@
 
   <p>Total Pages: {{ len .Pages }}</p>
 
-  <div class="travel-grid">
+  {{ partial "group-travel-cards.html" . }}
+
+  <!-- <div class="travel-grid">
 
     {{ range .Pages.ByWeight }}
 
@@ -40,7 +38,7 @@
 
     {{ end }}
 
-  </div>
+  </div> -->
 
 </section>
 

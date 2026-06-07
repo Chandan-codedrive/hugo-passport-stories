@@ -2,6 +2,24 @@
 
 {{ partial "hero.html" . }}
 
+<!-- group travel card for home page -->
+ <section class="home-group-travel">
+
+  <h2>Tours We Offer at the Moment</h2>
+
+  <p class="group-des">
+    From group adventures to private escapes, travel your way with comfort and care
+  </p>
+
+  {{ partial "group-travel-cards.html" . }}
+
+  <div style="text-align:center; margin-top:30px;">
+    <a href="/group-travel/" class="btn">
+      View All Tours
+    </a>
+  </div>
+
+</section>
 
 {{/* {{ partial "story.html" . }} */}}
 {{ partial "services.html" . }}

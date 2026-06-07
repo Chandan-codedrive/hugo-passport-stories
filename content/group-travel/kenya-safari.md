@@ -5,7 +5,7 @@ image: "/images/kenya.jpg"
 
 price: "125000"
 
-buy_link: "https://wa.me/919999999999"
+buy_link: "/contact/"
 
 day_by_day: |
   Day 1 - Arrival in Nairobi

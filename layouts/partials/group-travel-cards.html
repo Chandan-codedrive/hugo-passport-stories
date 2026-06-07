@@ -1,0 +1,29 @@
+<div class="travel-grid">
+
+  {{ range (where site.RegularPages "Section" "group-travel").ByWeight }}
+
+  <div class="travel-card">
+
+    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+
+    <div class="travel-info">
+
+      <h3>{{ .Title }}</h3>
+
+      <p>{{ .Summary }}</p>
+
+      <p class="price">
+        From ₹{{ .Params.price }}
+      </p>
+
+      <a href="{{ .RelPermalink }}" class="btn">
+        Book Now
+      </a>
+
+    </div>
+
+  </div>
+
+  {{ end }}
+
+</div>

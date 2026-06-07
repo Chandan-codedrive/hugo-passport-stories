@@ -1,24 +1,26 @@
-<div class="travel-grid">
+<div class="row g-4">
 
   {{ range (where site.RegularPages "Section" "group-travel").ByWeight }}
 
-  <div class="travel-card">
+  <div class="col-12 col-md-6 col-xl-3">
 
-    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+    <div class="travel-card">
 
-    <div class="travel-info">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}">
 
-      <h3>{{ .Title }}</h3>
+      <div class="travel-info">
+        <h3>{{ .Title }}</h3>
 
-      <p>{{ .Summary }}</p>
+        <p>{{ .Summary }}</p>
 
-      <p class="price">
-        From ₹{{ .Params.price }}
-      </p>
+        <p class="price">
+          From ₹{{ .Params.price }}
+        </p>
 
-      <a href="{{ .RelPermalink }}" class="btn">
-        Book Now
-      </a>
+        <a href="{{ .RelPermalink }}" class="btn">
+          Book Now
+        </a>
+      </div>
 
     </div>
 

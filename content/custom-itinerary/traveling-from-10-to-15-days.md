@@ -5,10 +5,10 @@ short_description: |-
   A custom-made travel plan designed just for you, whether you’re a couple or
   a family of four (2 adults + 2 kids under 18).
 price: "15000"
-featured_image: /assets/images/gallery/488576496_9712892042101481_6876510159322792877_n.jpg
+featured_image: /assets/images/gallery/img_1547.jpg
 images:
-  - /assets/images/gallery/487495925_9712891918768160_2342960076955262292_n.jpg
-  - /assets/images/gallery/488459564_9717423644981654_7157486464747842322_n.jpg
+  - /assets/images/gallery/dsc_3268.jpg
+  - /assets/images/gallery/img_1547.jpg
 buy_link: https://checkout.passportstories.in/b/6s30h
 ---
 

@@ -7,8 +7,8 @@ description: "Passport Stories guide for Belgium and the Netherlands!  Designed
 price: 999 INR
 buy_link: "#"
 images:
-  - /assets/images/gallery/488576496_9712892042101481_6876510159322792877_n.jpg
-  - /assets/images/gallery/488183241_9717423824981636_4417524712508574397_n.jpg
+  - /assets/images/gallery/pexels-photo-10740862.jpeg
+  - /assets/images/gallery/wildebeest-migration-1.jpg
 category: Travel Planning
 featured: true
 tags:

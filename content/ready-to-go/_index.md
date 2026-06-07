@@ -1,6 +1,6 @@
 ---
 title: Ready To Go Popular Destinations
-layout: products/list
+layout: ready-to-go/list
 faq:
   - question: How do I access my digital products?
     answer: After purchase, you'll receive an email with download links.

@@ -14,7 +14,7 @@ menu:
     url: "/group-travel/"
 
   - title: Ready To Go
-    url: "/products/"
+    url: "/ready-to-go/"
 
   - title: Custom Itinerary
     url: "/custom-itinerary/"

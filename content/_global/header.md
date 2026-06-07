@@ -1,30 +1,22 @@
 ---
 title: Header
-
 logo:
-  image: "/assets/images/hero/logo.jpg"
-  alt: "Passport Stories"
-  link: "/"
-
+  image: /assets/images/gallery/p-logo.png
+  alt: Passport Stories
+  link: /
 menu:
   - title: Home
-    url: "/"
-
+    url: /
   - title: Group Tour
-    url: "/group-travel/"
-
+    url: /group-travel/
   - title: Ready To Go
-    url: "/ready-to-go/"
-
+    url: /ready-to-go/
   - title: Custom Itinerary
-    url: "/custom-itinerary/"
-
+    url: /custom-itinerary/
   - title: Our Tour Image Gallery
-    url: "https://gallery.passportstories.in/"
-
+    url: https://gallery.passportstories.in/
   - title: Our Story
     url: /about/
-
   - title: Contact Us
-    url: "/contact/"
+    url: /contact/
 ---

@@ -5,10 +5,10 @@ short_description: |-
   A custom-made travel plan designed just for you, whether you’re a couple or
   a family of four (2 adults + 2 kids under 18).
 price: "10000"
-featured_image: /assets/images/gallery/469618918_18341754349183757_2839900508855172395_n.jpg
+featured_image: /assets/images/gallery/wildebeest-migration-1.jpg
 images:
-  - /assets/images/gallery/488183241_9717423824981636_4417524712508574397_n.jpg
-  - /assets/images/gallery/35544794_1849301435127287_8058144347138293760_n.jpg
+  - /assets/images/gallery/large_5452_3.jpg
+  - /assets/images/gallery/pexels-photo-10740862.jpeg
 buy_link: "#"
 ---
 ## 

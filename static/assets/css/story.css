@@ -1,67 +1,86 @@
+/* =========================
+   OUR STORY SECTION
+========================= */
+
 .story-section {
-  position: relative;
-  padding: 100px 0;
-  
+    position: relative;
+    padding: 100px 0;
+    overflow: hidden;
 }
 
+/* Background overlay */
 .story-overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(255, 255, 255, 0.753);
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.20); /* lower = image more visible */
+    z-index: 1;
 }
 
+/* Content above overlay */
+.story-section .container {
+    position: relative;
+    z-index: 2;
+}
+
+/* Title */
 .story-title {
-  font-size: 2.2rem;
-  font-weight: 700;
-  margin-bottom: 20px;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #0a1c49;
+    margin-bottom: 25px;
 }
 
+/* Paragraphs */
 .story-section p {
-  font-size: 0.95rem;
-  line-height: 1.7;
-  margin-bottom: 15px;
-  color: #222;
+    font-size: 1.15rem;
+    line-height: 1.9;
+    font-weight: 600; /* increase weight */
+    color: #222;
+    margin-bottom: 20px;
 }
 
-/* image layout */
-.story-images {
-  position: relative;
-  padding-left: 30px;
-}
-
-.story-img {
-  width: 80%;
-  border-radius: 20px;
-  overflow: hidden;
-  box-shadow: 0 15px 40px rgba(0,0,0,0.15);
-}
-
-.story-img img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* floating effect */
-.img-top {
-  transform: rotate(3deg);
-  margin-left: auto;
-}
-
-.img-bottom {
-  margin-top: 40px;
-  transform: rotate(-2deg);
-}
-
-/* responsive */
-@media (max-width: 991px) {
-  .story-images {
-    margin-top: 40px;
-    padding-left: 0;
-  }
-
-  .story-img {
+/* Images */
+.story-images img {
     width: 100%;
-    transform: none;
-  }
+    border-radius: 16px;
+    display: block;
+    object-fit: cover;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+}
+
+.story-images img:hover {
+    transform: scale(1.03);
+}
+
+/* Top Image */
+.img-top img {
+    max-height: 280px;
+}
+
+/* Bottom Image */
+.img-bottom img {
+    max-height: 240px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+
+    .story-section {
+        padding: 60px 0;
+    }
+
+    .story-title {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .story-section p {
+        font-size: 1rem;
+        line-height: 1.8;
+    }
+
+    .story-images {
+        margin-top: 30px;
+    }
 }

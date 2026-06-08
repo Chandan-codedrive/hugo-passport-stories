@@ -1,38 +1,38 @@
-<section class="story-section position-relative">
+<section
+    class="story-section"
+    style="background-image:url('{{ .Params.background_image | relURL }}');
+           background-size:cover;
+           background-position:center;
+           background-repeat:no-repeat;">
 
     <div class="story-overlay"></div>
 
-    <section class="story-section position-relative" style="background-image:url('{{ .Params.background_image | relURL }}');
-         background-size:cover;
-         background-position:center;
-         background-repeat:no-repeat;">
-        <div class="row align-items-start">
+    <div class="container">
+        <div class="row align-items-center">
 
-            <div class="col-lg-7 col-md-12">
-
-                <h2 class="story-title mb-3">
+            <div class="col-lg-7">
+                <h2 class="story-title">
                     {{ .Params.story.title }}
                 </h2>
 
                 {{ range .Params.story.paragraphs }}
                 <p>{{ . }}</p>
                 {{ end }}
-
             </div>
 
-            <div class="col-lg-5 col-md-12 story-images">
+            <div class="col-lg-5 story-images">
 
-                <div class="story-img img-top mb-4">
-                    <img src="{{ .Params.story.images.top | relURL }}" alt="Travel adventure">
+                <div class="img-top mb-4">
+                    <img src="{{ .Params.story.images.top | relURL }}" alt="Travel Adventure">
                 </div>
 
-                <div class="story-img img-bottom">
-                    <img src="{{ .Params.story.images.bottom | relURL }}" alt="Travel memories">
+                <div class="img-bottom">
+                    <img src="{{ .Params.story.images.bottom | relURL }}" alt="Travel Memories">
                 </div>
 
             </div>
 
         </div>
-        </div>
+    </div>
 
-    </section>
+</section>

@@ -8,8 +8,8 @@ hero:
 story:
   title: Our Story
   images:
-    top: /assets/images/uploads/story1.jpg
-    bottom: /assets/images/hero/Gallery/Gallery/Europe/Greece/story2.jpg
+    top: /uploads/images.jpg
+    bottom: /uploads/netherlands.jpg
   paragraphs:
     - >
       We are Mahulima and Kaustuv, the faces behind Passport Stories. We create

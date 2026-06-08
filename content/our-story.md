@@ -1,11 +1,8 @@
 ---
-title: "Our Story"
-type: "page"
-layout: "our-story"
-
-background_image: "/uploads/story-bg.jpg"
-
-
+title: Our Story
+type: page
+layout: our-story
+background_image: /uploads/images.jpg
 story:
   title: Our Story
   paragraphs:

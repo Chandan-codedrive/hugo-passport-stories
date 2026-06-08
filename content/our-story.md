@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
 type: "page"
-layout: "about"
+layout: "our-story"
 
 story:
   title: "Our Story"

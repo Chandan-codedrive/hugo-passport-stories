@@ -29,23 +29,7 @@ collections:
             fields:
               - { label: "Hero Title", name: "title", widget: "string" }
 
-          # STORY
-          - label: "Story"
-            name: "story"
-            widget: "object"
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - label: "Paragraphs"
-                name: "paragraphs"
-                widget: "list"
-                field:
-                  { label: "Text", name: "text", widget: "text" }
-              - label: "Images"
-                name: "images"
-                widget: "object"
-                fields:
-                  - { label: "Top Image", name: "top", widget: "image" }
-                  - { label: "Bottom Image", name: "bottom", widget: "image" }
+    
 
           # SERVICES
           - label: "Services"
@@ -288,6 +272,41 @@ collections:
       - label: "Fees & Terms"
         name: "fees"
         widget: "markdown" 
+
+  # out story page
+  - name: "our_story"
+    label: "Our Story"
+    files:
+      - label: "Our Story Content"
+        name: "our_story"
+        file: "content/our-story.md"
+        fields:
+
+          - { label: "Page Title", name: "title", widget: "string" }
+
+          - label: "Story"
+            name: "story"
+            widget: "object"
+            fields:
+
+              - { label: "Story Title", name: "title", widget: "string" }
+
+              - label: "Paragraphs"
+                name: "paragraphs"
+                widget: "list"
+                field:
+                  label: "Paragraph"
+                  name: "paragraph"
+                  widget: "text"
+
+              - label: "Images"
+                name: "images"
+                widget: "object"
+                fields:
+                  - { label: "Top Image", name: "top", widget: "image" }
+                  - { label: "Bottom Image", name: "bottom", widget: "image" }
+
+  # For legal page
 
   - name: "legal_pages"
     label: "Legal Pages"

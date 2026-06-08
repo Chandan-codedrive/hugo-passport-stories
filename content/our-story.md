@@ -1,7 +1,15 @@
----
+
+title: "Our Story"
+type: "page"
+layout: "our-story"
+
+background_image: "/uploads/story-bg.jpg"
+
+
 title: Our Story
 type: page
 layout: our-story
+
 story:
   title: Our Story
   paragraphs:

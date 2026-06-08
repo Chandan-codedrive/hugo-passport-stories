@@ -283,6 +283,7 @@ collections:
         fields:
 
           - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Background Image", name: "background_image", widget: "image" }
 
           - label: "Story"
             name: "story"

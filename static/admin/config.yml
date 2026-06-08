@@ -5,8 +5,8 @@ backend:
 site_url: "https://passportstories.in"
 display_url: "https://passportstories.in"
 
-media_folder: "static/assets/images/gallery"
-public_folder: "/assets/images/gallery"
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 logo:
   src: https://passportstories.in/assets/images/hero/logo.jpg
@@ -138,16 +138,25 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
+
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Price", name: "price", widget: "string" }
-      - { label: "Buy Link", name: "buy_link", widget: "string" }
 
-      - label: "Images"
+      # Card Cover Image
+      - { label: "Cover Image", name: "image", widget: "image" }
+
+      # Single Page Gallery Images
+      - label: "Gallery Images"
         name: "images"
         widget: "list"
-        field: { label: "Image", name: "image", widget: "image" }
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
+
+      - { label: "Price", name: "price", widget: "string" }
+      - { label: "Buy Link", name: "buy_link", widget: "string" }
 
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Featured", name: "featured", widget: "boolean", default: false }

@@ -16,7 +16,7 @@ menu:
   - title: Our Tour Image Gallery
     url: https://gallery.passportstories.in/
   - title: Our Story
-    url: /about/
+    url: /our-story/
   - title: Contact Us
     url: /contact/
 ---

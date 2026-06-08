@@ -71,7 +71,7 @@ services:
     small:
       - /uploads/netherlands.jpg
       - /uploads/images.jpg
-      - /assets/images/hero/Gallery/Gallery/Europe/Hungary/service-4.jpg
+      - /uploads/netherlands.jpg
   cta:
     image: /uploads/images.jpg
     text: >

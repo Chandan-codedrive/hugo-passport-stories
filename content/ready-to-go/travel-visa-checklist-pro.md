@@ -4,11 +4,12 @@ description: "Passport Stories guide for Belgium and the Netherlands!  Designed
   from our own travels, this guide covers the best things to do, places  to eat,
   where to stay, cost insights, and practical tips to help turn your dream  trip
   into reality. "
-price: 999 INR
-buy_link: "#"
+image: /uploads/netherlands.jpg
 images:
   - /assets/images/gallery/pexels-photo-10740862.jpeg
   - /assets/images/gallery/wildebeest-migration-1.jpg
+price: 999 INR
+buy_link: "#"
 category: Travel Planning
 featured: true
 tags:
@@ -28,7 +29,6 @@ date: 2024-01-15
 language: English
 rating: 4.8
 reviews: 127
-image: /assets/images/gallery/42855847_2011253732265389_4402054836577632256_n.jpg
 ---
 
 **Our Insights:** Tips and lessons from our firsthand experiences—things  we wish we knew before traveling! 

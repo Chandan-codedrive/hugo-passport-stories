@@ -1,13 +1,14 @@
 ---
 title: Paris 4 days itinerary
-description: " Passport Stories guide to Paris! Get ready to dive into
-  the  magic of the City of Light with a plan crafted from our own
-  experiences.  Here’s what’s inside"
-price: 999 INR
-buy_link: "#"
+description: Passport Stories guide to Paris! Get ready to dive into the  magic
+  of the City of Light with a plan crafted from our own experiences.  Here’s
+  what’s inside
+image: /uploads/images.jpg
 images:
   - /assets/images/gallery/dsc_3268.jpg
   - /assets/images/gallery/dsc_2331.jpg
+price: 999 INR
+buy_link: "#"
 category: Travel Planning
 featured: true
 tags:
@@ -27,7 +28,6 @@ date: 2024-01-15
 language: English
 rating: 4.8
 reviews: 127
-image: /assets/images/gallery/469618918_18341754349183757_2839900508855172395_n.jpg
 ---
 
 **Prep Tips:** Everything you need to know before you go—insurance,  currency, visas, SIM cards, and more.

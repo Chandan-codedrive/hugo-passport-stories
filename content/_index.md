@@ -67,20 +67,19 @@ services:
         Benefit from our Passport Stories travel tips, designed to help you
         create memories that last a lifetime.
   images:
-    main: /assets/images/hero/Gallery/Gallery/Europe/Austria/service-1.jpg
+    main: /uploads/images.jpg
     small:
-      - /assets/images/hero/Gallery/Gallery/Europe/Belgium/service-2.jpg
-      - /assets/images/hero/Gallery/Gallery/Europe/France/service-3.jpg
+      - /uploads/netherlands.jpg
+      - /uploads/images.jpg
       - /assets/images/hero/Gallery/Gallery/Europe/Hungary/service-4.jpg
   cta:
-    image: /assets/images/hero/Gallery/Gallery/Antarctica/service-cta.jpg
+    image: /uploads/images.jpg
     text: >
       If you love our travel style, our picks for stays, and want to explore the
       world like we do — but don’t have the time to plan your dream trip — we’re
       here to make it easy for you!
     button_text: Create Your Itinerary
     button_link: /custom-itinerary
-
 ---
 
 ## Explore Our Group Tours

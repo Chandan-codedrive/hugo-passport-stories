@@ -22,6 +22,10 @@ collections:
         file: "content/_index.md"
         fields:
 
+          - label: "Web site Title"
+            name: "title"
+            widget: "string"
+
           # HERO
           - label: "Hero"
             name: "hero"

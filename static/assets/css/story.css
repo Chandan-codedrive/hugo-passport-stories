@@ -41,6 +41,8 @@
     font-weight: 500;
     color: #333;
     margin-bottom: 20px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 /* Image Column */
@@ -110,6 +112,7 @@
     .story-section p {
         font-size: 1rem;
         line-height: 1.8;
+        text-align: left;
     }
 
     .story-images {

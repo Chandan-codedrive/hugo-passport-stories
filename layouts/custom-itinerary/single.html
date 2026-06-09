@@ -27,7 +27,8 @@
       <h4>₹{{ .Params.price }}</h4>
 
       <div class="content mt-3">
-        {{ .Content }}
+        <p>{{ .Params.short_description }}</p></p>
+       <p> {{ .Content }} </p>
       </div>
 
       <a href="{{ .Params.buy_link }}"

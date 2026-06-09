@@ -269,7 +269,7 @@ collections:
         name: "faq"
         widget: "markdown"
 
-      - label: "Fees & Terms"
+      - label: "Terms & Conditions"
         name: "fees"
         widget: "markdown" 
 

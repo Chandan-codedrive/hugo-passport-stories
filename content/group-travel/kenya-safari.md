@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: Kenya Safari Adventure
-image: /images/kenya.jpg
+image: /uploads/netherlands.jpg
 description: Experience the thrill of Kenya’s world-famous safari parks, witness
   the Big Five, and enjoy breathtaking landscapes, luxury lodges, and
   unforgettable wildlife encounters.

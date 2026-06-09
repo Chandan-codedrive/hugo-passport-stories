@@ -9,7 +9,7 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 
 logo:
-  src: https://passportstories.in/assets/images/hero/logo.jpg
+  src: https://passportstories.in/assets/images/gallery/p-logo.png
   show_in_header: true
 
 collections:
